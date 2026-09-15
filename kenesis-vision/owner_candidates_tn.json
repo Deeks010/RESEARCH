@@ -1,0 +1,592 @@
+[
+  {
+    "name": "Ammarun Foundries",
+    "city": "Coimbatore",
+    "region": "Tamil Nadu outside Chennai metro / industrial belt",
+    "sector": "Foundry",
+    "products": "Grey, ductile and compacted-graphite iron castings",
+    "factory_evidence": "Official Administration Office & Works: SF80/6A Rathinagiri Road, Vilankurichi 641035; factory runs three shifts.",
+    "leadership": "N. Visvanathan, CEO; V. Arunkumar, Partner",
+    "ownership_evidence": "Official profile explicitly says partnership constituted by N. Visvanathan and family members.",
+    "owner_evidence_grade": "strong",
+    "leadership_confidence": "Explicit ownership/partnership or family evidence; present role should be reconfirmed",
+    "email": "visvanathan@ammarun.com",
+    "email_type": "Published business contact; source basis specified below",
+    "phone": "+91 98422 86661",
+    "website": "https://www.ammarun.com/",
+    "sources": [
+      {
+        "url": "https://www.ammarun.com/",
+        "claim": "Read official family partnership and casting-process profile Accessed 2026-09-15."
+      },
+      {
+        "url": "https://www.ammarun.com/contactus.html",
+        "claim": "Read CEO/partner/COO names, works address and direct business contacts Accessed 2026-09-15."
+      }
+    ],
+    "fit_reason": "Manufacturing context supports discovery of restricted-zone and material-handling events around casting. No current problem or buying intent established.",
+    "discovery_topic": "Restricted-zone and material-handling events around casting",
+    "caveat": "Current CCTV, decision authority, budget and willingness to buy are unverified.",
+    "operational_contact": "COO C. Senthil Kumar: senthilkumar@ammarun.com; +91 98422 41510. Partner: arunkumar@ammarun.com.",
+    "decision_locality": "Proxy only: named business leadership and manufacturing/contact base are in Coimbatore. Purchasing authority and approval steps require confirmation.",
+    "adoption_signals": "Official profile describes exports to USA and European markets and green-sand moulding.",
+    "operational_usecase": "Candidate for validation, not an asserted need: Restricted-zone and material-handling events around casting"
+  },
+  {
+    "name": "Bright Castings / Bright Groups",
+    "city": "Coimbatore",
+    "region": "Tamil Nadu outside Chennai metro / industrial belt",
+    "sector": "Foundry",
+    "products": "Iron and precision machined castings",
+    "factory_evidence": "Official contact lists Peelamedu works and separate foundry sites at Kattampatti and Codissia Industrial Park, Mopperipalayam.",
+    "leadership": "S. Balraj, official business contact; brochure identifies Joint MD",
+    "ownership_evidence": "Government BEE participating-MSME table explicitly lists S. Balraj under owner.",
+    "owner_evidence_grade": "strong",
+    "leadership_confidence": "Explicit ownership/partnership or family evidence; present role should be reconfirmed",
+    "email": "balraj@brightcastings.in",
+    "email_type": "Published business contact; source basis specified below",
+    "phone": "+91 99444 13654",
+    "website": "https://www.brightcastings.in/",
+    "sources": [
+      {
+        "url": "https://www.brightcastings.in/contact-us/",
+        "claim": "Read indexed official group plants and direct contacts Accessed 2026-09-15."
+      },
+      {
+        "url": "https://www.brightcastings.in/wp-content/themes/brightcastings/pdf/Bright-Castings-Pvt-Ltd.pdf",
+        "claim": "Read indexed official brochure: foundry, Sinto equipment, Joint MD Accessed 2026-09-15."
+      },
+      {
+        "url": "https://sidhiee.beeindia.gov.in/AboutUs/participatingmsme",
+        "claim": "Read indexed government programme table naming owner; live request returned 502 Accessed 2026-09-15."
+      }
+    ],
+    "fit_reason": "Manufacturing context supports discovery of visible moulding-to-finishing transfers and exclusion-zone events. No current problem or buying intent established.",
+    "discovery_topic": "Visible moulding-to-finishing transfers and exclusion-zone events",
+    "caveat": "Count group once. Government owner record is undated; confirm entity and decision authority.",
+    "operational_contact": "Production at Mopperipalayam: bcpl.production@brightcastings.in.",
+    "decision_locality": "Proxy only: named business leadership and manufacturing/contact base are in Coimbatore. Purchasing authority and approval steps require confirmation.",
+    "adoption_signals": "Official brochure describes Sinto FBO III moulding technology and a newer foundry.",
+    "operational_usecase": "Candidate for validation, not an asserted need: Visible moulding-to-finishing transfers and exclusion-zone events"
+  },
+  {
+    "name": "Babu Engineering Foundry",
+    "city": "Coimbatore",
+    "region": "Tamil Nadu outside Chennai metro / industrial belt",
+    "sector": "Foundry",
+    "products": "Grey and SG iron castings; cast-iron cookware",
+    "factory_evidence": "Official in-house melting, moulding, fettling and testing at 287 Pappampatty Road, Kannampalayam 641402.",
+    "leadership": "Boopendra Babu, owner per government programme; late Ramachandiran, founder per company",
+    "ownership_evidence": "BEE lists Boopendra Babu in its owner column.",
+    "owner_evidence_grade": "strong",
+    "leadership_confidence": "Explicit ownership/partnership or family evidence; present role should be reconfirmed",
+    "email": "info@babuengg.com",
+    "email_type": "Published business contact; source basis specified below",
+    "phone": "+91 98947 02222; +91 99947 02223",
+    "website": "https://babuengg.com/",
+    "sources": [
+      {
+        "url": "https://babuengg.com/",
+        "claim": "Read official works, contacts, machinery and 2023/2024 investment timeline Accessed 2026-09-15."
+      },
+      {
+        "url": "https://sidhiee.beeindia.gov.in/AboutUs/participatingmsme",
+        "claim": "Indexed government table names owner Boopendra Babu Accessed 2026-09-15."
+      }
+    ],
+    "fit_reason": "Manufacturing context supports discovery of access and material-handling events around melting and fettling. No current problem or buying intent established.",
+    "discovery_topic": "Access and material-handling events around melting and fettling",
+    "caveat": "Owner table is undated. Deceased founder is not an outreach contact. Certification validity not independently audited.",
+    "operational_contact": "Use published contact to identify the plant manager; no other contact verified.",
+    "decision_locality": "Proxy only: named business leadership and manufacturing/contact base are in Coimbatore. Purchasing authority and approval steps require confirmation.",
+    "adoption_signals": "Company dates induction-furnace investment to 2023 and spectrometer/testing additions to 2024; ISO 9001 claim.",
+    "operational_usecase": "Candidate for validation, not an asserted need: Access and material-handling events around melting and fettling"
+  },
+  {
+    "name": "Nandhini Castings",
+    "city": "Coimbatore",
+    "region": "Tamil Nadu outside Chennai metro / industrial belt",
+    "sector": "Foundry",
+    "products": "Machine-moulded cast-iron components",
+    "factory_evidence": "Government list locates plant at SF299/2-B Nagamanaicken Palayam, Pattanam; business directory gives 7/208 in the same locality.",
+    "leadership": "V. Muthukrishnan, Partner",
+    "ownership_evidence": "BEE owner column names V. Muthukrishnan; Rovan Mart identifies partnership and partner.",
+    "owner_evidence_grade": "strong",
+    "leadership_confidence": "Explicit ownership/partnership or family evidence; present role should be reconfirmed",
+    "email": "nandhinicasting@gmail.com",
+    "email_type": "Published business contact; source basis specified below",
+    "phone": "+91 99651 99911",
+    "website": "",
+    "sources": [
+      {
+        "url": "https://sidhiee.beeindia.gov.in/AboutUs/participatingmsme",
+        "claim": "Indexed government table supplies named owner, email, phone and site Accessed 2026-09-15."
+      },
+      {
+        "url": "https://www.rovanmart.com/company/nandhini-castings/rv10000000676bv",
+        "claim": "Read secondary manufacturer/partnership listing Accessed 2026-09-15."
+      }
+    ],
+    "fit_reason": "Manufacturing context supports discovery of visible mould-handling events and restricted-area arrivals. No current problem or buying intent established.",
+    "discovery_topic": "Visible mould-handling events and restricted-area arrivals",
+    "caveat": "Reserve: no verified official company website; government record undated and address numbering differs. Confirm current operation/contact.",
+    "operational_contact": "Use published contact to identify the plant manager; no other contact verified.",
+    "decision_locality": "Proxy only: named business leadership and manufacturing/contact base are in Coimbatore. Purchasing authority and approval steps require confirmation.",
+    "adoption_signals": "Listed as participating MSME in government energy-efficiency programme; not proof of completed upgrade.",
+    "operational_usecase": "Candidate for validation, not an asserted need: Visible mould-handling events and restricted-area arrivals"
+  },
+  {
+    "name": "MG Knit Garments",
+    "city": "Tiruppur",
+    "region": "Tamil Nadu outside Chennai metro / industrial belt",
+    "sector": "Garments",
+    "products": "Knitted T-shirts, shorts, hoodies and sweatshirts",
+    "factory_evidence": "Official factory: 10/356B Bharathi Nagar, Ammapalayam 641652; office separately located nearby.",
+    "leadership": "P. Manimaran, Founder",
+    "ownership_evidence": "Official site names active founder; present ownership percentage not published.",
+    "owner_evidence_grade": "qualified",
+    "leadership_confidence": "Founder or secondary leadership evidence; current equity/control not verified",
+    "email": "manimaran@mgknitgarments.com",
+    "email_type": "Published business contact; source basis specified below",
+    "phone": "+91 99947 22296",
+    "website": "https://www.mgknitgarments.com/",
+    "sources": [
+      {
+        "url": "https://www.mgknitgarments.com/",
+        "claim": "Read official founder, separate office/factory, export description and contacts Accessed 2026-09-15."
+      }
+    ],
+    "fit_reason": "Manufacturing context supports discovery of bundle movement and visible packing/checking handovers. No current problem or buying intent established.",
+    "discovery_topic": "Bundle movement and visible packing/checking handovers",
+    "caveat": "Current CCTV, decision authority, budget and willingness to buy are unverified.",
+    "operational_contact": "General inbox: mgknitgarments@gmail.com.",
+    "decision_locality": "Proxy only: named business leadership and manufacturing/contact base are in Tiruppur. Purchasing authority and approval steps require confirmation.",
+    "adoption_signals": "Publishes knitwear manufacturing and export activity.",
+    "operational_usecase": "Candidate for validation, not an asserted need: Bundle movement and visible packing/checking handovers"
+  },
+  {
+    "name": "Koral International / Koral Knitting Mills",
+    "city": "Tiruppur",
+    "region": "Tamil Nadu outside Chennai metro / industrial belt",
+    "sector": "Garments",
+    "products": "Innerwear, casualwear, activewear and baby garments",
+    "factory_evidence": "Official page describes own manufacturing facilities; addresses at 7 and 15 Nethaji Nagar 6th Street, Karumarampalayam, Mannarai 641607.",
+    "leadership": "C. Viswanathan, Founder/Chairman; Anoop Viswanathan, CEO",
+    "ownership_evidence": "Founder still presented as Chairman. Shared surname is not used as proof of family ownership.",
+    "owner_evidence_grade": "qualified",
+    "leadership_confidence": "Founder or secondary leadership evidence; current equity/control not verified",
+    "email": "koral@koral.in",
+    "email_type": "Published business contact; source basis specified below",
+    "phone": "+91 73393 44544",
+    "website": "https://www.koral.in/",
+    "sources": [
+      {
+        "url": "https://www.koral.in/",
+        "claim": "Read indexed official founder, manufacturing facilities, ISO standards and contacts; direct page fetch timed out Accessed 2026-09-15."
+      }
+    ],
+    "fit_reason": "Manufacturing context supports discovery of sewing-to-inspection and packing handovers. No current problem or buying intent established.",
+    "discovery_topic": "Sewing-to-inspection and packing handovers",
+    "caveat": "Official index may be stale; confirm current leaders and exact plant before visit.",
+    "operational_contact": "Exports: exports@koral.in; +91 90470 10474.",
+    "decision_locality": "Proxy only: named business leadership and manufacturing/contact base are in Tiruppur. Purchasing authority and approval steps require confirmation.",
+    "adoption_signals": "Reports international OEM supply since 1989 and quality system following ISO 9001:2015.",
+    "operational_usecase": "Candidate for validation, not an asserted need: Sewing-to-inspection and packing handovers"
+  },
+  {
+    "name": "RBK Apparels",
+    "city": "Tiruppur",
+    "region": "Tamil Nadu outside Chennai metro / industrial belt",
+    "sector": "Garments",
+    "products": "Knitted and woven apparel",
+    "factory_evidence": "Official homepage identifies Unit 2 garment factory over 50,000 sq ft; Unit 1 administrative/sample facility.",
+    "leadership": "R. Bharath Kumar, Founder",
+    "ownership_evidence": "Official about page describes founder starting his own apparel firm and RBK as new business firm.",
+    "owner_evidence_grade": "qualified",
+    "leadership_confidence": "Founder or secondary leadership evidence; current equity/control not verified",
+    "email": "rbk@rbkapparels.com",
+    "email_type": "Published business contact; source basis specified below",
+    "phone": "+91 97919 05479",
+    "website": "https://www.rbkapparels.com/",
+    "sources": [
+      {
+        "url": "https://www.rbkapparels.com/about.php",
+        "claim": "Read indexed official founder and own-firm history Accessed 2026-09-15."
+      },
+      {
+        "url": "https://www.rbkapparels.com/",
+        "claim": "Read own-unit evidence and contacts Accessed 2026-09-15."
+      },
+      {
+        "url": "https://www.rbkapparels.com/factory.php",
+        "claim": "Read production stages and automatic thread trimming/dust collection Accessed 2026-09-15."
+      }
+    ],
+    "fit_reason": "Manufacturing context supports discovery of checking-to-ironing-to-packing sequence review. No current problem or buying intent established.",
+    "discovery_topic": "Checking-to-ironing-to-packing sequence review",
+    "caveat": "Knitting and dyeing are explicitly outsourced. Do not describe those as own factories. Machine-count differences across pages make precise scale uncertain.",
+    "operational_contact": "Use published contact to identify the plant manager; no other contact verified.",
+    "decision_locality": "Proxy only: named business leadership and manufacturing/contact base are in Tiruppur. Purchasing authority and approval steps require confirmation.",
+    "adoption_signals": "Own embroidery/cutting/stitching; machines with auto thread trimming and dust collection; apparel exports.",
+    "operational_usecase": "Candidate for validation, not an asserted need: Checking-to-ironing-to-packing sequence review"
+  },
+  {
+    "name": "Centwin Textile Mills Private Limited",
+    "city": "Vedasandur, Dindigul / Tiruppur office",
+    "region": "Tamil Nadu outside Chennai metro / industrial belt",
+    "sector": "Textile spinning",
+    "products": "Cotton and blended yarns and fabrics",
+    "factory_evidence": "Official Mills At: SF406 Karur Road, Vedasandur 624710; two units in same campus. Registered office in Arulpuram, Tiruppur.",
+    "leadership": "P. Kumaraswamy, MD; Dr. Chandra Kumaraswamy, Director",
+    "ownership_evidence": "Official history names three promoter brothers; since 2008 exclusive management by promoter Kumaraswamy and Chandra Kumaraswamy.",
+    "owner_evidence_grade": "strong",
+    "leadership_confidence": "Explicit ownership/partnership or family evidence; present role should be reconfirmed",
+    "email": "info@centwintextiles.com",
+    "email_type": "Published business contact; source basis specified below",
+    "phone": "+91 4551 260321; +91 4551 260323",
+    "website": "https://centwintextiles.com/",
+    "sources": [
+      {
+        "url": "https://centwintextiles.com/",
+        "claim": "Read official promoter history, distinct mills/office addresses, contacts and machinery Accessed 2026-09-15."
+      }
+    ],
+    "fit_reason": "Manufacturing context supports discovery of material movement and exception review around spinning-to-packing. No current problem or buying intent established.",
+    "discovery_topic": "Material movement and exception review around spinning-to-packing",
+    "caveat": "Factory is Dindigul, not Tiruppur. Promoter history is stronger than MD title but current shareholding not independently verified.",
+    "operational_contact": "Office: centwinmills@gmail.com; +91 421 2214535.",
+    "decision_locality": "Proxy only: named business leadership and manufacturing/contact base are in Vedasandur, Dindigul / Tiruppur office. Purchasing authority and approval steps require confirmation.",
+    "adoption_signals": "Imported autoconers, online yarn clearers/auto levellers, testing laboratory and wind-power investment described.",
+    "operational_usecase": "Candidate for validation, not an asserted need: Material movement and exception review around spinning-to-packing"
+  },
+  {
+    "name": "Sathyam Labels",
+    "city": "Tiruppur",
+    "region": "Tamil Nadu outside Chennai metro / industrial belt",
+    "sector": "Label printing and weaving",
+    "products": "Woven/printed labels and tapes",
+    "factory_evidence": "Official infrastructure describes label weaving, rotary printing and folding; contact 23/48 RVC Building, Mangalam Road, Alangadu 641604.",
+    "leadership": "N.K. Palanisamy, Founder",
+    "ownership_evidence": "Official site says first-generation entrepreneur still leading the firm; current equity not disclosed.",
+    "owner_evidence_grade": "qualified",
+    "leadership_confidence": "Founder or secondary leadership evidence; current equity/control not verified",
+    "email": "shri@sathyamlabels.com",
+    "email_type": "Published business contact; source basis specified below",
+    "phone": "+91 87541 45868; +91 98432 90868",
+    "website": "https://www.sathyamlabels.com/",
+    "sources": [
+      {
+        "url": "https://www.sathyamlabels.com/",
+        "claim": "Read official founder, certification claim and contacts Accessed 2026-09-15."
+      },
+      {
+        "url": "https://www.sathyamlabels.com/infrastructure",
+        "claim": "Read indexed official machine/process details Accessed 2026-09-15."
+      }
+    ],
+    "fit_reason": "Manufacturing context supports discovery of material transfer and finishing/packing checkpoint review. No current problem or buying intent established.",
+    "discovery_topic": "Material transfer and finishing/packing checkpoint review",
+    "caveat": "Tiny label details may be below CCTV resolution. Factory address is not separately distinguished from contact address.",
+    "operational_contact": "sathyamlabels@gmail.com also published.",
+    "decision_locality": "Proxy only: named business leadership and manufacturing/contact base are in Tiruppur. Purchasing authority and approval steps require confirmation.",
+    "adoption_signals": "Swiss Jacob Muller label machines, rotary printers and OEKO-TEX claim.",
+    "operational_usecase": "Candidate for validation, not an asserted need: Material transfer and finishing/packing checkpoint review"
+  },
+  {
+    "name": "Sri Amutham Apparel",
+    "city": "Tiruppur",
+    "region": "Tamil Nadu outside Chennai metro / industrial belt",
+    "sector": "Garments and printing",
+    "products": "Fashion knitwear for adults and children",
+    "factory_evidence": "Official profile describes manufacturing facility with automated printing; contact 527/2B-1 Palaniammal Nagar, Vijayapuram 641606.",
+    "leadership": "K.S. Sadhanandan, Founder and MD",
+    "ownership_evidence": "Official profile explicitly identifies founder as current MD; ownership percentage not published.",
+    "owner_evidence_grade": "qualified",
+    "leadership_confidence": "Founder or secondary leadership evidence; current equity/control not verified",
+    "email": "sadha@sriamutham.in",
+    "email_type": "Published business contact; source basis specified below",
+    "phone": "+91 98421 44685",
+    "website": "https://sriamutham.in/",
+    "sources": [
+      {
+        "url": "https://sriamutham.in/about-us.html",
+        "claim": "Read indexed official founder and physical manufacturing description Accessed 2026-09-15."
+      },
+      {
+        "url": "https://sriamutham.in/",
+        "claim": "Read official/indexed production, printing, packing and business contacts Accessed 2026-09-15."
+      }
+    ],
+    "fit_reason": "Manufacturing context supports discovery of production/printing-to-packing handovers. No current problem or buying intent established.",
+    "discovery_topic": "Production/printing-to-packing handovers",
+    "caveat": "Self-reported production capacity and certificates are not independently audited. No budget or IT buying authority verified.",
+    "operational_contact": "sriamuthamapparel@gmail.com also published.",
+    "decision_locality": "Proxy only: named business leadership and manufacturing/contact base are in Tiruppur. Purchasing authority and approval steps require confirmation.",
+    "adoption_signals": "Automated printing facilities and garment exports stated by company.",
+    "operational_usecase": "Candidate for validation, not an asserted need: Production/printing-to-packing handovers"
+  },
+  {
+    "name": "T-Form Garments / YOUKAY Fashion",
+    "city": "Tiruppur",
+    "region": "Tamil Nadu outside Chennai metro / industrial belt",
+    "sector": "Garments",
+    "products": "Women's leggings, pants, nightwear and innerwear",
+    "factory_evidence": "Official page explicitly describes own Tiruppur unit, in-house stitching, finishing and packaging.",
+    "leadership": "Mohamed Eliyas, Founder",
+    "ownership_evidence": "Official page explicitly says T-Form Garments is the proprietorship owning and operating YOUKAY.",
+    "owner_evidence_grade": "strong",
+    "leadership_confidence": "Explicit ownership/partnership or family evidence; present role should be reconfirmed",
+    "email": "support@youkayfashion.com",
+    "email_type": "Published business contact; source basis specified below",
+    "phone": "+91 421 4266109; +91 88381 02256",
+    "website": "https://youkayfashion.com/",
+    "sources": [
+      {
+        "url": "https://youkayfashion.com/about",
+        "claim": "Read official proprietorship, manufacturing, checking sequence, digital store and contacts Accessed 2026-09-15."
+      }
+    ],
+    "fit_reason": "Manufacturing context supports discovery of packing/dispatch sequence completeness. No current problem or buying intent established.",
+    "discovery_topic": "Packing/dispatch sequence completeness",
+    "caveat": "Exact street address/plant scale not verified. Support inbox may need routing to proprietor. Future capacity expansion is a plan, not an accomplished investment.",
+    "operational_contact": "Use published contact to identify the plant manager; no other contact verified.",
+    "decision_locality": "Proxy only: named business leadership and manufacturing/contact base are in Tiruppur. Purchasing authority and approval steps require confirmation.",
+    "adoption_signals": "Expanded from manufacturing setup to direct online retail; publishes multistage quality-check sequence.",
+    "operational_usecase": "Candidate for validation, not an asserted need: Packing/dispatch sequence completeness"
+  },
+  {
+    "name": "UKD Industries",
+    "city": "Coimbatore",
+    "region": "Tamil Nadu outside Chennai metro / industrial belt",
+    "sector": "Furniture",
+    "products": "Office, home and institutional furniture",
+    "factory_evidence": "Local industrial association describes manufacturer at 11 School Road, near Karupparayan Kovil, Chinnavedampatti 641049.",
+    "leadership": "D. Suresh Kumar, Founder and key contact",
+    "ownership_evidence": "Association member profile names founder as key contact; ownership/control not separately certified.",
+    "owner_evidence_grade": "qualified",
+    "leadership_confidence": "Founder or secondary leadership evidence; current equity/control not verified",
+    "email": "ukdindustries@gmail.com",
+    "email_type": "Published business contact; source basis specified below",
+    "phone": "+91 73737 65637",
+    "website": "",
+    "sources": [
+      {
+        "url": "https://cianext.com/cia_networks/ukd-industries/",
+        "claim": "Read local industrial association member profile: manufacturer, founder and contacts Accessed 2026-09-15."
+      }
+    ],
+    "fit_reason": "Manufacturing context supports discovery of assembly-to-finishing handovers. No current problem or buying intent established.",
+    "discovery_topic": "Assembly-to-finishing handovers",
+    "caveat": "Reserve: association evidence, no independently verified factory layout. Profile product photos include externally hosted stock/vendor images and are not treated as plant proof.",
+    "operational_contact": "Use published contact to identify the plant manager; no other contact verified.",
+    "decision_locality": "Proxy only: named business leadership and manufacturing/contact base are in Coimbatore. Purchasing authority and approval steps require confirmation.",
+    "adoption_signals": "Local industrial-association membership/profile; no automation or certification investment verified.",
+    "operational_usecase": "Candidate for validation, not an asserted need: Assembly-to-finishing handovers"
+  },
+  {
+    "name": "Anu Foods (Pappa Brand Appalam)",
+    "city": "Madurai",
+    "region": "Tamil Nadu outside Chennai metro / industrial belt",
+    "sector": "Food processing",
+    "products": "Appalam, spices, masala powders and flour products",
+    "factory_evidence": "Official site describes own production/export in Madurai; registered office at 3298 TNHB Colony, West Anuppanady 625009.",
+    "leadership": "V. Balasubramanian, Proprietor; sons Arun Bala and Arjun Bala",
+    "ownership_evidence": "Official history says proprietor took over parents' business and sons now drive initiatives.",
+    "owner_evidence_grade": "strong",
+    "leadership_confidence": "Explicit ownership/partnership or family evidence; present role should be reconfirmed",
+    "email": "bala@anufoods.in",
+    "email_type": "Published business contact; source basis specified below",
+    "phone": "+91 98944 57999",
+    "website": "https://www.anufoods.in/",
+    "sources": [
+      {
+        "url": "https://www.anufoods.in/about-us/",
+        "claim": "Read official proprietor, family succession and exports/certifications Accessed 2026-09-15."
+      },
+      {
+        "url": "https://www.anufoods.in/",
+        "claim": "Read products, Madurai address/phones; public HTML confirmed explicit email Accessed 2026-09-15."
+      }
+    ],
+    "fit_reason": "Manufacturing context supports discovery of visible food-handling and packing checkpoint review. No current problem or buying intent established.",
+    "discovery_topic": "Visible food-handling and packing checkpoint review",
+    "caveat": "Registered office is not separately proven factory gate. Confirm processing site; video alone cannot certify hygiene or contamination.",
+    "operational_contact": "Official HTML also publishes arunbala@anufoods.org and arjunbala@anufoods.org.",
+    "decision_locality": "Proxy only: named business leadership and manufacturing/contact base are in Madurai. Purchasing authority and approval steps require confirmation.",
+    "adoption_signals": "Reports exports across regions and ISO 22000/HACCP systems; has direct ecommerce.",
+    "operational_usecase": "Candidate for validation, not an asserted need: Visible food-handling and packing checkpoint review"
+  },
+  {
+    "name": "Ana Foods",
+    "city": "Salem",
+    "region": "Tamil Nadu outside Chennai metro / industrial belt",
+    "sector": "Food processing and packing",
+    "products": "Traditional foods and farm produce",
+    "factory_evidence": "Official founders' story states company sources, processes and packs foods in Salem; contact locality Suramangalam 636005.",
+    "leadership": "Prabhakaran and Dhivya, Founders",
+    "ownership_evidence": "Official founders describe their own farmer-linked venture; current legal ownership not published.",
+    "owner_evidence_grade": "qualified",
+    "leadership_confidence": "Founder or secondary leadership evidence; current equity/control not verified",
+    "email": "info@anafoods.in",
+    "email_type": "Published business contact; source basis specified below",
+    "phone": "+91 93631 86818",
+    "website": "https://anafoods.in/",
+    "sources": [
+      {
+        "url": "https://anafoods.in/pages/about-us",
+        "claim": "Read official founder background, processing/packing statement and contacts Accessed 2026-09-15."
+      }
+    ],
+    "fit_reason": "Manufacturing context supports discovery of packing-stage process observation. No current problem or buying intent established.",
+    "discovery_topic": "Packing-stage process observation",
+    "caveat": "Reserve: may be a small food-processing business. Dedicated factory size/street address unverified. Farming-family origin alone is not proof of factory ownership.",
+    "operational_contact": "Use published contact to identify the plant manager; no other contact verified.",
+    "decision_locality": "Proxy only: named business leadership and manufacturing/contact base are in Salem. Purchasing authority and approval steps require confirmation.",
+    "adoption_signals": "Direct ecommerce and value-added produce processing; no industrial automation verified.",
+    "operational_usecase": "Candidate for validation, not an asserted need: Packing-stage process observation"
+  },
+  {
+    "name": "Janaki Packaging Private Limited",
+    "city": "Sivakasi",
+    "region": "Tamil Nadu outside Chennai metro / industrial belt",
+    "sector": "Metal packaging",
+    "products": "Metal containers for paints and food products",
+    "factory_evidence": "Official profile explicitly says metal-container factory in Sivakasi. Local directory lists K3/K4 Cooperative Industrial Estate, Reserve Line.",
+    "leadership": "R. Ayyanadarkarthik, Director per local business directory",
+    "ownership_evidence": "Official company profile explicitly says family owned; linkage of named director to owner family not separately proven.",
+    "owner_evidence_grade": "strong",
+    "leadership_confidence": "Explicit ownership/partnership or family evidence; present role should be reconfirmed",
+    "email": "japack@dataone.in",
+    "email_type": "Published business contact; source basis specified below",
+    "phone": "+91 4562 220193",
+    "website": "https://janakipackaging.com/",
+    "sources": [
+      {
+        "url": "https://janakipackaging.com/aboutus.php",
+        "claim": "Read indexed official family-owned status, factory and products Accessed 2026-09-15."
+      },
+      {
+        "url": "https://www.rovanmart.com/company/janaki-packaging-private-limited/rv10000000532bv",
+        "claim": "Read local business directory named director/phone Accessed 2026-09-15."
+      },
+      {
+        "url": "https://cleartax.in/f/company/janaki-packaging-private-limited/U27209TN1994PTC029470/",
+        "claim": "Read public corporate-email listing Accessed 2026-09-15."
+      },
+      {
+        "url": "https://www.sivakasionline.com/suppliers/packaging",
+        "claim": "Read indexed industrial-estate factory listing Accessed 2026-09-15."
+      }
+    ],
+    "fit_reason": "Manufacturing context supports discovery of container production-to-packing material flow. No current problem or buying intent established.",
+    "discovery_topic": "Container production-to-packing material flow",
+    "caveat": "Reserve: legacy email only verified in secondary public records; official contact fetch failed. Confirm deliverability/current operations by phone. Printing subsidiary is not a separate prospect.",
+    "operational_contact": "Use published contact to identify the plant manager; no other contact verified.",
+    "decision_locality": "Proxy only: named business leadership and manufacturing/contact base are in Sivakasi. Purchasing authority and approval steps require confirmation.",
+    "adoption_signals": "Official profile describes printing subsidiary; no recent technology upgrade verified.",
+    "operational_usecase": "Candidate for validation, not an asserted need: Container production-to-packing material flow"
+  },
+  {
+    "name": "Aasic Plastic",
+    "city": "Tiruchirappalli",
+    "region": "Tamil Nadu outside Chennai metro",
+    "sector": "Plastic injection/blow moulding and packaging",
+    "products": "HDPE bottles, containers, caps and plastic engineering components",
+    "factory_evidence": "Official contact-page index explicitly labels factory at 91/2 N.M. Street, Palakarai, Trichy 620001, distinct from office at Thennur.",
+    "leadership": "B. Sidhic, Proprietor; S. Mohamed Asik, Marketing Head",
+    "leadership_confidence": "High for published roles; evidence is indexed official page, live page requires JavaScript",
+    "email": "aasicplastic@gmail.com",
+    "email_type": "Official general quotation/business inbox",
+    "phone": "+91 98424 03903 (proprietor); +91 91235 13678 (marketing)",
+    "website": "https://www.aasicplastic.com/",
+    "sources": [
+      {
+        "url": "https://www.aasicplastic.com/Contact",
+        "claim": "Read indexed official page: separate factory/office, proprietor, marketing head and contacts; accessed 2026-09-15. Live browser extraction returns JavaScript shell."
+      },
+      {
+        "url": "https://blog.aasicplastic.com/dates-container-manufacturer-in-india",
+        "claim": "Official blog corroborates business email, marketing phone and Palakarai factory."
+      }
+    ],
+    "fit_reason": "Strong reachable candidate: proprietor named and factory separated from office.",
+    "discovery_topic": "A single visible container-handling or packaging check; handling of changeovers and legitimate station absence.",
+    "caveat": "No production scale, CCTV quality, buying intent or present operational problem verified. Reused from earlier prospect set; one of three permitted carryovers.",
+    "ownership_evidence": "Official contact names B. Sidhic as proprietor.",
+    "owner_evidence_grade": "strong",
+    "operational_contact": "Use published unit/general inbox to identify current operational buyer.",
+    "decision_locality": "Proxy only: Proprietor phone and Trichy factory are published together.",
+    "adoption_signals": "Official page describes injection and blow moulding plus custom plastic engineering components.",
+    "operational_usecase": "Candidate for validation: A single visible container-handling or packaging check; handling of changeovers and legitimate station absence."
+  },
+  {
+    "name": "Best Heat Treatment Services",
+    "city": "Coimbatore",
+    "region": "Tamil Nadu outside Chennai metro",
+    "sector": "Commercial heat treatment",
+    "products": "Carburising, hardening, annealing, nitriding and induction treatment of metal components",
+    "factory_evidence": "Official units page identifies induction-hardening Unit II at 43 Private Industrial Estate and sealed-quench Unit III at Bodipalayam, Coimbatore. Main address: 53 SIDCO Industrial Estate, Coimbatore 641021.",
+    "leadership": "R. Nagarajan, Founder",
+    "leadership_confidence": "High for founder identity on official site; present purchase authority unknown",
+    "email": "sqf@bestheattreatment.com",
+    "email_type": "Official sealed-quench-furnace unit inbox",
+    "phone": "+91 99449 64865; central +91 422 4205661",
+    "website": "https://www.bestheattreatment.com/",
+    "sources": [
+      {
+        "url": "https://www.bestheattreatment.com/units/",
+        "claim": "Official indexed units page: named process plants, unit email and phone. Accessed 2026-09-15."
+      },
+      {
+        "url": "https://www.bestheattreatment.com/about-us/",
+        "claim": "Read official company page: founder R. Nagarajan and heat-treatment processes."
+      }
+    ],
+    "fit_reason": "Strong process-factory candidate with multiple physical treatment units and a published unit-level contact.",
+    "discovery_topic": "Furnace access zones and visible loading/unloading sequence; where camera evidence could support existing process records.",
+    "caveat": "No verified unmet need. CCTV cannot establish internal furnace temperature or metallurgical quality. San Precision Alloys is a related group prospect and is not counted separately. Reused from earlier prospect set; one of three permitted carryovers.",
+    "ownership_evidence": "Official company page names R. Nagarajan as founder; current ownership fraction is not disclosed.",
+    "owner_evidence_grade": "qualified",
+    "operational_contact": "Use published unit/general inbox to identify current operational buyer.",
+    "decision_locality": "Proxy only: Founder-led Coimbatore group has multiple local units and unit-specific inboxes.",
+    "adoption_signals": "Official profile reports customer CQI9 audits, calibrated furnaces and metallurgical laboratory.",
+    "operational_usecase": "Candidate for validation: Furnace access zones and visible loading/unloading sequence; where camera evidence could support existing process records."
+  },
+  {
+    "name": "Sakthi Heat Treatment Industry",
+    "city": "Coimbatore / Dindigul",
+    "region": "Tamil Nadu outside Chennai metro",
+    "sector": "Commercial heat treatment",
+    "products": "Gas and liquid carburising, annealing, tempering and nitriding",
+    "factory_evidence": "Official site describes furnaces and a metallurgical laboratory in Ganapathy, Coimbatore. Contact page lists 6/115-A P.N. Palayam Road and a second location at D. Gudalur, Vedasandur, Dindigul.",
+    "leadership": "K. Andamuthu, Partner",
+    "leadership_confidence": "Medium: official about page names partner but text and certification references are dated",
+    "email": "info@sakthiheattreatment.com",
+    "email_type": "Official general business inbox",
+    "operational_contact": "senthil@sakthiheattreatment.com is also published; role not stated",
+    "phone": "+91 422 2532600; +91 94437 12572",
+    "website": "https://sakthiheattreatment.com/",
+    "sources": [
+      {
+        "url": "https://sakthiheattreatment.com/",
+        "claim": "Read official process and furnace/laboratory description."
+      },
+      {
+        "url": "https://sakthiheattreatment.com/about-us.html",
+        "claim": "Read official page naming K. Andamuthu as partner."
+      },
+      {
+        "url": "https://sakthiheattreatment.com/contact-us.html",
+        "claim": "Official indexed contact page provides locations, emails and phones; accessed 2026-09-15."
+      }
+    ],
+    "fit_reason": "Direct heat-processing end user with partner-level leadership evidence.",
+    "discovery_topic": "Restricted furnace access and visible handling checkpoints during shift handover.",
+    "caveat": "Website appears old. Confirm contact and active site before prioritizing. No actual safety or process failure is alleged. Reused from earlier prospect set; one of three permitted carryovers.",
+    "ownership_evidence": "Official about page names K. Andamuthu as a partner.",
+    "owner_evidence_grade": "strong",
+    "decision_locality": "Proxy only: Named partner and Coimbatore/Dindigul process sites are published; authority to buy is unverified.",
+    "adoption_signals": "Official site describes furnace monitoring, metallurgical lab and historical ISO certification.",
+    "operational_usecase": "Candidate for validation: Restricted furnace access and visible handling checkpoints during shift handover."
+  }
+]

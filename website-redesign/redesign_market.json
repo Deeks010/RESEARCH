@@ -1,0 +1,27 @@
+{
+  "checked_date": "2026-09-15",
+  "recommendation": "Test a focused website improvement service for owner-run visitor farms: farm visits, school trips, seasonal events and direct sales. Start with one booking or visit-planning page.",
+  "verdict": "Plausible service niche, not validated demand for this seller. No evidence established that a broad US rebranding trend guarantees customers.",
+  "geography": "Pennsylvania, North Carolina and Ohio are a first research sample with comparable visitor-farm offers and accessible local business sources. They are not ranked as America's highest-spending states. County is recorded for local grouping. Evaluate the business and issue before the state.",
+  "scope": "30 businesses screened where possible. Keep weak or well-served sites as reserves rather than manufacture a redesign need. This project is separate from Kenesis Vision.",
+  "evidence": [
+    {"claim": "US agritourism generated $1.26 billion in 2022, 12.4% above 2017 in inflation-adjusted terms. Revenue occurred in about 57% of counties. This supports an existing customer-facing market, not website agency demand or individual budgets.", "url": "https://www.ers.usda.gov/data-products/charts-of-note/110552", "type": "USDA, 2022 census data; published December 2024"},
+    {"claim": "The 2022 census reported 116,617 farms with $3.3 billion in direct-to-consumer sales. Direct sales and agritourism are different categories and should not be treated as identical buyers.", "url": "https://www.nass.usda.gov/Newsroom/2024/02-13-2024.php", "type": "USDA census release"},
+    {"claim": "Penn State recommends keeping current business information and prices on farm websites. Its agritourism pricing guidance cites an older survey with low profits and cash-flow constraints. That is a reason to qualify budgets, not assign that historical survey result to current prospects.", "url": "https://extension.psu.edu/pricing-agritourism-events-and-experiences", "type": "Extension guidance; indexed text reviewed, live access failed"},
+    {"claim": "Current hours, pricing, directions and an understandable next step are sensible review criteria for a visitor-facing farm site.", "url": "https://extension.psu.edu/marketing-your-agritourism-business", "type": "Extension guidance; indexed text reviewed, live access failed"}
+  ],
+  "competition": [
+    {"name": "Cannone Marketing", "offer": "$199 setup + $49/month advertised; includes hosting/support and offers a free homepage mockup.", "first_year_calculation": "$199 + 12 × $49 = $787 before any additional charges/tax; illustration, not a quote.", "meaning": "The friend's exact free-preview sales approach is already used. A generic attractive homepage alone is weak differentiation.", "url": "https://cannonemarketing.com/web-design-for-family-farms"},
+    {"name": "Small Farm Nation", "offer": "Custom website: $549 setup + $45/month. Website with store: $699 setup + $55/month, as advertised on its current homepage.", "first_year_calculation": "Website $1,089; store $1,359 for setup + twelve monthly payments. Scope and ongoing hosting terms require checking.", "meaning": "Specialist competition already combines design with maintenance. Compare full scope, not only initial design price.", "url": "https://smallfarmnation.com/"}
+  ],
+  "qualification": [
+    "Confirm business is operating and receives meaningful inquiries or visits.",
+    "Document a specific customer task and the exact page evidence. Do not equate phone booking with a broken website.",
+    "Ask whether the issue creates repeated questions, incomplete inquiries or lost bookings. Only the owner/analytics can establish actual impact.",
+    "Confirm website control, existing agency/platform contract, decision-maker, budget and timing.",
+    "Offer one bounded improvement and a paid scope. Current owners must confirm opening times, prices and capacity before any implementation."
+  ],
+  "test_plan": "Start with five high-evidence prospects. Prepare a brief annotated concept for one customer task per business, with a strict time cap. Ask for a discussion before building a full replacement. If the first ten well-matched contacts yield no relevant problem conversations, revise the segment or offer before making more free designs. This is an experimental rule, not an expected response rate.",
+  "economics": "Illustration only: 10 prospects × 45 minutes research/concept = 7.5 hours. One $750 project requiring another 12 hours yields $750 / 19.5 = about $38.46 per hour before costs, support, tax and uncounted sales time. Zero sales yields zero revenue. These are chosen planning assumptions, not observed conversion or pricing data.",
+  "limitations": "No visual browser surface was available. Reviews use public page text and links only; no desktop/mobile appearance, speed, accessibility, search ranking, form delivery or checkout completion is claimed tested. A fetch failure is not proof that customers see a broken site. Emails are public business contacts; guessed, masked and private addresses are excluded. No company has confirmed willingness to buy. No outreach or website redesign was performed."
+}

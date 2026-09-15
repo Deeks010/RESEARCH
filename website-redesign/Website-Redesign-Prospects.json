@@ -1,0 +1,1355 @@
+{
+  "market": {
+    "checked_date": "2026-09-15",
+    "recommendation": "Test a focused website improvement service for owner-run visitor farms: farm visits, school trips, seasonal events and direct sales. Start with one booking or visit-planning page.",
+    "verdict": "Plausible service niche, not validated demand for this seller. No evidence established that a broad US rebranding trend guarantees customers.",
+    "geography": "Pennsylvania, North Carolina and Ohio are a first research sample with comparable visitor-farm offers and accessible local business sources. They are not ranked as America's highest-spending states. County is recorded for local grouping. Evaluate the business and issue before the state.",
+    "scope": "30 businesses screened where possible. Keep weak or well-served sites as reserves rather than manufacture a redesign need. This project is separate from Kenesis Vision.",
+    "evidence": [
+      {
+        "claim": "US agritourism generated $1.26 billion in 2022, 12.4% above 2017 in inflation-adjusted terms. Revenue occurred in about 57% of counties. This supports an existing customer-facing market, not website agency demand or individual budgets.",
+        "url": "https://www.ers.usda.gov/data-products/charts-of-note/110552",
+        "type": "USDA, 2022 census data; published December 2024"
+      },
+      {
+        "claim": "The 2022 census reported 116,617 farms with $3.3 billion in direct-to-consumer sales. Direct sales and agritourism are different categories and should not be treated as identical buyers.",
+        "url": "https://www.nass.usda.gov/Newsroom/2024/02-13-2024.php",
+        "type": "USDA census release"
+      },
+      {
+        "claim": "Penn State recommends keeping current business information and prices on farm websites. Its agritourism pricing guidance cites an older survey with low profits and cash-flow constraints. That is a reason to qualify budgets, not assign that historical survey result to current prospects.",
+        "url": "https://extension.psu.edu/pricing-agritourism-events-and-experiences",
+        "type": "Extension guidance; indexed text reviewed, live access failed"
+      },
+      {
+        "claim": "Current hours, pricing, directions and an understandable next step are sensible review criteria for a visitor-facing farm site.",
+        "url": "https://extension.psu.edu/marketing-your-agritourism-business",
+        "type": "Extension guidance; indexed text reviewed, live access failed"
+      }
+    ],
+    "competition": [
+      {
+        "name": "Cannone Marketing",
+        "offer": "$199 setup + $49/month advertised; includes hosting/support and offers a free homepage mockup.",
+        "first_year_calculation": "$199 + 12 × $49 = $787 before any additional charges/tax; illustration, not a quote.",
+        "meaning": "The friend's exact free-preview sales approach is already used. A generic attractive homepage alone is weak differentiation.",
+        "url": "https://cannonemarketing.com/web-design-for-family-farms"
+      },
+      {
+        "name": "Small Farm Nation",
+        "offer": "Custom website: $549 setup + $45/month. Website with store: $699 setup + $55/month, as advertised on its current homepage.",
+        "first_year_calculation": "Website $1,089; store $1,359 for setup + twelve monthly payments. Scope and ongoing hosting terms require checking.",
+        "meaning": "Specialist competition already combines design with maintenance. Compare full scope, not only initial design price.",
+        "url": "https://smallfarmnation.com/"
+      }
+    ],
+    "qualification": [
+      "Confirm business is operating and receives meaningful inquiries or visits.",
+      "Document a specific customer task and the exact page evidence. Do not equate phone booking with a broken website.",
+      "Ask whether the issue creates repeated questions, incomplete inquiries or lost bookings. Only the owner/analytics can establish actual impact.",
+      "Confirm website control, existing agency/platform contract, decision-maker, budget and timing.",
+      "Offer one bounded improvement and a paid scope. Current owners must confirm opening times, prices and capacity before any implementation."
+    ],
+    "test_plan": "Start with five high-evidence prospects. Prepare a brief annotated concept for one customer task per business, with a strict time cap. Ask for a discussion before building a full replacement. If the first ten well-matched contacts yield no relevant problem conversations, revise the segment or offer before making more free designs. This is an experimental rule, not an expected response rate.",
+    "economics": "Illustration only: 10 prospects × 45 minutes research/concept = 7.5 hours. One $750 project requiring another 12 hours yields $750 / 19.5 = about $38.46 per hour before costs, support, tax and uncounted sales time. Zero sales yields zero revenue. These are chosen planning assumptions, not observed conversion or pricing data.",
+    "limitations": "No visual browser surface was available. Reviews use public page text and links only; no desktop/mobile appearance, speed, accessibility, search ranking, form delivery or checkout completion is claimed tested. A fetch failure is not proof that customers see a broken site. Emails are public business contacts; guessed, masked and private addresses are excluded. No company has confirmed willingness to buy. No outreach or website redesign was performed."
+  },
+  "counts": {
+    "priority": 5,
+    "conditional": 12,
+    "reserve": 13
+  },
+  "states": {
+    "North Carolina": 10,
+    "Pennsylvania": 10,
+    "Ohio": 10
+  },
+  "contact_types": {
+    "general": 18,
+    "direct owner": 9,
+    "uncertain": 3
+  },
+  "companies": [
+    {
+      "name": "Bee Happy Farm",
+      "county": "Granville",
+      "website": "https://beehappyfarmcreedmoor.com/",
+      "owner": "Dean Richards",
+      "owner_evidence": "Official About page explicitly names owner/operator and says he personally handles the listed phone.",
+      "email": "beehappy3102@gmail.com",
+      "email_type": "general",
+      "phone": "919-452-8167",
+      "offers": "Honey, u-pick fruit, vegetables, seedlings, tours and children's events.",
+      "active_evidence": "Official site publishes 2026 honey prices. Farm products and visit information are live.",
+      "website_issue": "Visit page lists both 8am–6pm and 24/7 self-service without explaining which activities apply. Vermont location text repeats the Creedmoor description.",
+      "issue_url": "https://beehappyfarmcreedmoor.com/visit",
+      "issue_evidence": "NC hours contain both schedules. A Strafford, Vermont address is paired with text inviting a Creedmoor visit.",
+      "proposed_fix": "Separate staffed visits, picking and self-service hours. Give each location its own accurate visit instructions and seasonal status.",
+      "buyer_fit": "Hands-on owner and direct-to-public visits make a small visit-page improvement plausible.",
+      "caveat": "Website credits an existing designer. Needs may be handled by that provider. Email is business-wide, not a verified personal inbox.",
+      "selection_status": "priority",
+      "sources": [
+        {
+          "url": "https://beehappyfarmcreedmoor.com/about",
+          "claim": "Owner, phone association, public business email and 2026 pricing."
+        },
+        {
+          "url": "https://beehappyfarmcreedmoor.com/visit",
+          "claim": "Location and hours ambiguity."
+        },
+        {
+          "url": "https://www.thegranvillegardeners.org/wp-content/uploads/2024/08/GGG_8_2024_Final.pdf",
+          "claim": "Local organization identifies Dean and Creedmoor farm location."
+        }
+      ],
+      "state": "North Carolina",
+      "review_method": "Public page text and links. No visual, mobile or performance test.",
+      "accessed": "2026-09-15",
+      "rank": 1,
+      "mail_domain_check": "MX mail-routing records found"
+    },
+    {
+      "name": "Henry River Farms",
+      "county": "Burke",
+      "website": "https://www.henryriverfarms.com/",
+      "owner": "Tyler and Mandy Nix",
+      "owner_evidence": "Official About Us names both owners. Tyler's named email appears on that page.",
+      "email": "tyler@henryriverfarms.com",
+      "email_type": "direct owner",
+      "phone": "828-201-8649",
+      "offers": "Pumpkin patch, farm activities, farm shop, pork, eggs and events.",
+      "active_evidence": "Live farm shop lists pork for sale. County tourism lists the Nix family business. Pumpkin page publishes seasonal hours; year is not stated.",
+      "website_issue": "The main Events page still promotes a May 17, 2025 conference without marking it as past.",
+      "issue_url": "https://www.henryriverfarms.com/events-2",
+      "issue_evidence": "Page gives the 2025 date and invites attendance. It is still reached through the main Events navigation.",
+      "proposed_fix": "Separate upcoming events from an archive. Add year-specific season dates and a next-event enquiry route.",
+      "buyer_fit": "Owner directly reachable; admissions, retail and events make visit clarity relevant. Potential small content-and-booking project.",
+      "caveat": "Not evidence of lost sales or a full redesign need. Shop exists already. Current season and budget need confirmation.",
+      "selection_status": "priority",
+      "sources": [
+        {
+          "url": "https://www.henryriverfarms.com/about-us",
+          "claim": "Owners and direct named email."
+        },
+        {
+          "url": "https://www.henryriverfarms.com/events-2",
+          "claim": "2025 event remains promoted on main event page."
+        },
+        {
+          "url": "https://www.henryriverfarms.com/shop-products",
+          "claim": "Current reachable retail offer."
+        },
+        {
+          "url": "https://www.discoverburkecounty.com/all-attractions/henry-river-farms/",
+          "claim": "County tourism and family operation."
+        }
+      ],
+      "state": "North Carolina",
+      "review_method": "Public page text and links. No visual, mobile or performance test.",
+      "accessed": "2026-09-15",
+      "rank": 2,
+      "mail_domain_check": "MX mail-routing records found"
+    },
+    {
+      "name": "Bendy Brook Farm",
+      "county": "Berks",
+      "website": "https://www.bendybrookfarm.com/",
+      "owner": "Nevin Mast",
+      "owner_evidence": "Official site describes Mast family farming and names Nevin as primary contact; LocalHarvest explicitly identifies him as owner.",
+      "email": "nevin@bendybrookfarm.com",
+      "email_type": "direct owner",
+      "phone": "610-698-1086",
+      "offers": "Pastured meat and eggs, bulk beef, holiday turkeys, farm pickup and home delivery.",
+      "active_evidence": "Live official pages offer ordering and delivery. LocalHarvest listing updated February 1, 2026. Checkout and current fulfilment not tested.",
+      "website_issue": "Legacy Products page still points customers to a price list labelled 2016.",
+      "issue_url": "https://www.bendybrookfarm.com/products/",
+      "issue_evidence": "Official indexed Products page links Market Price List 2016. The current Online Store separately handles deposits/gift certificates and directs other products to an order form.",
+      "proposed_fix": "Retire or redirect the legacy price page and make one clear product-to-pickup/delivery enquiry path. Preserve manual confirmation where variable meat weights require it.",
+      "buyer_fit": "Repeat local deliveries and bulk meat orders create identifiable customer tasks. Direct owner access; capacity and budget remain unknown.",
+      "caveat": "Legacy page may receive little traffic. The separate order form requires JavaScript in text extraction; this is not evidence it is broken. Confirm navigation and actual customer confusion before proposing wider work.",
+      "selection_status": "priority",
+      "rank_rationale": "Concrete old price-page evidence and reachable owner. Start with content cleanup and ordering clarity.",
+      "sources": [
+        {
+          "url": "https://www.bendybrookfarm.com/contact-us/",
+          "claim": "Nevin and his published email/phone.",
+          "accessed": "2026-09-15"
+        },
+        {
+          "url": "https://www.localharvest.org/bendy-brook-farm-M40067",
+          "claim": "Explicit ownership and February 2026 listing update.",
+          "accessed": "2026-09-15"
+        },
+        {
+          "url": "https://www.bendybrookfarm.com/products/",
+          "claim": "2016 price-list label on legacy Products page.",
+          "accessed": "2026-09-15"
+        },
+        {
+          "url": "https://www.bendybrookfarm.com/online-store/",
+          "claim": "Shop limited to certain products; other products directed to order form.",
+          "accessed": "2026-09-15"
+        },
+        {
+          "url": "https://www.bendybrookfarm.com/southeast-pa-home-delivery/",
+          "claim": "Fortnightly delivery and manual confirmation.",
+          "accessed": "2026-09-15"
+        },
+        {
+          "url": "https://bountifulberks.org/food/where-to-buy-local-meat-for-end-of-summer-picnics/",
+          "claim": "Berks-area direct-sales farm coverage.",
+          "accessed": "2026-09-15"
+        }
+      ],
+      "state": "Pennsylvania",
+      "review_method": "Public page text and links. No visual, mobile or performance test.",
+      "accessed": "2026-09-15",
+      "rank": 3,
+      "mail_domain_check": "MX mail-routing records found"
+    },
+    {
+      "name": "Blue Barn Farm",
+      "county": "Blair",
+      "website": "https://www.bluebarnfarmpa.com/",
+      "owner": "Tim and Karen Wilson",
+      "owner_evidence": "Official About and Contact pages explicitly identify both as owners.",
+      "email": "bluebarnfarmpa@gmail.com",
+      "email_type": "general",
+      "phone": "240-357-4087",
+      "offers": "Pick-your-own berries; self-service farm market; farmers-market produce.",
+      "active_evidence": "Indexed official updates include a recent Labor Day farm-market promotion. The market page publishes April–November opening and daily hours. No direct trading confirmation.",
+      "website_issue": "The dedicated picking update begins with a 2024 season announcement.",
+      "issue_url": "https://www.bluebarnfarmpa.com/keep-up-with-blue-barn-farm/",
+      "issue_evidence": "The indexed official text explicitly introduces the 2024 growing season, while the same page includes more recent embedded farm-market posts. Picking days require a call or Facebook check.",
+      "proposed_fix": "Replace the old season introduction with an owner-editable, date-stamped picking-status panel; show crops, picking hours and prices together.",
+      "buyer_fit": "Owner-run visitor business with several sales channels. A repeatable seasonal update service fits better than a speculative full rebrand.",
+      "caveat": "Live fetches timed out; evidence is indexed official text. This is not evidence the site is down. Contact page also lists 814-201-6134 while footer lists 240-357-4087; ask which is preferred. Budget and traffic unknown.",
+      "selection_status": "priority",
+      "rank_rationale": "Specific dated content plus clear visitor decision and public contact; confirm current page in browser before outreach.",
+      "sources": [
+        {
+          "url": "https://www.bluebarnfarmpa.com/about-us/",
+          "claim": "Named ownership, farm acreage and direct-sales model.",
+          "accessed": "2026-09-15"
+        },
+        {
+          "url": "https://www.bluebarnfarmpa.com/contact-us/",
+          "claim": "Published business email; owners; conflicting phone placements.",
+          "accessed": "2026-09-15"
+        },
+        {
+          "url": "https://www.bluebarnfarmpa.com/keep-up-with-blue-barn-farm/",
+          "claim": "2024 picking introduction and more recent embedded market promotion.",
+          "accessed": "2026-09-15"
+        },
+        {
+          "url": "https://www.bluebarnfarmpa.com/markets/",
+          "claim": "Self-service and local-market sales; seasonal hours.",
+          "accessed": "2026-09-15"
+        }
+      ],
+      "state": "Pennsylvania",
+      "review_method": "Public page text and links. No visual, mobile or performance test.",
+      "accessed": "2026-09-15",
+      "rank": 4,
+      "mail_domain_check": "MX mail-routing records found"
+    },
+    {
+      "name": "One Two Tree Farm",
+      "county": "Wayne",
+      "website": "https://www.onetwotreefarm.com/",
+      "owner": "Dan Barna",
+      "owner_evidence": "Official home and contact pages explicitly identify Dan as owner.",
+      "email": "dbarna06@gmail.com",
+      "email_type": "direct owner",
+      "phone": "570-647-6789",
+      "offers": "Wholesale trees and shrubs for landscape professionals; nursery visits.",
+      "active_evidence": "Official availability page is labelled Fall 2025–Spring 2026 and includes summer digging by telephone. Recent operating season documented; no Fall 2026 trading confirmation.",
+      "website_issue": "Availability page still names the previous Fall 2025–Spring 2026 season.",
+      "issue_url": "https://www.onetwotreefarm.com/availability",
+      "issue_evidence": "The page lists plant varieties and sizes under that season heading. Contact page asks customers to request a price list.",
+      "proposed_fix": "Build a dated availability catalogue with species/size filters and a quote request carrying the selected plants and quantities; retain private wholesale pricing if desired.",
+      "buyer_fit": "Family nursery advertises 77 acres and over 85 varieties. Wholesale enquiries can have material order value, but actual sales and website share are unknown.",
+      "caveat": "Wholesale nursery, not agritourism. Private prices may be intentional. Do not promise online stock accuracy without an update process.",
+      "selection_status": "priority",
+      "rank_rationale": "Named owner email and a specific season-update problem; nursery catalogue offers a narrow paid scope.",
+      "sources": [
+        {
+          "url": "https://www.onetwotreefarm.com/",
+          "claim": "Family business, owner, nursery acreage and product range.",
+          "accessed": "2026-09-15"
+        },
+        {
+          "url": "https://www.onetwotreefarm.com/contact-us",
+          "claim": "Owner-associated email, phone and request-for-price-list process.",
+          "accessed": "2026-09-15"
+        },
+        {
+          "url": "https://www.onetwotreefarm.com/availability",
+          "claim": "Availability season and plant descriptions.",
+          "accessed": "2026-09-15"
+        },
+        {
+          "url": "https://doczz.net/doc/2075941/member-directory",
+          "claim": "Historical PA Preferred directory copy places nursery address in Wayne County; county only.",
+          "accessed": "2026-09-15"
+        }
+      ],
+      "state": "Pennsylvania",
+      "review_method": "Public page text and links. No visual, mobile or performance test.",
+      "accessed": "2026-09-15",
+      "rank": 5,
+      "mail_domain_check": "MX mail-routing records found"
+    },
+    {
+      "name": "Brock's Farm / The Cotton Barn",
+      "county": "Pitt",
+      "website": "https://brocksfarm.com/",
+      "owner": "Brock family; Sue Brock is published farm contact",
+      "owner_evidence": "Farm-authored LocalHarvest listing describes third-generation family ownership and names Sue Brock. Official wedding page references Sue Ellen as the customer-facing contact.",
+      "email": "thecottonbarnnc@gmail.com",
+      "email_type": "general",
+      "phone": "252-531-3329",
+      "offers": "Farm stand, berries, field trips, weddings and company events.",
+      "active_evidence": "Official site advertises venue enquiries and farm offers. LocalHarvest listing refreshed in 2025. Current operation and field-trip availability need confirmation.",
+      "website_issue": "Field-trip page says closed for 2022 and returning in 2023 while still displaying packages and a booking form.",
+      "issue_url": "https://brocksfarm.com/farm/field-trips/",
+      "issue_evidence": "The old closure notice, per-student packages and Book Now form coexist on the same live service page.",
+      "proposed_fix": "Confirm whether trips operate. Replace stale notice with current status and expose only available packages.",
+      "buyer_fit": "Paid events and school bookings offer a clear revenue-linked content problem to discuss.",
+      "caveat": "Hold until current field-trip activity is confirmed. Existing website vendors are credited. Published email is primarily the venue inbox.",
+      "selection_status": "conditional",
+      "sources": [
+        {
+          "url": "https://brocksfarm.com/farm/field-trips/",
+          "claim": "Old closure notice conflicts with active-looking booking section."
+        },
+        {
+          "url": "https://brocksfarm.com/contact/",
+          "claim": "Official business email, phone and locations."
+        },
+        {
+          "url": "https://www.localharvest.org/brocks-berries-produce-farm-M33403",
+          "claim": "Family ownership and Sue contact; refreshed 2025."
+        },
+        {
+          "url": "https://brocksfarm.com/weddings/",
+          "claim": "Venue service and Sue Ellen reference."
+        }
+      ],
+      "state": "North Carolina",
+      "review_method": "Public page text and links. No visual, mobile or performance test.",
+      "accessed": "2026-09-15",
+      "rank": 6,
+      "mail_domain_check": "MX mail-routing records found"
+    },
+    {
+      "name": "Bunn Family Farms",
+      "county": "Nash",
+      "website": "https://bunnfamilyfarms.com/",
+      "owner": "Derrick Bunn",
+      "owner_evidence": "Official contact page search index explicitly lists Owner Derrick Bunn.",
+      "email": "sales.bunnfamilyfarms@gmail.com",
+      "email_type": "general",
+      "phone": "252-205-6477",
+      "offers": "Pumpkins, wheat straw, seasonal gifts and group visits.",
+      "active_evidence": "Live homepage gives current visit hours and sales route. No dated 2026 event was found.",
+      "website_issue": "Homepage directs visitors to event calendar but indexed event page lists only TBD. Main visit hours also lack a season qualifier while contact page says mainly fall and appointments.",
+      "issue_url": "https://bunnfamilyfarms.com/event-calendar/",
+      "issue_evidence": "Indexed official calendar has Upcoming Events followed by TBD. Contact text asks visitors to confirm seasonal availability.",
+      "proposed_fix": "Publish dated current-season status. Use an enquiry/waitlist when no public events are scheduled.",
+      "buyer_fit": "Owner-run retail with seasonal visits; could suit modest content maintenance.",
+      "caveat": "Calendar/contact live fetch returned 406; findings partly from indexed official text. No proof of operation beyond current website. General inbox.",
+      "selection_status": "conditional",
+      "sources": [
+        {
+          "url": "https://bunnfamilyfarms.com/",
+          "claim": "Exact email, hours and Nash County service area."
+        },
+        {
+          "url": "https://bunnfamilyfarms.com/contact-us/",
+          "claim": "Indexed official owner and seasonal visit qualification."
+        },
+        {
+          "url": "https://bunnfamilyfarms.com/event-calendar/",
+          "claim": "Indexed calendar placeholder and group offer."
+        }
+      ],
+      "state": "North Carolina",
+      "review_method": "Public page text and links. No visual, mobile or performance test.",
+      "accessed": "2026-09-15",
+      "rank": 7,
+      "mail_domain_check": "MX mail-routing records found"
+    },
+    {
+      "name": "Odom Farming Company",
+      "county": "Wayne",
+      "website": "https://www.odomfarmingcompany.com/",
+      "owner": "Odom family; Emily Odom is a named operator",
+      "owner_evidence": "Official page says third-generation Odom family operation. Our State names JR, Emily, James and Reese as the generation taking over in 2010.",
+      "email": "odomfarmingcoinc@gmail.com",
+      "email_type": "general",
+      "phone": "919-738-2905",
+      "offers": "U-pick strawberries, seasonal mazes, pumpkin patch, field trips, parties and farm rentals.",
+      "active_evidence": "Homepage actively promotes 2026 Harvest Market, fall group bookings and 2026 Trunk or Treat.",
+      "website_issue": "Homepage pairs the 2026 Trunk or Treat heading with Sunday October 26. October 26, 2026 is Monday. Group bookings separately require calls or free-form messages.",
+      "issue_url": "https://www.odomfarmingcompany.com/",
+      "issue_evidence": "Current event block contains the year/day mismatch. Field Trip page asks visitors to email, text, message or call after choosing a package.",
+      "proposed_fix": "Confirm the intended event date. Offer a structured group enquiry with package, group size and preferred dates.",
+      "buyer_fit": "Multiple paid visitor offers and group bookings create a plausible small booking-enquiry project.",
+      "caveat": "Calendar correction alone does not justify full redesign. Tickets already available. A manual booking process may be deliberate.",
+      "selection_status": "conditional",
+      "sources": [
+        {
+          "url": "https://www.odomfarmingcompany.com/",
+          "claim": "Current 2026 offers, public email and date mismatch."
+        },
+        {
+          "url": "https://www.odomfarmingcompany.com/field-trips",
+          "claim": "Package prices and manual booking instructions."
+        },
+        {
+          "url": "https://www.odomfarmingcompany.com/who-we-are",
+          "claim": "Family operation."
+        },
+        {
+          "url": "https://www.ourstate.com/take-a-bite-out-of-wayne-county/",
+          "claim": "Wayne County and named Odom operators."
+        }
+      ],
+      "state": "North Carolina",
+      "review_method": "Public page text and links. No visual, mobile or performance test.",
+      "accessed": "2026-09-15",
+      "rank": 8,
+      "mail_domain_check": "MX mail-routing records found"
+    },
+    {
+      "name": "Anywhere With You Acres",
+      "county": "Union",
+      "website": "https://anywherewithyouacres.com/",
+      "owner": "Cody and Alexis Johnston",
+      "owner_evidence": "Official About page explicitly identifies the couple as family owners and operators.",
+      "email": "info@anywherewithyouacres.com",
+      "email_type": "general",
+      "phone": "740-816-0694",
+      "offers": "Pumpkins, mums, seasonal activities and a linked wedding venue.",
+      "active_evidence": "Live farm site promotes a November 2025 craft show; chamber lists The Grange Hall at the same address. Current 2026 farm season not verified.",
+      "website_issue": "Homepage foregrounds a 2025 event while its operating-season footer still states 2022.",
+      "issue_url": "https://anywherewithyouacres.com/",
+      "issue_evidence": "Top event is November 30, 2025; repeated Open Daily footer specifies September 10–October 16, 2022.",
+      "proposed_fix": "One current-season visit page with maintained dates, current activity availability and a clear path to the separate wedding venue.",
+      "buyer_fit": "Explicit local owners and multiple visitor offers; possible seasonal maintenance project.",
+      "caveat": "Confirm that farm visits continue in 2026 and whether the newer venue site is their main focus. Stale dates alone do not justify a complete redesign.",
+      "selection_status": "conditional",
+      "sources": [
+        {
+          "url": "https://anywherewithyouacres.com/",
+          "claim": "Email, phone and promoted historical dates."
+        },
+        {
+          "url": "https://anywherewithyouacres.com/about-us/",
+          "claim": "Named owners and farm activities."
+        },
+        {
+          "url": "https://thegrangehallohio.com/wedding/",
+          "claim": "Same farm in northern Union County; wedding offer."
+        },
+        {
+          "url": "https://chambermaster.unioncounty.org/list/category/agribusiness-1006",
+          "claim": "Current chamber listing at matching address."
+        }
+      ],
+      "state": "Ohio",
+      "review_method": "Public page text and links. No visual, mobile or performance test.",
+      "accessed": "2026-09-15",
+      "rank": 9,
+      "mail_domain_check": "MX mail-routing records found"
+    },
+    {
+      "name": "Arrowhead Orchard",
+      "county": "Stark",
+      "website": "https://www.arrowheadorchard.com/",
+      "owner": "Kevin Miller",
+      "owner_evidence": "Official team page identifies Kevin Miller as Owner Operator.",
+      "email": "info@arrowheadorchard.com",
+      "email_type": "general",
+      "phone": "330-862-2733",
+      "offers": "Farm market, fall festival, u-pick, private rentals and school visits.",
+      "active_evidence": "School-trip page lists September 7–October 30, 2026.",
+      "website_issue": "School-trip page has inconsistent visit hours.",
+      "issue_url": "https://www.arrowheadorchard.com/school-tours",
+      "issue_evidence": "Opening timetable gives Mondays and Fridays 9am–5pm; Rules and Notes later permits stays 9am–6pm.",
+      "proposed_fix": "Confirm correct hours and maintain one shared school-trip schedule with clear Monday/Friday choices.",
+      "buyer_fit": "Public pricing and several paid visitor products make operational content useful.",
+      "caveat": "A one-hour text discrepancy supports a small correction. Booking links and detailed pricing already exist; not evidence a full redesign is needed.",
+      "selection_status": "conditional",
+      "sources": [
+        {
+          "url": "https://www.arrowheadorchard.com/",
+          "claim": "Stark County, offers, phone and general email."
+        },
+        {
+          "url": "https://www.arrowheadorchard.com/visitus",
+          "claim": "Kevin Miller owner-operator."
+        },
+        {
+          "url": "https://www.arrowheadorchard.com/school-tours",
+          "claim": "2026 dates and inconsistent hours."
+        }
+      ],
+      "state": "Ohio",
+      "review_method": "Public page text and links. No visual, mobile or performance test.",
+      "accessed": "2026-09-15",
+      "rank": 10,
+      "mail_domain_check": "MX mail-routing records found"
+    },
+    {
+      "name": "Kaleidoscope Farms",
+      "county": "Hancock",
+      "website": "https://kaleidoscopefarms.wordpress.com/",
+      "owner": "Dave and Jan Reese and family",
+      "owner_evidence": "Official contact page identifies Dave Reese and family as owner; Ohio Christmas Tree Association names Dave and Jan.",
+      "email": "reesefam@bright.net",
+      "email_type": "direct owner",
+      "phone": "419-792-0769",
+      "offers": "Choose-and-cut trees, gift shop, flowers, classes and ticketed early tree tagging.",
+      "active_evidence": "Homepage publishes 2026 garden classes and October/November 2026 tree-tagging ticket links.",
+      "website_issue": "The tree-pricing page gives two differently scoped ranges without clearly separating them.",
+      "issue_url": "https://kaleidoscopefarms.wordpress.com/trees-and-prices/",
+      "issue_evidence": "Opening paragraph says trees range $35–$125; later cut-tree paragraph says $25–$180 and an average around $70.",
+      "proposed_fix": "Ask which prices apply; publish a dated comparison for field trees, precut trees and dug trees beside booking options.",
+      "buyer_fit": "Direct family-owner inbox plus several paid experiences; suitable small content and season-planning offer.",
+      "caveat": "Different products may explain the ranges. Existing ticketing works as a published route; no booking transaction tested and no evidence they need a full redesign.",
+      "selection_status": "conditional",
+      "sources": [
+        {
+          "url": "https://kaleidoscopefarms.wordpress.com/",
+          "claim": "2026 activity and ticket links."
+        },
+        {
+          "url": "https://kaleidoscopefarms.wordpress.com/contact/",
+          "claim": "Owner-associated email and business phone."
+        },
+        {
+          "url": "https://kaleidoscopefarms.wordpress.com/trees-and-prices/",
+          "claim": "Two price ranges requiring clarification."
+        },
+        {
+          "url": "https://ohiochristmastree.org/kaleidoscope-farms",
+          "claim": "Dave and Jan ownership, same email and Hancock County."
+        }
+      ],
+      "state": "Ohio",
+      "review_method": "Public page text and links. No visual, mobile or performance test.",
+      "accessed": "2026-09-15",
+      "rank": 11,
+      "mail_domain_check": "MX mail-routing records found"
+    },
+    {
+      "name": "Libby's Pumpkin Patch & Venue",
+      "county": "Meigs",
+      "website": "https://www.libbyspumpkinpatch.com/",
+      "owner": "Kevin Lewis (co-owner)",
+      "owner_evidence": "Official About page labels Kevin Lewis co-owner.",
+      "email": "libbyspumpkinsandsunflowers@gmail.com",
+      "email_type": "general",
+      "phone": "Not found on reviewed official pages",
+      "offers": "Pumpkin patch, flower activities and a wedding/event barn.",
+      "active_evidence": "Homepage explicitly announces the approaching 2026 pumpkin season.",
+      "website_issue": "Venue inquiry asks event type but does not separately request preferred date or guest count; an unedited Heading 2 also appears in page text.",
+      "issue_url": "https://www.libbyspumpkinpatch.com/the-venue",
+      "issue_evidence": "Published form fields are first name, last name, email, phone and event type. The gallery is followed by Heading 2.",
+      "proposed_fix": "Add optional date and guest-count fields to help the owner qualify venue inquiries; remove template residue.",
+      "buyer_fit": "Venue bookings offer a clearer commercial reason for inquiry improvements than pumpkin sales alone.",
+      "caveat": "Form was not submitted. Owners may prefer to collect details later. FAQ answers may be in interactive controls, so their absence from extraction is not a defect. Small lead-form improvement, not proven full redesign.",
+      "selection_status": "conditional",
+      "sources": [
+        {
+          "url": "https://www.libbyspumpkinpatch.com/",
+          "claim": "2026 season and Meigs County location."
+        },
+        {
+          "url": "https://www.libbyspumpkinpatch.com/about-1",
+          "claim": "Kevin Lewis co-owner."
+        },
+        {
+          "url": "https://www.libbyspumpkinpatch.com/the-venue",
+          "claim": "Email, inquiry fields and placeholder heading; Facebook preferred for fast responses."
+        }
+      ],
+      "state": "Ohio",
+      "review_method": "Public page text and links. No visual, mobile or performance test.",
+      "accessed": "2026-09-15",
+      "rank": 12,
+      "mail_domain_check": "MX mail-routing records found"
+    },
+    {
+      "name": "Monroe's Orchard & Farm Market",
+      "county": "Portage",
+      "website": "https://monroesorchard.com/",
+      "owner": "Roger and Susan Monroe and family",
+      "owner_evidence": "Official About page names Roger, Sue and children as the family operating the orchard; legal ownership shares not published.",
+      "email": "info@monroesorchard.com",
+      "email_type": "uncertain",
+      "phone": "330-569-7464",
+      "offers": "U-pick fruit, market, syrup and harvest festivals.",
+      "active_evidence": "Homepage lists current apple availability and festival dates September 26, October 3 and October 10, matching 2026 Saturdays; year omitted.",
+      "website_issue": "Homepage market hours conflict with the contact page for Monday–Wednesday in peach-to-October season.",
+      "issue_url": "https://monroesorchard.com/contact/",
+      "issue_evidence": "Homepage says Monday–Saturday 9–5. Contact page says Monday–Wednesday 9–6 for the current seasonal band.",
+      "proposed_fix": "Maintain one dated market-hours block reused across both pages; distinguish u-pick hours from market hours.",
+      "buyer_fit": "Family-run seasonal visitor business with a concrete planning inconsistency.",
+      "caveat": "Email appears in a September 2026 syndicated local article, not the reviewed official contact page. Verify by phone. Current hours may be maintained elsewhere; correction alone does not establish redesign demand.",
+      "selection_status": "conditional",
+      "sources": [
+        {
+          "url": "https://monroesorchard.com/",
+          "claim": "Homepage hours and seasonal activity."
+        },
+        {
+          "url": "https://monroesorchard.com/about/",
+          "claim": "Family operators and Portage County."
+        },
+        {
+          "url": "https://monroesorchard.com/contact/",
+          "claim": "Different seasonal hours and official phone."
+        },
+        {
+          "url": "https://bluewaterhealthyliving.com/news/national-news/ohio/great-places-to-go-apple-picking-in-akron-canton-region/",
+          "claim": "Secondary publication of general email in current article; association unconfirmed by official page."
+        }
+      ],
+      "state": "Ohio",
+      "review_method": "Public page text and links. No visual, mobile or performance test.",
+      "accessed": "2026-09-15",
+      "rank": 13,
+      "mail_domain_check": "MX mail-routing records found"
+    },
+    {
+      "name": "Maiden Creek Beef",
+      "county": "Berks",
+      "website": "https://maidencreekbeef.com/",
+      "owner": "Kelsie Odhner Anderson",
+      "owner_evidence": "Official contact page explicitly labels Kelsie as owner and provides business email.",
+      "email": "maidencreekbeef@gmail.com",
+      "email_type": "direct owner",
+      "phone": "484-375-4406",
+      "offers": "Bulk beef shares, beef bundles, individual beef products and local pickup; limited shipping.",
+      "active_evidence": "Live shop lists priced products and add-to-cart controls. Homepage describes a one-to-four-week fulfilment process. No transaction performed.",
+      "website_issue": "Product-level fulfilment clarity is weaker than the homepage.",
+      "issue_url": "https://maidencreekbeef.com/product/whole-cow-healthy-beef-whole-steer-freezer-beef-natural-beef-naturally-raised-beef/",
+      "issue_evidence": "Whole-cow product page lists $4,400 and cuts/weights but does not repeat the homepage's one-to-four-week wait or explicit restriction that only eighth-cow orders ship.",
+      "proposed_fix": "Place pickup-only eligibility and estimated fulfilment timing beside the whole-cow purchase control; add a simple bulk-share comparison.",
+      "buyer_fit": "High-value direct product with a clear online purchase task. Owner is directly reachable through an explicitly associated business inbox.",
+      "caveat": "Checkout may already enforce these conditions and was not tested. Review is limited to product-page information; no claim of actual ordering errors or lost revenue.",
+      "selection_status": "conditional",
+      "rank_rationale": "Specific product information gap tied to a high-value order. Focus on purchase-page clarification rather than a complete rebuild.",
+      "sources": [
+        {
+          "url": "https://maidencreekbeef.com/contact/",
+          "claim": "Explicit owner, email, phone and pickup address.",
+          "accessed": "2026-09-15"
+        },
+        {
+          "url": "https://maidencreekbeef.com/",
+          "claim": "Published wait time and eighth-cow-only shipping restriction.",
+          "accessed": "2026-09-15"
+        },
+        {
+          "url": "https://maidencreekbeef.com/product/whole-cow-healthy-beef-whole-steer-freezer-beef-natural-beef-naturally-raised-beef/",
+          "claim": "Whole-cow price, content and absence of those fulfilment statements in reviewed text.",
+          "accessed": "2026-09-15"
+        },
+        {
+          "url": "https://bountifulberks.org/food/where-to-buy-local-meat-for-end-of-summer-picnics/",
+          "claim": "Berks County context.",
+          "accessed": "2026-09-15"
+        }
+      ],
+      "state": "Pennsylvania",
+      "review_method": "Public page text and links. No visual, mobile or performance test.",
+      "accessed": "2026-09-15",
+      "rank": 14,
+      "mail_domain_check": "MX mail-routing records found"
+    },
+    {
+      "name": "Patriot Farms",
+      "county": "Berks",
+      "website": "https://www.patriotfarmspa.com/",
+      "owner": "Ansel Bachman and Brittany J.P. Bachman",
+      "owner_evidence": "Official team page explicitly calls both co-owners.",
+      "email": "patriotfarmsonline@gmail.com",
+      "email_type": "general",
+      "phone": "732-759-5251",
+      "offers": "Organic vegetables and herbs, self-service farm store, farmers markets and donation-based farm tours.",
+      "active_evidence": "Homepage is accepting 2026 volunteer/market-help applications; Real Organic Project lists 2025 renewal.",
+      "website_issue": "Current produce availability requires a phone call; tours require an email or text exchange.",
+      "issue_url": "https://www.patriotfarmspa.com/",
+      "issue_evidence": "Farm-store section asks shoppers to call to learn what is in season or buy pork. Tours use email/text booking and a suggested $15 donation.",
+      "proposed_fix": "Only if recurring questions are burdensome, add a low-maintenance weekly stock note and short tour enquiry form.",
+      "buyer_fit": "Direct owner-run sales, but low tour price and self-service model point toward a modest content service, not an expensive redesign.",
+      "caveat": "Existing website explains directions and two distinct addresses well. Manual booking may be intentional. Small-scale economics may not support the user's desired project price.",
+      "selection_status": "conditional",
+      "rank_rationale": "Easy owner contact but lower likely project value; qualify budget before doing any mockup.",
+      "sources": [
+        {
+          "url": "https://www.patriotfarmspa.com/pfteam",
+          "claim": "Named co-owners.",
+          "accessed": "2026-09-15"
+        },
+        {
+          "url": "https://www.patriotfarmspa.com/",
+          "claim": "Email, phone, 2026 hiring signal, tour process, suggested donation and call-for-stock instruction.",
+          "accessed": "2026-09-15"
+        },
+        {
+          "url": "https://realorganicproject.org/directory/patriot-farms/",
+          "claim": "Berks County, small scale and 2025 certification renewal.",
+          "accessed": "2026-09-15"
+        }
+      ],
+      "state": "Pennsylvania",
+      "review_method": "Public page text and links. No visual, mobile or performance test.",
+      "accessed": "2026-09-15",
+      "rank": 15,
+      "mail_domain_check": "MX mail-routing records found"
+    },
+    {
+      "name": "Paulus Farm Market",
+      "county": "Cumberland",
+      "website": "https://paulusfarmmarket.com/",
+      "owner": "Jim and Amy Paulus",
+      "owner_evidence": "Official About page calls Jim owner/operator and Amy co-owner; Amy coordinates educational tours.",
+      "email": "info@paulusfarmmarket.com",
+      "email_type": "general",
+      "phone": "717-697-4330",
+      "offers": "Farm market, FarmPark, u-pick, school tours, birthday parties and farm camp.",
+      "active_evidence": "Official homepage publishes 2026 season passes, 2026 camp registration and 2026 guided field-trip information.",
+      "website_issue": "School-tour booking requires an email exchange with up to four days allowed for confirmation.",
+      "issue_url": "https://paulusfarmmarket.com/SchoolTours",
+      "issue_evidence": "Tour page sends visitors to email to request a date, includes separate downloadable information and warns confirmation may take four days.",
+      "proposed_fix": "Offer a structured tour enquiry with group size, preferred dates, age and package; send an automatic acknowledgement while keeping staff approval.",
+      "buyer_fit": "Paid visitor offers and named owner/educator suggest a meaningful booking task. Existing online season-pass and camp systems show the farm already buys digital services.",
+      "caveat": "Manual approval may work well and may be necessary. Existing site supplier is credited. This is a conditional workflow improvement, not proof of a bad website or buyer interest.",
+      "selection_status": "conditional",
+      "rank_rationale": "Established paid activities, but needs a conversation about enquiry volume before any redesign offer.",
+      "sources": [
+        {
+          "url": "https://paulusfarmmarket.com/About",
+          "claim": "Jim/Amy ownership and tour responsibility.",
+          "accessed": "2026-09-15"
+        },
+        {
+          "url": "https://paulusfarmmarket.com/",
+          "claim": "2026 paid activities and business contact.",
+          "accessed": "2026-09-15"
+        },
+        {
+          "url": "https://paulusfarmmarket.com/SchoolTours",
+          "claim": "Email-only date request, downloadable details and four-day confirmation allowance.",
+          "accessed": "2026-09-15"
+        }
+      ],
+      "state": "Pennsylvania",
+      "review_method": "Public page text and links. No visual, mobile or performance test.",
+      "accessed": "2026-09-15",
+      "rank": 16,
+      "mail_domain_check": "MX mail-routing records found"
+    },
+    {
+      "name": "Spring Mountain Farms",
+      "county": "Carbon",
+      "website": "https://www.springmountainfarms.com/",
+      "owner": "Bill and Sharon Moreton",
+      "owner_evidence": "Official site identifies family operation and publishes Bill's email. Organic Consumers directory explicitly names Bill and Sharon as owners.",
+      "email": "bill@springmountainfarms.com",
+      "email_type": "direct owner",
+      "phone": "610-871-2310",
+      "offers": "Pick-your-own orchard and berries; year-round meat and egg farm store.",
+      "active_evidence": "Live official pages show store hours and seasonal products. LocalHarvest listing updated February 8, 2026.",
+      "website_issue": "Picking page offers a broad crop calendar and an undated opening announcement, but no current picking-price or day-specific availability summary.",
+      "issue_url": "https://www.springmountainfarms.com/pick-your-own",
+      "issue_evidence": "Opening day is stated as July 5 without a year; crop rows list month ranges. Buckets and payment types are explained, but prices are absent from the reviewed page text.",
+      "proposed_fix": "Add a date-stamped 'picking this week' block with prices and clear confirmation instructions that the owner can update quickly.",
+      "buyer_fit": "Customer visits depend on knowing what is ready. Several revenue channels make a simple seasonal site service plausible.",
+      "caveat": "Undated July 5 is not proof of stale information. Crop changes may justify calling. No evidence of lost bookings, website traffic or budget.",
+      "selection_status": "conditional",
+      "rank_rationale": "Good owner route and visitor task; first ask whether repeated availability questions actually create work.",
+      "sources": [
+        {
+          "url": "https://www.springmountainfarms.com/",
+          "claim": "Family operation, offers, email and shop hours.",
+          "accessed": "2026-09-15"
+        },
+        {
+          "url": "https://www.springmountainfarms.com/pick-your-own",
+          "claim": "Undated opening announcement and broad crop months.",
+          "accessed": "2026-09-15"
+        },
+        {
+          "url": "https://organicconsumers.org/regenerative-farm-map/spring-mountain-farms/",
+          "claim": "Named owners, matching email and phone.",
+          "accessed": "2026-09-15"
+        },
+        {
+          "url": "https://www.localharvest.org/spring-mountain-farms-M65705/csa",
+          "claim": "February 2026 listing update.",
+          "accessed": "2026-09-15"
+        },
+        {
+          "url": "https://delawareandlehigh.org/blog/journey-family-fun/",
+          "claim": "Carbon County location.",
+          "accessed": "2026-09-15"
+        }
+      ],
+      "state": "Pennsylvania",
+      "review_method": "Public page text and links. No visual, mobile or performance test.",
+      "accessed": "2026-09-15",
+      "rank": 17,
+      "mail_domain_check": "MX mail-routing records found"
+    },
+    {
+      "name": "Buttermilk Creek Farm",
+      "county": "Alamance",
+      "website": "https://www.buttermilkcreek.net/",
+      "owner": "Steve Smith (local nursery referral; confirm)",
+      "owner_evidence": "Official site confirms family ownership. Pritchett Farms Nurseries names Steve Smith as owner with matching website and phone.",
+      "email": "buttermilkcreek@gmail.com",
+      "email_type": "general",
+      "phone": "336-212-1997",
+      "offers": "Pick-your-own berries, peaches, apples, flowers and vegetables.",
+      "active_evidence": "Latest official notice is dated July 27, 2025 and anticipates July 2026. Current 2026 trading was not confirmed.",
+      "website_issue": "Latest-news block still says 2025 season has ended and visitors will be seen in July 2026.",
+      "issue_url": "https://www.buttermilkcreek.net/",
+      "issue_evidence": "As accessed in September 2026, the only latest-news notice refers to a now-past anticipated reopening.",
+      "proposed_fix": "Replace with confirmed current status and a dated crop/hours update that owner can maintain.",
+      "buyer_fit": "Direct farm visits depend on current crop and opening information; small seasonal update service may fit.",
+      "caveat": "Reserve until trading and owner role reconfirmed. Potentially very small budget. Official general email preferred over old directory addresses.",
+      "selection_status": "reserve",
+      "sources": [
+        {
+          "url": "https://www.buttermilkcreek.net/",
+          "claim": "Family ownership, email and stale season notice."
+        },
+        {
+          "url": "https://pritchettfarmsnurseries.com/links/",
+          "claim": "Local business identifies Steve Smith as owner."
+        },
+        {
+          "url": "https://www.farmerspal.com/organic-farms/region/alamance-county-north-carolina/page/1/",
+          "claim": "Alamance County location; old email not used."
+        }
+      ],
+      "state": "North Carolina",
+      "review_method": "Public page text and links. No visual, mobile or performance test.",
+      "accessed": "2026-09-15",
+      "rank": 18,
+      "mail_domain_check": "MX mail-routing records found"
+    },
+    {
+      "name": "Naylor Family Farm",
+      "county": "Harnett",
+      "website": "https://www.naylorfamilyfarm.com/",
+      "owner": "Naylor family (individual controlling owner not confirmed)",
+      "owner_evidence": "Official About page describes the family's vegetable and agritourism operation. No individual owner was established.",
+      "email": "naylorfamilyfarm@gmail.com",
+      "email_type": "general",
+      "phone": "910-591-1965",
+      "offers": "Seasonal farm admission, school trips, parties, pumpkins and produce.",
+      "active_evidence": "Hours page publishes September 19–November 1, 2026 dates and live fall-ticket link.",
+      "website_issue": "No strong redesign issue found. Homepage's two Explore links lead to different farm/market destinations without distinct text labels in extracted content.",
+      "issue_url": "https://www.naylorfamilyfarm.com/",
+      "issue_evidence": "One Explore link goes to a separate roadside market site; the other to the farm page. Hours and tickets are already available through navigation.",
+      "proposed_fix": "If visual review confirms ambiguity, label the choices Farm Visits and Roadside Market.",
+      "buyer_fit": "Established paid attractions and retail. A focused navigation improvement may be relevant.",
+      "caveat": "Reserve: text-only finding may be resolved by adjacent images. Existing ticketing is present. Official site explicitly prefers a phone call over email.",
+      "selection_status": "reserve",
+      "sources": [
+        {
+          "url": "https://www.naylorfamilyfarm.com/",
+          "claim": "Two generic destination labels and official email."
+        },
+        {
+          "url": "https://www.naylorfamilyfarm.com/aboutus",
+          "claim": "Family operation and phone preference."
+        },
+        {
+          "url": "https://www.naylorfamilyfarm.com/general-6",
+          "claim": "2026 active season and ticket route."
+        },
+        {
+          "url": "https://maps.apple.com/place?place-id=IE64ACD9F0B4A239B",
+          "claim": "Harnett County location."
+        }
+      ],
+      "state": "North Carolina",
+      "review_method": "Public page text and links. No visual, mobile or performance test.",
+      "accessed": "2026-09-15",
+      "rank": 19,
+      "mail_domain_check": "MX mail-routing records found"
+    },
+    {
+      "name": "Perry Lowe Orchards",
+      "county": "Wilkes / Alexander county line",
+      "website": "https://www.perryloweorchards.com/",
+      "owner": "Perry (Ty) Lowe III and Lowe family",
+      "owner_evidence": "Official About page describes family ownership and Ty taking over; subsequent generation members work in the business.",
+      "email": "perryloweorchards@gmail.com",
+      "email_type": "general",
+      "phone": "336-921-3123",
+      "offers": "U-pick apples, farm shop, cider, dried apples and school trips.",
+      "active_evidence": "Official Tours page expressly advertises 2026 field trips with prices and weekday timing.",
+      "website_issue": "No strong redesign problem found. School-trip scheduling is by email while public u-pick already has online tickets.",
+      "issue_url": "https://www.perryloweorchards.com/tours/",
+      "issue_evidence": "Tours has useful pricing and itinerary, followed by email scheduling. Homepage has opening hours, season information and ticket links.",
+      "proposed_fix": "Only offer a group-enquiry form if the owner reports repetitive scheduling work.",
+      "buyer_fit": "100-acre orchard with multiple paid offers suggests a commercial operation; spending and website needs unknown.",
+      "caveat": "Reserve: site already covers key visit tasks and credits an agency. Do not pitch an unnecessary rebuild.",
+      "selection_status": "reserve",
+      "sources": [
+        {
+          "url": "https://www.perryloweorchards.com/about-us/",
+          "claim": "Family ownership and named generations."
+        },
+        {
+          "url": "https://www.perryloweorchards.com/tours/",
+          "claim": "2026 paid tours and public email."
+        },
+        {
+          "url": "https://www.perryloweorchards.com/",
+          "claim": "County-line location, current visit details and existing ticket route."
+        }
+      ],
+      "state": "North Carolina",
+      "review_method": "Public page text and links. No visual, mobile or performance test.",
+      "accessed": "2026-09-15",
+      "rank": 20,
+      "mail_domain_check": "MX mail-routing records found"
+    },
+    {
+      "name": "Plant Lane Farm",
+      "county": "Wake service area; exact operating county not confirmed",
+      "website": "https://www.plantlanefarm.com/",
+      "owner": "Maureen Hammond",
+      "owner_evidence": "Official resume explicitly names owner and pairs her with sales@plantlanefarm.com. About page confirms founder/CEO.",
+      "email": "sales@plantlanefarm.com",
+      "email_type": "direct owner",
+      "phone": "919-900-0645",
+      "offers": "Garden design, installation, maintenance, plant procurement and direct plant sales; adjacent non-tech business.",
+      "active_evidence": "Official pages updated 2026, named operating team, certifications and live project-enquiry form.",
+      "website_issue": "FAQ says public plant sales are available but gives only Yes, without explaining where/how to buy plants. Main enquiry focuses on garden projects.",
+      "issue_url": "https://www.plantlanefarm.com/faq",
+      "issue_evidence": "Direct-public-plant-sales question has one-word answer. Contact form requests project details; no plant-buying instructions found on reviewed pages.",
+      "proposed_fix": "Add clear plant-sales availability and collection/enquiry instructions if retail remains an active offer.",
+      "buyer_fit": "Owner-led team and recurring garden services are commercially relevant; specific retail clarity opportunity only.",
+      "caveat": "Reserve: site has marketing staff and an assistant handling website updates. Strong existing project funnel. Role inbox is paired to owner but may be shared. Nursery has evolved mainly into a garden-design business.",
+      "selection_status": "reserve",
+      "sources": [
+        {
+          "url": "https://www.plantlanefarm.com/resume",
+          "claim": "Explicit owner and email association."
+        },
+        {
+          "url": "https://www.plantlanefarm.com/about",
+          "claim": "Current business direction and in-house marketing/web staff."
+        },
+        {
+          "url": "https://www.plantlanefarm.com/faq",
+          "claim": "Public plant-sales answer and Raleigh service area."
+        },
+        {
+          "url": "https://www.plantlanefarm.com/contact-us",
+          "claim": "Current project-oriented enquiry and phone/email."
+        }
+      ],
+      "state": "North Carolina",
+      "review_method": "Public page text and links. No visual, mobile or performance test.",
+      "accessed": "2026-09-15",
+      "rank": 21,
+      "mail_domain_check": "MX mail-routing records found"
+    },
+    {
+      "name": "Zephyr Family Farm",
+      "county": "Person",
+      "website": "https://www.zf.farm/",
+      "owner": "Amanda Harrell and Steven (family operators)",
+      "owner_evidence": "Western Wake Farmers Market carries their first-person founding story. Farm listing names Amanda Harrell as contact.",
+      "email": "zephyrfamilyfarm@gmail.com",
+      "email_type": "general",
+      "phone": "919-717-6064",
+      "offers": "Year-round vegetables, CSA subscriptions, market sales and online pickup.",
+      "active_evidence": "Farm listing updated February 20, 2026 with spring CSA; official homepage links live shop and current schedules.",
+      "website_issue": "Homepage pickup section specifies Tuesday and Saturday but Say Hello invites a Friday pickup.",
+      "issue_url": "https://www.zf.farm/",
+      "issue_evidence": "Both pickup instructions occur on the same homepage; Friday could mean a market pickup but is not explained there.",
+      "proposed_fix": "Distinguish on-farm pickup from market pickup with consistent day/location labels.",
+      "buyer_fit": "Recurring orders and subscriptions make accurate fulfilment instructions relevant.",
+      "caveat": "Reserve: existing online shop and CSA paths are already clear. This is a small copy clarification, not evidence of redesign need.",
+      "selection_status": "reserve",
+      "sources": [
+        {
+          "url": "https://www.zf.farm/",
+          "claim": "Email, conflicting pickup language and existing commerce links."
+        },
+        {
+          "url": "https://www.localharvest.org/zephyr-family-farm-M81972",
+          "claim": "Person County, Amanda contact and dated 2026 activity."
+        },
+        {
+          "url": "https://beige-swordfish-p479.squarespace.com/vendors/zephyr",
+          "claim": "Farmers market carries Amanda and Steven founding story."
+        }
+      ],
+      "state": "North Carolina",
+      "review_method": "Public page text and links. No visual, mobile or performance test.",
+      "accessed": "2026-09-15",
+      "rank": 22,
+      "mail_domain_check": "MX mail-routing records found"
+    },
+    {
+      "name": "Dupler's Pumpkin Land",
+      "county": "Licking",
+      "website": "https://www.duplerspumpkinland.com/",
+      "owner": "Roger and Traci Dupler and family",
+      "owner_evidence": "Official story describes their purchase and establishment; farm remains family operated with children.",
+      "email": "duplerspumpkinland@gmail.com",
+      "email_type": "general",
+      "phone": "740-641-3127",
+      "offers": "Pumpkins, decorations, admission-based fall activities and wagon rides.",
+      "active_evidence": "Official homepage and freshly opened Story page show September 11–October 31, 2026.",
+      "website_issue": "No material content friction established in reviewed pages.",
+      "issue_url": "https://www.duplerspumpkinland.com/",
+      "issue_evidence": "Current hours, admission prices, extra-cost activities and contact details are published. Old search snippets showed 2025, but live opened page correctly shows 2026.",
+      "proposed_fix": "No redesign pitch yet; only discuss a new need if owner identifies one.",
+      "buyer_fit": "Accessible family business but clear existing visit information lowers research priority.",
+      "caveat": "Reserve. Do not treat stale search snippets as a live-site problem. Visual/mobile review not performed.",
+      "selection_status": "reserve",
+      "sources": [
+        {
+          "url": "https://www.duplerspumpkinland.com/",
+          "claim": "Current season, pricing and contacts."
+        },
+        {
+          "url": "https://www.duplerspumpkinland.com/our-story",
+          "claim": "Family ownership and current live hours."
+        },
+        {
+          "url": "https://explorelc.squarespace.com/directory/duplers-pumpkin-land",
+          "claim": "Licking County tourism listing at matching address."
+        }
+      ],
+      "state": "Ohio",
+      "review_method": "Public page text and links. No visual, mobile or performance test.",
+      "accessed": "2026-09-15",
+      "rank": 23,
+      "mail_domain_check": "MX mail-routing records found"
+    },
+    {
+      "name": "Innocenzi's Pumpkin Farm",
+      "county": "Trumbull",
+      "website": "https://www.innocenzipumpkins.com/about-us",
+      "owner": "Anthony Innocenzi",
+      "owner_evidence": "Official history states Anthony assumed ownership in 2021; the same page publishes his name-matching email.",
+      "email": "innocenzi.anthony@gmail.com",
+      "email_type": "direct owner",
+      "phone": "330-553-9704",
+      "offers": "Retail and wholesale pumpkins, gourds and corn stalks.",
+      "active_evidence": "Official site describes August–October daily opening; Ohio Farm Bureau lists the farm in October 2025. No year-specific 2026 announcement found.",
+      "website_issue": "Only a minor address typo was established.",
+      "issue_url": "https://www.innocenzipumpkins.com/about-us",
+      "issue_evidence": "Main address block truncates ZIP to 4442; footer supplies full 44428.",
+      "proposed_fix": "Correct address consistency. Ask about retail versus wholesale inquiry needs before proposing more work.",
+      "buyer_fit": "Direct owner contact and public-facing product sales, but weak evidence of paid redesign value.",
+      "caveat": "Reserve: minor typo is not a commercial redesign case. Homepage fetch failed in the research tool; do not call the site broken. Full visual review pending.",
+      "selection_status": "reserve",
+      "sources": [
+        {
+          "url": "https://www.innocenzipumpkins.com/about-us",
+          "claim": "Owner, email, offers, seasonal hours and address inconsistency."
+        },
+        {
+          "url": "https://ofbf.org/2025/10/01/pumpkins-in-trumbull-county-from-porch-to-pie/",
+          "claim": "Trumbull County and 2025 operation mention."
+        }
+      ],
+      "state": "Ohio",
+      "review_method": "Public page text and links. No visual, mobile or performance test.",
+      "accessed": "2026-09-15",
+      "rank": 24,
+      "mail_domain_check": "MX mail-routing records found"
+    },
+    {
+      "name": "Kingsway Pumpkin Farm",
+      "county": "Stark",
+      "website": "https://kingswaypumpkinfarm.com/",
+      "owner": "King family; Mary King founder (historical source)",
+      "owner_evidence": "2018 Compass Ohio feature says Mary King opened the family-run farm. Current named legal owner not verified.",
+      "email": "kingswaypumpkin@gmail.com",
+      "email_type": "general",
+      "phone": "330-877-6241",
+      "offers": "Pumpkins, corn maze, wagon rides, animals and admission-based family activities.",
+      "active_evidence": "Homepage lists September 12, 2026 opening and a 2026 corn-maze theme.",
+      "website_issue": "No material content friction established.",
+      "issue_url": "https://kingswaypumpkinfarm.com/",
+      "issue_evidence": "Homepage supplies current dates, hours, admission prices, inclusions, extra costs and contact information; weather updates intentionally go to Facebook.",
+      "proposed_fix": "No speculative redesign. A shared weather-status block is optional only if owner reports repeat questions.",
+      "buyer_fit": "Established visitor business; site already communicates the main purchase information clearly.",
+      "caveat": "Reserve. General inbox, historical named-owner evidence and no confirmed redesign need.",
+      "selection_status": "reserve",
+      "sources": [
+        {
+          "url": "https://kingswaypumpkinfarm.com/",
+          "claim": "2026 offers, prices, hours and contact email."
+        },
+        {
+          "url": "https://compassohio.com/wp-content/uploads/2018/08/magazine_final_web-3.pdf",
+          "claim": "Historical Mary King founder and family operation."
+        },
+        {
+          "url": "https://www.visitcanton.com/blog/fall-fun-and-festival-round-up/",
+          "claim": "2026 season and Stark County visitor context."
+        }
+      ],
+      "state": "Ohio",
+      "review_method": "Public page text and links. No visual, mobile or performance test.",
+      "accessed": "2026-09-15",
+      "rank": 25,
+      "mail_domain_check": "MX mail-routing records found"
+    },
+    {
+      "name": "Lawrence Orchards",
+      "county": "Marion",
+      "website": "https://www.lawrenceorchards.com/",
+      "owner": "George and Vickie Lawrence",
+      "owner_evidence": "Official history identifies George as present owner with wife Vickie.",
+      "email": "lawrence@lawrenceorchards.com",
+      "email_type": "uncertain",
+      "phone": "740-389-3019",
+      "offers": "U-pick apples, farm market, cider, school tours and pavilion rental.",
+      "active_evidence": "Marion tourism lists Applefest on September 26, 2026.",
+      "website_issue": "Homepage includes unrelated gambling promotions and external casino links.",
+      "issue_url": "https://www.lawrenceorchards.com/",
+      "issue_evidence": "Farm information is followed by multiple casino and betting paragraphs unrelated to the orchard.",
+      "proposed_fix": "Confirm the content with the owner; investigate and remove unwanted content before discussing a refreshed visitor site.",
+      "buyer_fit": "Established public-facing orchard with events and rentals; a concrete website trust issue merits a conversation.",
+      "caveat": "Cause is unconfirmed. Do not assert hacking or sell cosmetic redesign as a security remedy. Email is associated with George only by AllBiz; verify by published phone first.",
+      "selection_status": "reserve",
+      "sources": [
+        {
+          "url": "https://www.lawrenceorchards.com/",
+          "claim": "Farm offers and unrelated gambling content."
+        },
+        {
+          "url": "https://www.lawrenceorchards.com/historyoftheorchard.html",
+          "claim": "Owner names."
+        },
+        {
+          "url": "https://www.lawrenceorchards.com/findandcontactus.html",
+          "claim": "Business phone and address."
+        },
+        {
+          "url": "https://www.visitmarionohio.com/attractions/lawrence-orchards-2/",
+          "claim": "2026 event and Marion location."
+        },
+        {
+          "url": "https://www.allbiz.com/business/lawrence-orchards-740-389-3019",
+          "claim": "Secondary publication of owner-associated email; unconfirmed."
+        }
+      ],
+      "state": "Ohio",
+      "review_method": "Public page text and links. No visual, mobile or performance test.",
+      "accessed": "2026-09-15",
+      "rank": 26,
+      "mail_domain_check": "MX mail-routing records found"
+    },
+    {
+      "name": "Rittman Orchards",
+      "county": "Wayne",
+      "website": "https://rittmanorchards.com/",
+      "owner": "Vodraska family; Chris and Matt run the business; Amanda manages market",
+      "owner_evidence": "Official story records family purchase and current roles after Dale's death in 2023.",
+      "email": "info@rittmanorchards.com",
+      "email_type": "general",
+      "phone": "330-925-4152",
+      "offers": "U-pick fruit, farm market, online bakery orders, school trips and associated cidery.",
+      "active_evidence": "What's Ripe page explicitly updated September 15, 2026 at 9:42am.",
+      "website_issue": "No strong redesign need established; apple u-pick schedule currently says TBD.",
+      "issue_url": "https://rittmanorchards.com/whats-ripe/",
+      "issue_evidence": "Freshly updated page provides prices and a ripening calendar but has TBD for next apple-picking dates and varieties.",
+      "proposed_fix": "If helpful, offer an opt-in alert for the next picking announcement; preserve existing shopping and trip tools.",
+      "buyer_fit": "Multiple sales channels and clear current family operations, but existing site already supports commerce and inquiry.",
+      "caveat": "Reserve. Crop uncertainty is normal and is not a website defect. Amanda's published employment email is a named manager route, not verified owner email; retained separately.",
+      "selection_status": "reserve",
+      "alternate_email": "amanda@rittmanorchards.com",
+      "alternate_email_note": "Official employment page; named family market manager, ownership not established.",
+      "sources": [
+        {
+          "url": "https://rittmanorchards.com/our-story/",
+          "claim": "Family ownership and current roles."
+        },
+        {
+          "url": "https://rittmanorchards.com/contact-us/",
+          "claim": "Wayne County, phone and contact form."
+        },
+        {
+          "url": "https://rittmanorchards.com/terms-and-conditions/",
+          "claim": "Published general email."
+        },
+        {
+          "url": "https://rittmanorchards.com/whats-ripe/",
+          "claim": "Dated update and current u-pick status."
+        },
+        {
+          "url": "https://rittmanorchards.com/employment/",
+          "claim": "Amanda's published work email."
+        }
+      ],
+      "state": "Ohio",
+      "review_method": "Public page text and links. No visual, mobile or performance test.",
+      "accessed": "2026-09-15",
+      "rank": 27,
+      "mail_domain_check": "MX mail-routing records found"
+    },
+    {
+      "name": "Calkins Creamery",
+      "county": "Wayne",
+      "website": "https://calkinscreamery.com/",
+      "owner": "Emily Montgomery",
+      "owner_evidence": "Official team page explicitly identifies Emily as owner and cheesemaker.",
+      "email": "calkinscreamery@gmail.com",
+      "email_type": "general",
+      "phone": "570-729-8103",
+      "offers": "Farmstead cheese, gift boxes, farm-store pickup, shipping and wholesale.",
+      "active_evidence": "Live website has priced products, gift boxes and online purchase controls. No transaction performed.",
+      "website_issue": "One gift-box description disagrees with its own contents list.",
+      "issue_url": "https://calkinscreamery.com/shop/p/delight-gift-box",
+      "issue_evidence": "Delight Gift Box narrative says six cheeses while the bullet list says five varieties.",
+      "proposed_fix": "Confirm the correct contents with the owner and make the product text consistent. This alone does not justify a full redesign.",
+      "buyer_fit": "Established products and wholesale testimonials suggest a real business; current website already supports shopping, FAQs and fulfilment.",
+      "caveat": "Minor content mismatch only. General customer-service inbox, not a confirmed owner inbox. Do not present a typo as proof of lost revenue or a rebranding opportunity.",
+      "selection_status": "reserve",
+      "rank_rationale": "Concrete minor correction but strong existing purchase routes; low redesign priority.",
+      "sources": [
+        {
+          "url": "https://calkinscreamery.com/our-team",
+          "claim": "Emily ownership and customer-service team.",
+          "accessed": "2026-09-15"
+        },
+        {
+          "url": "https://calkinscreamery.com/shop/p/delight-gift-box",
+          "claim": "Six-versus-five contents discrepancy.",
+          "accessed": "2026-09-15"
+        },
+        {
+          "url": "https://calkinscreamery.squarespace.com/shop",
+          "claim": "Official branded shop publishes general email and fulfilment FAQs; main-domain shop fetch timed out.",
+          "accessed": "2026-09-15"
+        },
+        {
+          "url": "https://calkinscreamery.com/highland-farm",
+          "claim": "Wayne County farm and family history.",
+          "accessed": "2026-09-15"
+        },
+        {
+          "url": "https://calkinscreamery.com/",
+          "claim": "Current online shopping offer.",
+          "accessed": "2026-09-15"
+        }
+      ],
+      "state": "Pennsylvania",
+      "review_method": "Public page text and links. No visual, mobile or performance test.",
+      "accessed": "2026-09-15",
+      "rank": 28,
+      "mail_domain_check": "MX mail-routing records found"
+    },
+    {
+      "name": "Kuhn Orchards",
+      "county": "Adams",
+      "website": "https://kuhnorchards.com/",
+      "owner": "Sidney Kuhn",
+      "owner_evidence": "Official team page identifies Sidney as owner/operator and says ownership transferred to her in 2012.",
+      "email": "sidkuhnorch@gmail.com",
+      "email_type": "uncertain",
+      "phone": "717-334-2722",
+      "offers": "Orchard produce sold through eight DC/Northern Virginia markets; online preorders and winter delivery.",
+      "active_evidence": "Official 2026 market schedule and multiple 2026 job descriptions.",
+      "website_issue": "No sufficiently strong redesign problem established.",
+      "issue_url": "https://kuhnorchards.com/",
+      "issue_evidence": "Homepage clearly links the webstore and market schedule and explicitly warns that the Pennsylvania farm has no retail store or u-pick.",
+      "proposed_fix": "Reserve. Ask about a specific unmet need before offering any design work; preserve the clear market-versus-farm distinction.",
+      "buyer_fit": "Established family direct-sales business with a working digital offer, but good business fit does not establish redesign need.",
+      "caveat": "Email is officially published for hiring; the address resembles Sidney's name but the page does not explicitly label inbox ownership. Do not call it a confirmed private owner inbox.",
+      "selection_status": "reserve",
+      "rank_rationale": "Good ownership and active evidence; no documented material issue to justify a pitch.",
+      "sources": [
+        {
+          "url": "https://kuhnorchards.com/staff-employment/",
+          "claim": "Ownership, hiring email and 2026 activity.",
+          "accessed": "2026-09-15"
+        },
+        {
+          "url": "https://kuhnorchards.com/",
+          "claim": "Clear customer routes and no-farm-retail warning.",
+          "accessed": "2026-09-15"
+        },
+        {
+          "url": "https://kuhnorchards.com/farmers-markets/",
+          "claim": "2026 market schedule.",
+          "accessed": "2026-09-15"
+        }
+      ],
+      "state": "Pennsylvania",
+      "review_method": "Public page text and links. No visual, mobile or performance test.",
+      "accessed": "2026-09-15",
+      "rank": 29,
+      "mail_domain_check": "MX mail-routing records found"
+    },
+    {
+      "name": "Wallenpaupack Creek Farm",
+      "county": "Wayne",
+      "website": "https://wallenpaupackcreekfarm.com/",
+      "owner": "Kelly and Britt Comisky",
+      "owner_evidence": "Official story describes their purchase and operation; county AgroLegacy directory explicitly identifies both as owners.",
+      "email": "britt@wallycreekfarm.com",
+      "email_type": "direct owner",
+      "phone": "570-230-4025",
+      "offers": "Farm wedding venue, receptions, private parties and farm events.",
+      "active_evidence": "Live site offers wedding enquiries and a planning portal; no dated 2026 booking or trading confirmation.",
+      "website_issue": "No material redesign problem established from text-only review.",
+      "issue_url": "https://wallenpaupackcreekfarm.com/contact/",
+      "issue_evidence": "Site has pricing guide, venue information, named event/marketing emails and an existing wedding planning portal.",
+      "proposed_fix": "Reserve. Only explore a specific lead-quality or enquiry-volume problem if the owners identify one.",
+      "buyer_fit": "Weddings could support meaningful project spend, and Britt has an explicit marketing role. Neither budget nor dissatisfaction is established.",
+      "caveat": "Existing HoneyBook-related planning workflow may already meet needs. Images and embedded enquiries were not visually tested. Alternative owner route: kelly@wallycreekfarm.com for farm/event operations.",
+      "selection_status": "reserve",
+      "rank_rationale": "Owner access and high-value offer, but no honest evidence that a redesign is needed.",
+      "sources": [
+        {
+          "url": "https://wallenpaupackcreekfarm.com/our-story/",
+          "claim": "Kelly and Britt's property purchase and farm operations.",
+          "accessed": "2026-09-15"
+        },
+        {
+          "url": "https://wallenpaupackcreekfarm.com/contact/",
+          "claim": "Britt marketing email, Kelly operations email, phone and planning portal.",
+          "accessed": "2026-09-15"
+        },
+        {
+          "url": "https://wallenpaupackcreekfarm.com/",
+          "claim": "Wedding offer and pricing guide.",
+          "accessed": "2026-09-15"
+        },
+        {
+          "url": "https://www.agrolegacy.org/producers",
+          "claim": "Explicit owner names and Wayne County context.",
+          "accessed": "2026-09-15"
+        }
+      ],
+      "state": "Pennsylvania",
+      "review_method": "Public page text and links. No visual, mobile or performance test.",
+      "accessed": "2026-09-15",
+      "rank": 30,
+      "mail_domain_check": "MX mail-routing records found"
+    }
+  ]
+}

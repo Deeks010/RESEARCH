@@ -1,0 +1,265 @@
+[
+  {
+    "name": "Aasic Plastic",
+    "email": "aasicplastic@gmail.com",
+    "person": "B. Sidhic",
+    "role": "Proprietor; email is general business inbox",
+    "classification": "general_only",
+    "source_urls": [
+      "https://www.aasicplastic.com/Contact",
+      "https://blog.aasicplastic.com/dates-container-manufacturer-in-india"
+    ],
+    "checked_date": "2026-09-15",
+    "delivery_tested": false,
+    "evidence": "Official contact explicitly labels this general communication and quotation email. Proprietor has a separate named phone, not a separately assigned email."
+  },
+  {
+    "name": "Ammarun Foundries",
+    "email": "visvanathan@ammarun.com",
+    "person": "N. Visvanathan",
+    "role": "CEO; family partnership founder",
+    "classification": "direct_verified",
+    "source_urls": [
+      "https://www.ammarun.com/",
+      "https://www.ammarun.com/contactus.html"
+    ],
+    "checked_date": "2026-09-15",
+    "delivery_tested": false,
+    "evidence": "Official contact page explicitly pairs CEO N. Visvanathan with visvanathan@ammarun.com. Verification means published person-address association, not deliverability.",
+    "additional_contacts": [
+      {
+        "person": "V. Arunkumar",
+        "role": "Partner",
+        "email": "arunkumar@ammarun.com",
+        "classification": "direct_verified"
+      },
+      {
+        "person": "C. Senthil Kumar",
+        "role": "COO",
+        "email": "senthilkumar@ammarun.com",
+        "classification": "direct_verified"
+      }
+    ]
+  },
+  {
+    "name": "Bright Castings / Bright Groups",
+    "email": "balraj@brightcastings.in",
+    "person": "S. Balraj",
+    "role": "Joint Managing Director; owner in government programme",
+    "classification": "direct_verified",
+    "source_urls": [
+      "https://www.brightcastings.in/contact-us/",
+      "https://www.brightcastings.in/wp-content/themes/brightcastings/pdf/Bright-Castings-Pvt-Ltd.pdf",
+      "https://sidhiee.beeindia.gov.in/AboutUs/participatingmsme"
+    ],
+    "checked_date": "2026-09-15",
+    "delivery_tested": false,
+    "evidence": "Official contact page Contact Person block explicitly pairs S. Balraj with balraj@brightcastings.in and brightcast@gmail.com. Brochure and BEE establish role; undated ownership record still needs reconfirmation."
+  },
+  {
+    "name": "Anu Foods (Pappa Brand Appalam)",
+    "email": "bala@anufoods.in",
+    "person": "V. Balasubramanian",
+    "role": "Proprietor",
+    "classification": "direct_verified",
+    "source_urls": [
+      "https://www.anufoods.in/about-us/",
+      "https://www.anufoods.in/",
+      "https://www.anufoods.in/contact/",
+      "https://www.nmpb.nic.in/sites/default/files/Final%20Report%20-%20Trader%20-%20Exporter%20-%20Importer%20-%20Extractor%20Directory.pdf"
+    ],
+    "checked_date": "2026-09-15",
+    "delivery_tested": false,
+    "evidence": "Official contact names Mr. Balasubramanian for whole spices/flours at the same published phone and address. Official email previously extracted as bala@anufoods.in; government directory corroborates this address but uses a different family member as head. Prefer official named product contact. Shared family access possible.",
+    "additional_contacts": [
+      {
+        "person": "Arun Bala",
+        "role": "Appalam/papad business contact; proprietor family",
+        "email": "arunbala@anufoods.org",
+        "classification": "direct_verified"
+      },
+      {
+        "person": "Arjun Bala",
+        "role": "Ground spices/masala business contact; proprietor family",
+        "email": "arjunbala@anufoods.org",
+        "classification": "direct_verified"
+      }
+    ]
+  },
+  {
+    "name": "Babu Engineering Foundry",
+    "email": "babu@babuengg.com",
+    "person": "Boopendra Babu",
+    "role": "Owner per BEE programme; Babu is cookware co-founder",
+    "classification": "direct_verified",
+    "source_urls": [
+      "https://babuengg.com/",
+      "https://sidhiee.beeindia.gov.in/AboutUs/participatingmsme",
+      "https://bhagyacookware.com/contact-us/",
+      "https://bhagyacookware.com/about-us/"
+    ],
+    "checked_date": "2026-09-15",
+    "delivery_tested": false,
+    "evidence": "BEE programme directly pairs Boopendra Babu with babu@babuengg.com and 9994702223 at the matching Kannampalayam factory. Company-owned Bhagya Cookware contact independently publishes this exact email. Government record undated; mailbox delivery untested."
+  },
+  {
+    "name": "MG Knit Garments",
+    "email": "manimaran@mgknitgarments.com",
+    "person": "P. Manimaran",
+    "role": "Founder",
+    "classification": "direct_verified",
+    "source_urls": [
+      "https://www.mgknitgarments.com/",
+      "https://www.mgknitgarments.com/about",
+      "https://www.mgknitgarments.com/contact-9"
+    ],
+    "checked_date": "2026-09-15",
+    "delivery_tested": false,
+    "evidence": "Official website identifies founder P. Manimaran and publishes the exact matching named business email alongside its general Gmail inbox. The site does not guarantee only the founder reads it."
+  },
+  {
+    "name": "Sri Amutham Apparel",
+    "email": "sadha@sriamutham.in",
+    "person": "K. S. Sadhanandan",
+    "role": "Founder and MD; named inbox association not explicit",
+    "classification": "association_uncertain",
+    "source_urls": [
+      "https://sriamutham.in/about-us.html",
+      "https://sriamutham.in/"
+    ],
+    "checked_date": "2026-09-15",
+    "delivery_tested": false,
+    "evidence": "Official homepage publishes sadha@sriamutham.in; about page identifies founder/MD K. S. Sadhanandan. No explicit name-to-email contact block found. Similarity of Sadha to Sadhanandan alone is insufficient to call it a verified owner inbox."
+  },
+  {
+    "name": "Best Heat Treatment Services",
+    "email": "sqf@bestheattreatment.com",
+    "person": "R. Nagarajan",
+    "role": "Founder/managing partner; current selected email is a plant inbox",
+    "classification": "general_only",
+    "source_urls": [
+      "https://www.bestheattreatment.com/units/",
+      "https://www.bestheattreatment.com/about-us/",
+      "https://www.bestheattreatment.com/contact-us/",
+      "https://kahedu.edu.in/naac/dvv/C-1/upload/1.3.4.1/project%20and%20field%20visit%20merged.pdf",
+      "https://www.sanprecisionalloys.com/wp-content/uploads/2023/04/Company-Brocuhure.pdf"
+    ],
+    "checked_date": "2026-09-15",
+    "delivery_tested": false,
+    "evidence": "Current official contact publishes marketing@bestheattreatment.com; existing sqf inbox is unit-specific. A 2019 university industrial-visit email explicitly copies Nagarajan at a Gmail address, but its age requires phone confirmation before using as current owner contact. Related official group brochure repeats address with an extra .com typo; do not silently correct from that source.",
+    "additional_contacts": [
+      {
+        "person": "R. Nagarajan",
+        "role": "Managing director in 2019 correspondence",
+        "email": "nagarajanbest1989@gmail.com",
+        "classification": "association_uncertain",
+        "caveat": "Person association explicit in university publication; current use unverified. Historical business-use address; phone-first."
+      },
+      {
+        "person": "K. Ravikumar",
+        "role": "Senior Manager, Process, in 2019 correspondence",
+        "email": "ravikumar@bestheattreatment.com",
+        "classification": "association_uncertain",
+        "caveat": "Historical named operations contact. Reconfirm present role."
+      },
+      {
+        "person": "",
+        "role": "Current company marketing inbox",
+        "email": "marketing@bestheattreatment.com",
+        "classification": "general_only"
+      }
+    ]
+  },
+  {
+    "name": "Centwin Textile Mills Private Limited",
+    "email": "info@centwintextiles.com",
+    "person": "P. Kumaraswamy",
+    "role": "Managing Director; email general",
+    "classification": "general_only",
+    "source_urls": [
+      "https://centwintextiles.com/"
+    ],
+    "checked_date": "2026-09-15",
+    "delivery_tested": false,
+    "evidence": "Official site identifies MD and publishes company inboxes. No public direct MD address verified. Exporter-directory Centwin/hosiery entries may refer to the separated group entities and were not substituted."
+  },
+  {
+    "name": "Koral International / Koral Knitting Mills",
+    "email": "koral@koral.in",
+    "person": "C. Viswanathan / Anoop Viswanathan",
+    "role": "Founder/chairman / CEO; email general",
+    "classification": "general_only",
+    "source_urls": [
+      "https://www.koral.in/"
+    ],
+    "checked_date": "2026-09-15",
+    "delivery_tested": false,
+    "evidence": "Official site names both leaders but labels koral@koral.in as Indian customers contact and exports@koral.in as international customers contact. No direct leader address found."
+  },
+  {
+    "name": "RBK Apparels",
+    "email": "rbk@rbkapparels.com",
+    "person": "R. Bharath Kumar",
+    "role": "Founder and CEO",
+    "classification": "direct_verified",
+    "source_urls": [
+      "https://www.rbkapparels.com/about.php",
+      "https://www.rbkapparels.com/",
+      "https://www.rbkapparels.com/factory.php",
+      "https://rbkapparels.com/contact.php"
+    ],
+    "checked_date": "2026-09-15",
+    "delivery_tested": false,
+    "evidence": "Official contact page explicitly places rbk@rbkapparels.com under CEO R. Bharath Kumar. It also repeats the address as company inbox, so it may be shared. This is a documented named route, not an inference from initials."
+  },
+  {
+    "name": "Sakthi Heat Treatment Industry",
+    "email": "info@sakthiheattreatment.com",
+    "person": "K. Andamuthu",
+    "role": "Partner; email general",
+    "classification": "general_only",
+    "source_urls": [
+      "https://sakthiheattreatment.com/",
+      "https://sakthiheattreatment.com/about-us.html",
+      "https://sakthiheattreatment.com/contact-us.html"
+    ],
+    "checked_date": "2026-09-15",
+    "delivery_tested": false,
+    "evidence": "Official page names partner Andamuthu but contact page publishes several unassigned inboxes. senthil@sakthiheattreatment.com is public but no owner/partner role association was verified. Old site content warrants phone confirmation.",
+    "additional_contacts": [
+      {
+        "person": "Senthil (full identity unverified)",
+        "role": "Unstated",
+        "email": "senthil@sakthiheattreatment.com",
+        "classification": "association_uncertain"
+      }
+    ]
+  },
+  {
+    "name": "T-Form Garments / YOUKAY Fashion",
+    "email": "support@youkayfashion.com",
+    "person": "Mohamed Eliyas",
+    "role": "Founder/proprietor; email support",
+    "classification": "general_only",
+    "source_urls": [
+      "https://youkayfashion.com/about"
+    ],
+    "checked_date": "2026-09-15",
+    "delivery_tested": false,
+    "evidence": "Official about page names proprietor and labels support@youkayfashion.com customer support. No published direct owner email found."
+  },
+  {
+    "name": "Sathyam Labels",
+    "email": "shri@sathyamlabels.com",
+    "person": "N. K. Palanisamy",
+    "role": "Founder; email association unassigned",
+    "classification": "general_only",
+    "source_urls": [
+      "https://www.sathyamlabels.com/",
+      "https://www.sathyamlabels.com/infrastructure"
+    ],
+    "checked_date": "2026-09-15",
+    "delivery_tested": false,
+    "evidence": "Official site names founder but gives shri@sathyamlabels.com and sathyamlabels@gmail.com in general company contact block. Shri is not assigned to founder; no direct owner email verified."
+  }
+]

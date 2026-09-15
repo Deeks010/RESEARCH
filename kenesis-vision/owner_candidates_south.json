@@ -1,0 +1,456 @@
+[
+  {
+    "operational_contact": "info@varnaprintfactory.com",
+    "decision_locality": "Official founder biography says he runs all operations at this Bengaluru business; spend authority unverified.",
+    "name": "Varna Print Factory",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "sector": "Digital textile printing",
+    "products": "Printed woven/knit cotton, polyester, viscose and silk fabrics",
+    "factory_evidence": "Official site describes digital fabric printing machinery and three-shift production. Production business address: Sy No.9/2, near Kings Club, Muddinapalya, Sir M Vishveshwaraiah Layout 7th Block, Bengaluru 560091.",
+    "leadership": "Ranganath Gowda — co-founder responsible for all operations; co-founded with Kiran Kumar in 2016.",
+    "ownership_evidence": "Official founder and continuing operational-control statements. Equity percentages are not public.",
+    "owner_evidence_grade": "qualified",
+    "leadership_confidence": "High — official biography.",
+    "email": "ranganath@varnaprintfactory.com",
+    "email_type": "Direct founder business email explicitly published on official about page",
+    "phone": "+91 9886669966",
+    "website": "https://varnaprintfactory.com/",
+    "sources": [
+      {
+        "url": "https://varnaprintfactory.com/about-us",
+        "claim": "Co-founders, Ranganath's operational control, direct email, printing machinery and shifts"
+      },
+      {
+        "url": "https://varnaprintfactory.com/contact-zTxfrt",
+        "claim": "Physical address, business phone and general email"
+      }
+    ],
+    "fit_reason": "Strong direct operator-founder route and repeated production stages.",
+    "discovery_topic": "Print-to-finishing queues and delays between successive jobs.",
+    "caveat": "Office opening hours differ from production-shift claim. Confirm current line and staffing. CCTV and budget unknown.",
+    "adoption_signals": "Digital textile printing equipment; formal multi-shift production claim.",
+    "operational_usecase": "Measure waiting at one visible material transfer or finishing station; investigate causes with the production lead."
+  },
+  {
+    "operational_contact": "ajaysensors@yahoo.com",
+    "decision_locality": "Named managing partner and office/works are in Bengaluru. Actual pilot approval path unknown.",
+    "name": "Ajay Sensors & Instruments",
+    "city": "Peenya, Bengaluru",
+    "region": "Karnataka",
+    "sector": "Electronics and instrumentation",
+    "products": "Sensors, transducers, signal conditioners, controllers and test equipment",
+    "factory_evidence": "Official site lists electronic/mechanical production, CNC machining and calibration. Works: Shed A-421, 1st Cross, Peenya Industrial Area, Bengaluru 560058; separate Rajajinagar office.",
+    "leadership": "Ajay Kumar Maras Vrishabhendra — Managing Partner; M.V. Vrishabhendra — Founder and Chief Executive.",
+    "ownership_evidence": "Managing Partner explicitly published, beyond an employee MD title; founder also identified.",
+    "owner_evidence_grade": "strong",
+    "leadership_confidence": "High — official team and company descriptions.",
+    "email": "ajaykumar@ajaysensors.in",
+    "email_type": "Named managing-partner business email published on official site",
+    "phone": "+91 9845048010",
+    "website": "https://ajaysensors.in/",
+    "sources": [
+      {
+        "url": "https://ajaysensors.in/",
+        "claim": "Managing partner/founder, direct email, works address, production equipment and calibration facilities"
+      }
+    ],
+    "fit_reason": "Partner-led manufacturing with clear factory evidence and direct contact.",
+    "discovery_topic": "Queues between mechanical production, assembly and calibration.",
+    "caveat": "Bespoke instruments and defence work may limit repeatability/video access. CCTV, purchasing authority and budget not verified.",
+    "adoption_signals": "CNC production, computer-aided design, PLC/SCADA expertise and dedicated calibration facilities.",
+    "operational_usecase": "Track observable batch handoffs; use test-system records for calibration results rather than inferring them from video."
+  },
+  {
+    "operational_contact": "Not separately published in reviewed sources.",
+    "decision_locality": "Founder-led Rajahmundry production business; delegated purchasing limits are unknown.",
+    "name": "BVN Modulars",
+    "city": "Rajahmundry",
+    "region": "Andhra Pradesh",
+    "sector": "Modular furniture manufacturing",
+    "products": "Kitchens, wardrobes, beds and office furniture",
+    "factory_evidence": "Official site calls it a manufacturing company with Homag German machinery and 25–30 employees. Address: D.No.4-332/1, Industrial Area, Lalacheruvu, Rajahmundry 533106.",
+    "leadership": "B.V.N. Reddy — Founder and Managing Director.",
+    "ownership_evidence": "Founder-led project explicitly described. Biography says he entered furniture manufacture in 2013 from a civil-contracting family; shareholding is not verified.",
+    "owner_evidence_grade": "qualified",
+    "leadership_confidence": "High — official homepage and biography.",
+    "email": "bvnmodulars@gmail.com",
+    "email_type": "General business email published on official site",
+    "phone": "+91 9000333633",
+    "website": "https://bvnmodularfurnitures.com/",
+    "sources": [
+      {
+        "url": "https://bvnmodularfurnitures.com/",
+        "claim": "Founder, manufacturing nature, machinery, indicative headcount and public contact"
+      },
+      {
+        "url": "https://bvnmodularfurnitures.com/about",
+        "claim": "Founder/MD background and design-to-manufacturing process"
+      }
+    ],
+    "fit_reason": "Small local manufacturing company with named founder and machine investment.",
+    "discovery_topic": "Panel movement, assembly preparation and rework queues.",
+    "caveat": "Published headcount is not independently current. Confirm factory versus showroom area. CCTV, budget and decision speed unknown.",
+    "adoption_signals": "Homag machinery and modular standardized production described publicly.",
+    "operational_usecase": "Measure work waiting between panel processing and assembly; do not promise dimensional inspection from security cameras."
+  },
+  {
+    "operational_contact": "exports@nicefoods.in",
+    "decision_locality": "Kerala company identifies a manufacturing/operations co-founder; on-site presence and spend approval unverified.",
+    "name": "Nice Global Food Products",
+    "city": "Erattupetta, Kottayam",
+    "region": "Kerala",
+    "sector": "Food processing",
+    "products": "Packaged snacks, groceries and frozen foods; private-label production",
+    "factory_evidence": "Official site describes bulk food manufacturing and modern production. Address: Edakalamattam, Erattupetta PO, Kottayam 686121. Separate plant address is not distinguished.",
+    "leadership": "Amanullah — Co-Founder and Director, Manufacturing & Operations; Shahul — Co-Founder and Director, International Business.",
+    "ownership_evidence": "Two operational co-founders explicitly identified; current ownership percentages not public.",
+    "owner_evidence_grade": "qualified",
+    "leadership_confidence": "High — current official biographies.",
+    "email": "info@nicefoods.in",
+    "email_type": "General official business email",
+    "phone": "+91 7306056714",
+    "website": "https://www.nicefoods.in/",
+    "sources": [
+      {
+        "url": "https://www.nicefoods.in/about",
+        "claim": "Founders, manufacturing role, physical business location, contact, product range and claimed certifications"
+      }
+    ],
+    "fit_reason": "A named manufacturing co-founder gives a relevant discovery route.",
+    "discovery_topic": "Packing-line waiting and visible material handoffs across one product run.",
+    "caveat": "Confirm exact owned production line and validity/scope of certifications. Budget/CCTV unknown; video cannot establish food safety by itself.",
+    "adoption_signals": "Export/private-label production and stated ISO22000/HACCP food-safety systems; certification documents not audited.",
+    "operational_usecase": "Count observable line interruptions and blocked handoffs alongside batch/production logs."
+  },
+  {
+    "operational_contact": "Not separately published in reviewed sources.",
+    "decision_locality": "Single local factory and named contact suggest local operations; purchase authority remains a hypothesis.",
+    "name": "Altom Foods",
+    "city": "Padukkad, Thrissur",
+    "region": "Kerala",
+    "sector": "Snack manufacturing",
+    "products": "Chips, mixtures, jaggery sweets and packaged traditional snacks",
+    "factory_evidence": "Official page explicitly says all snacks are made in its Padukkad factory. Contact address: Padukad, Viyoor PO, Thrissur 680010.",
+    "leadership": "Alexandar Madassery — named founder; contact listed as M.V. Alexander.",
+    "ownership_evidence": "Founder attribution and named contact provide a founder-led proxy. Exact relationship between spelling variants/current legal ownership needs confirmation.",
+    "owner_evidence_grade": "qualified",
+    "leadership_confidence": "Medium — official founder/contact names use different forms.",
+    "email": "altomfoods@gmail.com",
+    "email_type": "General business email published beside named business contact",
+    "phone": "+91 9446535557",
+    "website": "https://www.altomfoods.com/",
+    "sources": [
+      {
+        "url": "https://www.altomfoods.com/",
+        "claim": "Founder, explicit own factory, product range and named business contact/email/phone"
+      }
+    ],
+    "fit_reason": "Clear own-factory statement and accessible named contact for a local food business.",
+    "discovery_topic": "Frying-to-packing material flow and product changeovers.",
+    "caveat": "Current founder role and installed equipment are unverified. No strong public automation/certification evidence. CCTV and budget unknown.",
+    "adoption_signals": "Grew from sweets to more than 60 packaged products per company; no verified recent automation or expansion signal.",
+    "operational_usecase": "Measure visible waiting at a single packing station while recording planned breaks and batch changes."
+  },
+  {
+    "operational_contact": "Not separately published in reviewed sources.",
+    "decision_locality": "Local operating business is documented; approval authority and buying speed are not verified.",
+    "name": "Ganesh Metal Products",
+    "city": "Jalahalli, Bengaluru",
+    "region": "Karnataka",
+    "sector": "Sheet-metal fabrication",
+    "products": "Enclosures, guards, workstations and fabricated steel/aluminium products",
+    "factory_evidence": "Official page describes Bengaluru factory with punch presses, laser cutting, CNC bending, welding and powder coating. Shed11, 302/1, Seetharam Industrial Estate, Bahubali Nagar, Jalahalli 560013.",
+    "leadership": "Individual current owner/leader not named in reviewed official sources.",
+    "ownership_evidence": "Official about page explicitly describes the business as family-owned.",
+    "owner_evidence_grade": "strong",
+    "leadership_confidence": "Unknown for individual; high for published family-owned claim.",
+    "email": "sales@ganeshmetalproducts.com",
+    "email_type": "Sales business email published on official site",
+    "phone": "+91 9606174924",
+    "website": "https://ganeshmetalproducts.com/",
+    "sources": [
+      {
+        "url": "https://ganeshmetalproducts.com/about/",
+        "claim": "Family ownership, factory equipment, shed address and public business contacts"
+      }
+    ],
+    "fit_reason": "Clear family ownership and concrete multi-stage shopfloor evidence.",
+    "discovery_topic": "Queues from cutting/bending to welding or coating.",
+    "caveat": "Ask for family owner/production lead; current machine inventory is self-reported. No CCTV, budget or fast-decision evidence.",
+    "adoption_signals": "CAD/CAM, named laser/CNC machinery and ongoing factory-investment statement.",
+    "operational_usecase": "Measure work-in-process waiting in one material staging zone rather than infer worker productivity."
+  },
+  {
+    "operational_contact": "Not separately published in reviewed sources.",
+    "decision_locality": "Local operating business is documented; approval authority and buying speed are not verified.",
+    "name": "Thunga Silk International",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "sector": "Textile manufacturing",
+    "products": "Woven decorative silk, linen/cotton blends, embroidery and furnishing fabrics",
+    "factory_evidence": "Official site identifies family-owned fabric manufacturing since1981 and up to100,000metres/month capacity. Contact office: Thunga House,96,31stCross,Jayanagar7thBlock; exact loom-factory address not separately disclosed.",
+    "leadership": "Dinesh Thunga — named business contact on company LinkedIn; exact executive/ownership title not established.",
+    "ownership_evidence": "Official homepage explicitly states family-owned textile manufacturer.",
+    "owner_evidence_grade": "strong",
+    "leadership_confidence": "Medium for named business contact; unknown exact current role.",
+    "email": "sales@thunga-silk.com",
+    "email_type": "Business sales email published on company-authored LinkedIn page",
+    "phone": "+91 9845035384 (Dinesh Thunga, company-published)",
+    "website": "https://thunga-silk.com/",
+    "sources": [
+      {
+        "url": "https://thunga-silk.com/",
+        "claim": "Family-owned manufacturing, capacity, technologies, exports and office location"
+      },
+      {
+        "url": "https://in.linkedin.com/company/thunga-silk-international",
+        "claim": "Company-published Dinesh contact, phone and sales email"
+      },
+      {
+        "url": "https://williz.info/articles/2010",
+        "claim": "Dated trade coverage corroborates family silk business and embroidery factory"
+      }
+    ],
+    "fit_reason": "Family manufacturer with export production and named commercial route.",
+    "discovery_topic": "Identify owned weaving/finishing site and repeatable fabric-flow delays.",
+    "caveat": "Exact factory location must be confirmed before qualifying a visit. Dinesh's ownership not inferred from surname. CCTV/budget unknown.",
+    "adoption_signals": "Modern weaving/digital-print offerings; export-market and trade-fair participation claims.",
+    "operational_usecase": "Measure roll handoff or finishing-queue dwell time; fine fabric defects require dedicated imaging."
+  },
+  {
+    "operational_contact": "Not separately published in reviewed sources.",
+    "decision_locality": "Founder/CMD and operating facility documented in Bengaluru region; approval chain unknown.",
+    "name": "Team D",
+    "city": "Bidadi, Bengaluru region",
+    "region": "Karnataka",
+    "sector": "Precision metal and electromechanical manufacturing",
+    "products": "Machined components, sheet metal, tools and contract assemblies",
+    "factory_evidence": "Official site describes100,000sqft facility and75+machines. #150/14 Team D Industrial Park, Shanumangala, Bidadi Industrial Area562109.",
+    "leadership": "Krishna Kumar H.B. — Founder and CMD.",
+    "ownership_evidence": "Founder continuing as CMD is an ownership proxy only; equity/control not independently verified.",
+    "owner_evidence_grade": "qualified",
+    "leadership_confidence": "High — official team listing.",
+    "email": "info@teamd.in",
+    "email_type": "General business email on official website",
+    "phone": "+91 8022222242",
+    "website": "https://www.teamd.in/",
+    "sources": [
+      {
+        "url": "https://www.teamd.in/",
+        "claim": "Founder/CMD, facility, public business contact and certification claims"
+      },
+      {
+        "url": "https://www.teamd.in/aboutus",
+        "claim": "Factory size and specific CNC/toolroom manufacturing equipment"
+      }
+    ],
+    "fit_reason": "Named founder and strong plant evidence; technically sophisticated conditional prospect.",
+    "discovery_topic": "One non-sensitive material handoff or assembly-support bottleneck.",
+    "caveat": "Potentially more structured procurement and in-house automation capacity. Aerospace confidentiality can constrain footage. Budget/CCTV unknown.",
+    "adoption_signals": "AS9100D/ISO9001 claims, multi-axis CNC equipment and automation engineering capability.",
+    "operational_usecase": "Measure visible queues and material availability; prefer machine/controller signals for actual machining state."
+  },
+  {
+    "operational_contact": "Not separately published in reviewed sources.",
+    "decision_locality": "Site offers direct founder access for Hyderabad manufacturing; does not establish spending authority for software.",
+    "name": "Unique Plastic Industries",
+    "city": "Hyderabad",
+    "region": "Telangana",
+    "sector": "Plastic injection moulding",
+    "products": "Household buckets, mugs, soap cases, dustpans and custom moulded parts",
+    "factory_evidence": "Official site explicitly states own Hyderabad production facility with PLC injection-moulding machinery and links a factory map; street address was not resolved in reviewed text.",
+    "leadership": "Ratikanta Parhi — Founder, explicitly described as continuing to lead the company.",
+    "ownership_evidence": "Founder-led manufacturing plus direct-to-founder contact statement; current legal shareholding not verified.",
+    "owner_evidence_grade": "qualified",
+    "leadership_confidence": "High for self-published founder role; external corroboration absent.",
+    "email": "info@uniqueplasticindustries.com",
+    "email_type": "General business email on official site",
+    "phone": "+91 7671004331",
+    "website": "https://uniqueplasticindustries.com/",
+    "sources": [
+      {
+        "url": "https://uniqueplasticindustries.com/",
+        "claim": "Own facility, founder identity, PLC machinery and published business contacts"
+      }
+    ],
+    "fit_reason": "Direct founder route and repeated moulding process match.",
+    "discovery_topic": "Mould-change or material-readiness delays on one actual press.",
+    "caveat": "Website has inconsistent establishment/experience wording and extensive marketing claims; independently verify business and plant before prioritizing. Budget and CCTV unknown.",
+    "adoption_signals": "PLC injection moulding and web-based quotation interface claimed; no independent deployment evidence.",
+    "operational_usecase": "Track visible material waiting and unload/reload gaps; compare with machine signals and planned mould changes."
+  },
+  {
+    "operational_contact": "synopackindia@yahoo.co.in",
+    "decision_locality": "Proprietor and manufacturing address linked in local chamber record; buying authority needs current confirmation.",
+    "name": "Syno Pack India",
+    "city": "Balanagar, Hyderabad",
+    "region": "Telangana",
+    "sector": "Packaging machinery manufacturing",
+    "products": "Form-fill-seal and oil/milk/water pouch-packing machines",
+    "factory_evidence": "FTCCI manufacturing/export member record gives39-4/4,Street1,Sanjay Gandhi Nagar,Balanagar,Hyderabad500037. Seller company page corroborates machine product range and same address.",
+    "leadership": "Kodly Kishan — Proprietor, listed by FTCCI in2024.",
+    "ownership_evidence": "Chamber membership directory explicitly lists proprietor, corroborated by its2021 review.",
+    "owner_evidence_grade": "strong",
+    "leadership_confidence": "Medium-high — chamber evidence dated2024; current role requires reconfirmation.",
+    "email": "synopackindia@gmail.com",
+    "email_type": "Public member business email in FTCCI directory; also business-directory contact",
+    "phone": "+91 9440295112 (FTCCI-listed proprietor)",
+    "website": "https://synopackindia.com/",
+    "sources": [
+      {
+        "url": "https://ftcci.in/source/downloads/AGM%202024/PANEL-E%202024.pdf",
+        "claim": "Company, proprietor, manufacturing/export activity, email, phone and address"
+      },
+      {
+        "url": "https://www.ftcci.in/source/ftapcci/FR%202021/FR%202021%2010%2013.pdf",
+        "claim": "Independent dated chamber corroboration of proprietor and machine manufacture"
+      },
+      {
+        "url": "https://www.exportersindia.com/syno-pack-india/contact.htm",
+        "claim": "Company product range, Kodly Kishan and same Balanagar address"
+      }
+    ],
+    "fit_reason": "Explicit proprietor route at a local machine maker.",
+    "discovery_topic": "Assembly/test preparation waiting in its own workshop.",
+    "caveat": "Qualify own machinery workshop, not customer filling lines. Website access restricted; directory contacts can age. CCTV/budget unknown.",
+    "adoption_signals": "Manufactures/exports automated pouch-packing equipment; this is product capability, not proof of its own digital shopfloor.",
+    "operational_usecase": "Measure material/assembly readiness and test-station queues at one repeated machine subassembly."
+  },
+  {
+    "operational_contact": "Not separately published in reviewed sources.",
+    "decision_locality": "Local operating business is documented; approval authority and buying speed are not verified.",
+    "name": "The Green Wrap",
+    "city": "Menamkulam, Thiruvananthapuram",
+    "region": "Kerala",
+    "sector": "Printing and paper packaging",
+    "products": "Paper/SOS bags, food containers, cups, courier/cake boxes",
+    "factory_evidence": "Official product page describes25,000sqft offset-printing/finishing facility and automated sheet-fed paper-bag production in Kerala. Regional listing places business in Menamkulam.",
+    "leadership": "Individual current family leader not named in reviewed sources.",
+    "ownership_evidence": "Official page explicitly states fifth-generation family-owned printing business.",
+    "owner_evidence_grade": "strong",
+    "leadership_confidence": "Unknown individual; high for explicit official family claim.",
+    "email": "thegreenwraponline@gmail.com",
+    "email_type": "General business email published on official product page",
+    "phone": "+91 9288009924",
+    "website": "https://thegreenwrap.in/",
+    "sources": [
+      {
+        "url": "https://thegreenwrap.in/our-products",
+        "claim": "Family ownership, facility area, automation, products and public contacts"
+      },
+      {
+        "url": "https://www.quickerala.com/trivandrum/menamkulam/the-green-wrap/464751",
+        "claim": "Menamkulam locality and same business email"
+      }
+    ],
+    "fit_reason": "Family-owned factory with explicit recent-generation manufacturing/automation positioning.",
+    "discovery_topic": "Waiting at sheet feeding, finishing or packing handoffs.",
+    "caveat": "Named owner and street-level factory address still need confirmation. Certification/automation statements not independently audited. CCTV/budget unknown.",
+    "adoption_signals": "Fully automated sheet-fed paper-bag production and offset finishing stated publicly.",
+    "operational_usecase": "Quantify blocked/empty material staging at one printing-to-finishing transfer."
+  },
+  {
+    "operational_contact": "Not separately published in reviewed sources.",
+    "decision_locality": "Local operating business is documented; approval authority and buying speed are not verified.",
+    "name": "Sunpac India / Shri Vinayaka Enterprises",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "sector": "Paper packaging",
+    "products": "Paper bags and paper straws",
+    "factory_evidence": "Official business pages describe Bengaluru manufacture and list250,6thCross,5thPhase,WOC Road,Mahaganapathinagar560010. Company LinkedIn lists251 nearby; a separate factory address is not clearly distinguished.",
+    "leadership": "Current individual family owner not established.",
+    "ownership_evidence": "Company-authored LinkedIn explicitly states family-owned and part of Shri Vinayaka Enterprises.",
+    "owner_evidence_grade": "strong",
+    "leadership_confidence": "Unknown individual; company self-description supports family ownership.",
+    "email": "info@sunpacindia.in",
+    "email_type": "Business email on official site and company-authored LinkedIn",
+    "phone": "+91 8792192757",
+    "website": "https://www.sunpacindia.in/",
+    "sources": [
+      {
+        "url": "https://in.linkedin.com/company/sunpacindia",
+        "claim": "Family ownership and Shri Vinayaka Enterprises relationship"
+      },
+      {
+        "url": "https://www.sunpacindia.in/latest-update/high-quality-sos-paper-bags-by-sunpac-india-in-ben/37",
+        "claim": "Manufacturing, physical address and mobile number"
+      },
+      {
+        "url": "https://www.sunpacindia.in/Products/search/goto-alternative/1",
+        "claim": "Paper-straw manufacture and public business email"
+      }
+    ],
+    "fit_reason": "Small family-owned packaging manufacturer; useful reserve after confirming own production.",
+    "discovery_topic": "Confirm owner, actual plant and material/packing bottleneck.",
+    "caveat": "250/251 address discrepancy and no individual leader. Do not treat commercial-office address as independently verified factory. CCTV/budget unknown.",
+    "adoption_signals": "Paper-based packaging product range and ongoing product updates; no strong public machine-investment evidence.",
+    "operational_usecase": "Conditional: material staging/packing delay measurement after actual factory verification."
+  },
+  {
+    "operational_contact": "Not separately published in reviewed sources.",
+    "decision_locality": "Family group based in Kochi; individual plant/entity approval chain must be mapped.",
+    "name": "Leetha Group of Industries",
+    "city": "Kalamassery, Kochi",
+    "region": "Kerala",
+    "sector": "Paper products, coating and printing",
+    "products": "Paper cups/lids, sustainable packaging, coatings and paper-converting machinery",
+    "factory_evidence": "Official site describes in-house tool/machine/product production, coating plants and factory-tour video. Major Industrial Estate,South Kalamassery,Kochi683104.",
+    "leadership": "Founder V.J. Mathews; Dawn Mathews is listed as MD of Leetha Pack by corporate-data sources. Confirm relevant group entity/plant leader.",
+    "ownership_evidence": "Official group site explicitly states family-owned; Tofler separately marks Leetha Pack directors including Dawn Mathews as shareholders.",
+    "owner_evidence_grade": "strong",
+    "leadership_confidence": "Medium — family ownership official, current entity-specific leadership from secondary corporate data.",
+    "email": "sales@leetha.com",
+    "email_type": "Official group sales email",
+    "phone": "+91 9947258333",
+    "website": "https://www.leetha.com/",
+    "sources": [
+      {
+        "url": "https://www.leetha.com/",
+        "claim": "Family ownership, manufacturing, industrial-estate location, contact and digital quality/export claims"
+      },
+      {
+        "url": "https://www.tofler.in/leetha-pack-pvt-ltd/company/U74950KL1994PTC007758",
+        "claim": "Entity-specific Dawn Mathews MD/shareholder listing"
+      }
+    ],
+    "fit_reason": "Strong manufacturing/digital-adoption evidence; larger advanced prospect rather than simplest first pilot.",
+    "discovery_topic": "Find a gap not already covered by its digital track-and-trace or machine controls.",
+    "caveat": "Multiple legal entities and sophisticated internal capabilities. Do not imply fast owner decision or unmet need. Current certificate scope and budget/CCTV unverified.",
+    "adoption_signals": "Officially claims online quality systems/digital track-and-trace, servo machinery and exports to30+countries.",
+    "operational_usecase": "Conditional handoff/queue analytics integrated with existing production records; avoid duplicating established systems."
+  },
+  {
+    "operational_contact": "Not separately published in reviewed sources.",
+    "decision_locality": "Named head of operations is also managing partner at AP mill; actual spending approval remains unverified.",
+    "name": "Sri Hanuma Rice Mills",
+    "city": "Annangi, Gundlapalli",
+    "region": "Andhra Pradesh",
+    "sector": "Rice milling and food packing",
+    "products": "Raw/steam/parboiled rice, broken rice and rice flour",
+    "factory_evidence": "Official site describes8TPH milling facility with dehuskers, polishers, colour sorters and QA lab. Growth Centre,Plot513,Annangi,Gundlapalli523211.",
+    "leadership": "Chunduri Ravi Babu — Founder & MD; Chunduri Srinivasa Rao — Head of Operations & Managing Partner.",
+    "ownership_evidence": "Officially named Managing Partner plus founder/MD; current equity percentages not disclosed.",
+    "owner_evidence_grade": "strong",
+    "leadership_confidence": "High — official leadership listing.",
+    "email": "contact@srihanumaricemills.com",
+    "email_type": "General business email explicitly published on official .in website; different email domain preserved",
+    "phone": "+91 9849115618",
+    "website": "https://srihanumaricemills.in/",
+    "sources": [
+      {
+        "url": "https://srihanumaricemills.in/",
+        "claim": "Founder/partner, factory address,8TPH machinery, QA facilities and business contacts"
+      },
+      {
+        "url": "https://srihanumaricemills.in/contact-us/",
+        "claim": "Official business contact route"
+      }
+    ],
+    "fit_reason": "Operations-managing partner at a specific local food-processing plant.",
+    "discovery_topic": "Bagging/loading queues and material availability around the milling line.",
+    "caveat": "Confirm stated capacity and certification scope. Cameras cannot measure grain quality/moisture reliably. CCTV/budget/decision speed unknown.",
+    "adoption_signals": "Colour sorting,8TPH milling equipment, QA lab and FSSAI claim.",
+    "operational_usecase": "Measure visible waiting at bagging or dispatch; use mill controls for production state."
+  }
+]

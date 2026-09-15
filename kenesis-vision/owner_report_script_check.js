@@ -1,0 +1,10 @@
+
+const cards=[...document.querySelectorAll('.company')];
+const search=document.getElementById('search'),region=document.getElementById('region'),process=document.getElementById('process');
+let leadersOnly=false,directOnly=false;
+function filter(){const words=search.value.toLowerCase().trim().split(/\s+/).filter(Boolean);let count=0;for(const card of cards){const text=card.textContent.toLowerCase();const match=words.every(w=>text.includes(w))&&(!region.value||card.dataset.region===region.value)&&(!process.value||card.dataset.process===process.value)&&(!leadersOnly||card.dataset.leader==='Strong')&&(!directOnly||card.dataset.contact==='Leadership email');card.hidden=!match;if(match)count++;}document.getElementById('count').textContent=count+' of 50 companies';document.getElementById('empty').hidden=count!==0;}
+search.addEventListener('input',filter);region.addEventListener('change',filter);process.addEventListener('change',filter);
+for(const id of ['leaders','direct'])document.getElementById(id).addEventListener('click',()=>{if(id==='leaders')leadersOnly=!leadersOnly;else directOnly=!directOnly;const on=id==='leaders'?leadersOnly:directOnly;document.getElementById(id).classList.toggle('active',on);document.getElementById(id).setAttribute('aria-pressed',String(on));filter();});
+document.getElementById('reset').addEventListener('click',()=>{search.value='';region.value='';process.value='';leadersOnly=directOnly=false;for(const id of ['leaders','direct']){document.getElementById(id).classList.remove('active');document.getElementById(id).setAttribute('aria-pressed','false');}filter();});
+let printState=[];window.addEventListener('beforeprint',()=>{printState=[...document.querySelectorAll('details')].map(d=>[d,d.open]);printState.forEach(([d])=>d.open=true)});window.addEventListener('afterprint',()=>printState.forEach(([d,open])=>d.open=open));document.getElementById('print').addEventListener('click',()=>window.print());
+if(location.hash){const target=document.getElementById(location.hash.slice(1));if(target&&target.tagName==='DETAILS')target.open=true;}

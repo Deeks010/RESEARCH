@@ -1,0 +1,363 @@
+[
+    {
+        "domain":  "ajaysensors.in",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "mx2.zoho.com",
+                           "mx3.zoho.com",
+                           "mx.zoho.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "ammarun.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "mx02.mailngx.com",
+                           "mx01.mailngx.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "anafoods.in",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "mx2.hostinger.com",
+                           "mx1.hostinger.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "anufoods.in",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "alt1.aspmx.l.google.com",
+                           "alt4.aspmx.l.google.com",
+                           "aspmx.l.google.com",
+                           "alt2.aspmx.l.google.com",
+                           "alt3.aspmx.l.google.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "babuengg.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "babuengg-com.mail.protection.outlook.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "bestcastgroup.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "ASPMX.L.GOOGLE.com",
+                           "ALT3.ASPMX.L.GOOGLE.com",
+                           "ALT1.ASPMX.L.GOOGLE.com",
+                           "ALT2.ASPMX.L.GOOGLE.com",
+                           "ALT4.ASPMX.L.GOOGLE.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "bestheattreatment.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "mail.bestheattreatment.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "brightcastings.in",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "mx1.hostinger.COM",
+                           "ALT2.ASPMX.L.GOOGLE.COM",
+                           "ALT1.ASPMX.L.GOOGLE.COM",
+                           "mx2.hostinger.COM",
+                           "ALT3.ASPMX.L.GOOGLE.COM",
+                           "ASPMX.L.GOOGLE.COM",
+                           "ALT4.ASPMX.L.GOOGLE.COM"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "centwintextiles.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "mail.centwintextiles.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "dataone.in",
+        "status":  "DNS lookup failed or no MX found; confirm by phone",
+        "mail_hosts":  [
+
+                       ],
+        "checked_date":  "2026-09-15",
+        "error":  "dataone.in : DNS server failure"
+    },
+    {
+        "domain":  "engineersindia.in",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "mx.zoho.in",
+                           "mx3.zoho.in",
+                           "mx2.zoho.in"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "ganeshmetalproducts.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "mx1.hostinger.com",
+                           "mx2.hostinger.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "gmail.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "gmail-smtp-in.l.google.com",
+                           "alt4.gmail-smtp-in.l.google.com",
+                           "alt1.gmail-smtp-in.l.google.com",
+                           "alt3.gmail-smtp-in.l.google.com",
+                           "alt2.gmail-smtp-in.l.google.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "hotmail.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "hotmail-com.olc.protection.outlook.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "koral.in",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "alt2.aspmx.l.google.com",
+                           "aspmx.l.google.com",
+                           "koral.in",
+                           "alt1.aspmx.l.google.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "leetha.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "leetha-com.mail.protection.outlook.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "manavpackaging.in",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "alt1.aspmx.l.google.com",
+                           "alt3.aspmx.l.google.com",
+                           "alt4.aspmx.l.google.com",
+                           "aspmx.l.google.com",
+                           "alt2.aspmx.l.google.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "mgknitgarments.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "alt1.aspmx.l.google.com",
+                           "alt3.aspmx.l.google.com",
+                           "alt2.aspmx.l.google.com",
+                           "aspmx.l.google.com",
+                           "alt4.aspmx.l.google.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "nicefoods.in",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "mx3.zoho.in",
+                           "mx.zoho.in",
+                           "mx2.zoho.in",
+                           "smtp.google.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "perfectcontrols.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "mx.spamexperts.com",
+                           "lastmx.spamexperts.net",
+                           "fallbackmx.spamexperts.eu"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "rbkapparels.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "us2.mx1.mailhostbox.com",
+                           "us2.mx3.mailhostbox.com",
+                           "us2.mx2.mailhostbox.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "rsmanufacturing.in",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "aspmx.l.google.com",
+                           "alt1.aspmx.l.google.com",
+                           "alt2.aspmx.l.google.com",
+                           "alt4.aspmx.l.google.com",
+                           "alt3.aspmx.l.google.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "sakthiheattreatment.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "mx.zoho.com",
+                           "mx3.zoho.com",
+                           "mx2.zoho.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "sathyamlabels.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "mailstore1.secureserver.net",
+                           "smtp.secureserver.net"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "shahifoodproducts.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "mx.zoho.in",
+                           "mx2.zoho.in",
+                           "mx3.zoho.in"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "sriamutham.in",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "_dc-mx.44a4826b4a06.sriamutham.in"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "srihanumaricemills.com",
+        "status":  "No MX returned; confirm by phone before email",
+        "mail_hosts":  [
+
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "sriram-industries.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "aspmx.l.google.com",
+                           "alt4.aspmx.l.google.com",
+                           "alt1.aspmx.l.google.com",
+                           "alt2.aspmx.l.google.com",
+                           "alt3.aspmx.l.google.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "sunpacindia.in",
+        "status":  "No MX returned; confirm by phone before email",
+        "mail_hosts":  [
+
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "teamd.in",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "teamd-in.mail.protection.outlook.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "thunga-silk.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "mx2.zoho.com",
+                           "mx.zoho.com",
+                           "mx3.zoho.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "tpcpltd.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "us2.mx1.mailhostbox.com",
+                           "us2.mx3.mailhostbox.com",
+                           "us2.mx2.mailhostbox.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "uniqueplasticindustries.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "mx2.hostinger.com",
+                           "mx1.hostinger.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "varnaprintfactory.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "mx1.hostinger.com",
+                           "mx2.hostinger.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "yahoo.co.in",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "mx-apac.mail.gm0.yahoodns.net"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "yahoo.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "mta6.am0.yahoodns.net",
+                           "mta7.am0.yahoodns.net",
+                           "mta5.am0.yahoodns.net"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "youkayfashion.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "youkayfashion.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    }
+]

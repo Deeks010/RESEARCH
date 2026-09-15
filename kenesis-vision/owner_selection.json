@@ -1,0 +1,604 @@
+{
+  "selected": [
+    {
+      "name": "Thirumala Press Components Pvt Ltd (TPC)",
+      "metric_scores": [
+        3,
+        1,
+        2,
+        2,
+        1
+      ],
+      "sector_group": "Metalworking and machinery",
+      "geography": "Chennai metro"
+    },
+    {
+      "name": "Sriram Industries",
+      "metric_scores": [
+        3,
+        2,
+        1,
+        1,
+        0
+      ],
+      "sector_group": "Metalworking and machinery",
+      "geography": "Chennai metro"
+    },
+    {
+      "name": "Saravana Bhava Fabricators (SB Fabricators)",
+      "metric_scores": [
+        3,
+        1,
+        2,
+        1,
+        0
+      ],
+      "sector_group": "Metalworking and machinery",
+      "geography": "Chennai metro"
+    },
+    {
+      "name": "Guru Mangala Engineering",
+      "metric_scores": [
+        3,
+        2,
+        2,
+        1,
+        1
+      ],
+      "sector_group": "Metalworking and machinery",
+      "geography": "Chennai metro"
+    },
+    {
+      "name": "AJ Food Products / AJWA Cakes",
+      "metric_scores": [
+        3,
+        1,
+        2,
+        2,
+        0
+      ],
+      "sector_group": "Food processing",
+      "geography": "Chennai metro"
+    },
+    {
+      "name": "CHIK / Designs Factory",
+      "metric_scores": [
+        2,
+        1,
+        1,
+        2,
+        0
+      ],
+      "sector_group": "Garments and textiles",
+      "geography": "Chennai metro"
+    },
+    {
+      "name": "Aphrodite's Drape",
+      "metric_scores": [
+        3,
+        1,
+        2,
+        1,
+        0
+      ],
+      "sector_group": "Garments and textiles",
+      "geography": "Chennai metro"
+    },
+    {
+      "name": "Base Electrical Engineering",
+      "metric_scores": [
+        3,
+        1,
+        1,
+        1,
+        0
+      ],
+      "sector_group": "Electrical and electronics",
+      "geography": "Chennai metro"
+    },
+    {
+      "name": "J-Tech Instruments",
+      "metric_scores": [
+        3,
+        1,
+        2,
+        1,
+        0
+      ],
+      "sector_group": "Electrical and electronics",
+      "geography": "Chennai metro"
+    },
+    {
+      "name": "R S Manufacturing",
+      "metric_scores": [
+        2,
+        1,
+        2,
+        2,
+        0
+      ],
+      "sector_group": "Packaging and printing",
+      "geography": "Chennai metro"
+    },
+    {
+      "name": "JP Electricals",
+      "metric_scores": [
+        3,
+        1,
+        1,
+        1,
+        0
+      ],
+      "sector_group": "Electrical and electronics",
+      "geography": "Chennai metro"
+    },
+    {
+      "name": "NFS Valves India Corporation",
+      "metric_scores": [
+        3,
+        1,
+        2,
+        2,
+        1
+      ],
+      "sector_group": "Metalworking and machinery",
+      "geography": "Chennai metro"
+    },
+    {
+      "name": "VRM Polymers",
+      "metric_scores": [
+        3,
+        1,
+        1,
+        2,
+        0
+      ],
+      "sector_group": "Plastics",
+      "geography": "Chennai metro"
+    },
+    {
+      "name": "Engineers India (Ambattur precision machining)",
+      "metric_scores": [
+        3,
+        1,
+        2,
+        2,
+        1
+      ],
+      "sector_group": "Metalworking and machinery",
+      "geography": "Chennai metro"
+    },
+    {
+      "name": "Paramasivam Kitchen Equipments",
+      "metric_scores": [
+        3,
+        1,
+        1,
+        1,
+        0
+      ],
+      "sector_group": "Metalworking and machinery",
+      "geography": "Chennai metro"
+    },
+    {
+      "name": "Dhruv Comfort Seating",
+      "metric_scores": [
+        2,
+        1,
+        2,
+        2,
+        0
+      ],
+      "sector_group": "Furniture and wood",
+      "geography": "Chennai metro"
+    },
+    {
+      "name": "Shahi Foods",
+      "metric_scores": [
+        2,
+        1,
+        1,
+        2,
+        1
+      ],
+      "sector_group": "Food processing",
+      "geography": "Chennai metro"
+    },
+    {
+      "name": "Harshal Printing & Packaging",
+      "metric_scores": [
+        2,
+        1,
+        1,
+        2,
+        0
+      ],
+      "sector_group": "Packaging and printing",
+      "geography": "Chennai metro"
+    },
+    {
+      "name": "Perfect Controls",
+      "metric_scores": [
+        3,
+        1,
+        2,
+        2,
+        1
+      ],
+      "sector_group": "Electrical and electronics",
+      "geography": "Chennai metro"
+    },
+    {
+      "name": "Electron Coil Technology",
+      "metric_scores": [
+        3,
+        2,
+        2,
+        2,
+        1
+      ],
+      "sector_group": "Electrical and electronics",
+      "geography": "Chennai metro"
+    },
+    {
+      "name": "Ammarun Foundries",
+      "metric_scores": [
+        3,
+        2,
+        2,
+        2,
+        1
+      ],
+      "sector_group": "Metalworking and machinery",
+      "geography": "Tamil Nadu — other"
+    },
+    {
+      "name": "Bright Castings / Bright Groups",
+      "metric_scores": [
+        3,
+        2,
+        2,
+        2,
+        1
+      ],
+      "sector_group": "Metalworking and machinery",
+      "geography": "Tamil Nadu — other"
+    },
+    {
+      "name": "Babu Engineering Foundry",
+      "metric_scores": [
+        3,
+        1,
+        2,
+        2,
+        1
+      ],
+      "sector_group": "Metalworking and machinery",
+      "geography": "Tamil Nadu — other"
+    },
+    {
+      "name": "MG Knit Garments",
+      "metric_scores": [
+        2,
+        2,
+        2,
+        2,
+        1
+      ],
+      "sector_group": "Garments and textiles",
+      "geography": "Tamil Nadu — other"
+    },
+    {
+      "name": "Koral International / Koral Knitting Mills",
+      "metric_scores": [
+        2,
+        1,
+        2,
+        2,
+        1
+      ],
+      "sector_group": "Garments and textiles",
+      "geography": "Tamil Nadu — other"
+    },
+    {
+      "name": "RBK Apparels",
+      "metric_scores": [
+        2,
+        1,
+        2,
+        2,
+        1
+      ],
+      "sector_group": "Garments and textiles",
+      "geography": "Tamil Nadu — other"
+    },
+    {
+      "name": "Centwin Textile Mills Private Limited",
+      "metric_scores": [
+        3,
+        1,
+        1,
+        2,
+        1
+      ],
+      "sector_group": "Garments and textiles",
+      "geography": "Tamil Nadu — other"
+    },
+    {
+      "name": "Sathyam Labels",
+      "metric_scores": [
+        2,
+        1,
+        1,
+        2,
+        1
+      ],
+      "sector_group": "Packaging and printing",
+      "geography": "Tamil Nadu — other"
+    },
+    {
+      "name": "Sri Amutham Apparel",
+      "metric_scores": [
+        2,
+        2,
+        2,
+        2,
+        1
+      ],
+      "sector_group": "Garments and textiles",
+      "geography": "Tamil Nadu — other"
+    },
+    {
+      "name": "T-Form Garments / YOUKAY Fashion",
+      "metric_scores": [
+        3,
+        1,
+        1,
+        2,
+        0
+      ],
+      "sector_group": "Garments and textiles",
+      "geography": "Tamil Nadu — other"
+    },
+    {
+      "name": "Anu Foods (Pappa Brand Appalam)",
+      "metric_scores": [
+        3,
+        2,
+        1,
+        2,
+        1
+      ],
+      "sector_group": "Food processing",
+      "geography": "Tamil Nadu — other"
+    },
+    {
+      "name": "Aasic Plastic",
+      "metric_scores": [
+        3,
+        2,
+        2,
+        2,
+        1
+      ],
+      "sector_group": "Plastics",
+      "geography": "Tamil Nadu — other"
+    },
+    {
+      "name": "Best Heat Treatment Services",
+      "metric_scores": [
+        2,
+        1,
+        2,
+        2,
+        1
+      ],
+      "sector_group": "Heat treatment",
+      "geography": "Tamil Nadu — other"
+    },
+    {
+      "name": "Sakthi Heat Treatment Industry",
+      "metric_scores": [
+        2,
+        1,
+        2,
+        2,
+        1
+      ],
+      "sector_group": "Heat treatment",
+      "geography": "Tamil Nadu — other"
+    },
+    {
+      "name": "Varna Print Factory",
+      "metric_scores": [
+        2,
+        2,
+        2,
+        2,
+        1
+      ],
+      "sector_group": "Garments and textiles",
+      "geography": "South India — other"
+    },
+    {
+      "name": "Ajay Sensors & Instruments",
+      "metric_scores": [
+        3,
+        2,
+        2,
+        1,
+        1
+      ],
+      "sector_group": "Electrical and electronics",
+      "geography": "South India — other"
+    },
+    {
+      "name": "BVN Modulars",
+      "metric_scores": [
+        2,
+        1,
+        2,
+        2,
+        1
+      ],
+      "sector_group": "Furniture and wood",
+      "geography": "South India — other"
+    },
+    {
+      "name": "Nice Global Food Products",
+      "metric_scores": [
+        2,
+        1,
+        1,
+        2,
+        1
+      ],
+      "sector_group": "Food processing",
+      "geography": "South India — other"
+    },
+    {
+      "name": "Altom Foods",
+      "metric_scores": [
+        2,
+        2,
+        2,
+        2,
+        0
+      ],
+      "sector_group": "Food processing",
+      "geography": "South India — other"
+    },
+    {
+      "name": "Ganesh Metal Products",
+      "metric_scores": [
+        3,
+        1,
+        2,
+        2,
+        1
+      ],
+      "sector_group": "Metalworking and machinery",
+      "geography": "South India — other"
+    },
+    {
+      "name": "Team D",
+      "metric_scores": [
+        2,
+        1,
+        2,
+        2,
+        1
+      ],
+      "sector_group": "Metalworking and machinery",
+      "geography": "South India — other"
+    },
+    {
+      "name": "Syno Pack India",
+      "metric_scores": [
+        3,
+        2,
+        2,
+        1,
+        0
+      ],
+      "sector_group": "Metalworking and machinery",
+      "geography": "South India — other"
+    },
+    {
+      "name": "The Green Wrap",
+      "metric_scores": [
+        3,
+        1,
+        1,
+        2,
+        1
+      ],
+      "sector_group": "Packaging and printing",
+      "geography": "South India — other"
+    },
+    {
+      "name": "Sri Hanuma Rice Mills",
+      "metric_scores": [
+        3,
+        1,
+        2,
+        2,
+        1
+      ],
+      "sector_group": "Food processing",
+      "geography": "South India — other"
+    },
+    {
+      "name": "Manav Packaging Private Limited",
+      "metric_scores": [
+        2,
+        2,
+        2,
+        2,
+        1
+      ],
+      "sector_group": "Metalworking and machinery",
+      "geography": "Chennai metro"
+    },
+    {
+      "name": "Ford Packaging",
+      "metric_scores": [
+        2,
+        1,
+        2,
+        2,
+        0
+      ],
+      "sector_group": "Packaging and printing",
+      "geography": "Chennai metro"
+    },
+    {
+      "name": "Vicoplast Packing Industries Private Limited",
+      "metric_scores": [
+        2,
+        1,
+        2,
+        2,
+        1
+      ],
+      "sector_group": "Packaging and printing",
+      "geography": "Chennai metro"
+    },
+    {
+      "name": "Best Cast IT Limited (Best Cast)",
+      "metric_scores": [
+        3,
+        1,
+        2,
+        2,
+        1
+      ],
+      "sector_group": "Packaging and printing",
+      "geography": "Chennai metro"
+    },
+    {
+      "name": "Ambattur Metal Treaters",
+      "metric_scores": [
+        2,
+        2,
+        2,
+        2,
+        1
+      ],
+      "sector_group": "Heat treatment",
+      "geography": "Chennai metro"
+    },
+    {
+      "name": "Shree Selva Enterprises",
+      "metric_scores": [
+        2,
+        1,
+        2,
+        2,
+        1
+      ],
+      "sector_group": "Metalworking and machinery",
+      "geography": "Chennai metro"
+    }
+  ]
+}

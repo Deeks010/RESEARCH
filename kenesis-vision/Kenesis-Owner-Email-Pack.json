@@ -1,0 +1,1539 @@
+{
+  "scope": "Latest owner-led 50; not all 91",
+  "counts": {
+    "direct_verified": 12,
+    "association_uncertain": 8,
+    "general_only": 30
+  },
+  "examples": [
+    {
+      "company": "Thirumala Press Components",
+      "subject": "A question about TPC’s press and welding work",
+      "source": "https://www.tpcpltd.com/about",
+      "basis": "Official profile documents presses, fabrication and robotic welding. Client logos include TAFE and Rane; logos are company claims, not independently confirmed current contracts.",
+      "body": "Hi Sharath,\n\nI saw that TPC combines press work, fabrication and robotic welding for tractor and automotive components.\n\nI’m building Kenesis Vision. We’re testing whether existing CCTV can help explain production delays that are difficult to reconstruct afterwards.\n\nWhen a batch waits between operations, how does your team work out what held it up? Or is that already covered by your production records?\n\nWe’re choosing our first repeatable product. A brief reply about one gap would help us decide what is worth building.\n\n[Your name]\nKenesis Vision"
+    },
+    {
+      "company": "Varna Print Factory",
+      "subject": "How does Varna review interruptions across shifts?",
+      "source": "https://varnaprintfactory.com/about-us",
+      "basis": "Official page states digital printing on woven/knit fabrics, three shifts and Ranganath’s operational role. Companies in his biography are former employers, not established Varna clients.",
+      "body": "Hi Ranganath,\n\nI read that Varna prints both woven and knit fabrics and runs three shifts. Your site says you oversee operations.\n\nWhen output is below plan, can you trace the interruption across those shifts from your current records?\n\nAt Kenesis Vision, we’re testing AI on existing CCTV to make visible production events easier to review. We’re still deciding which factory problem to build a repeatable product around.\n\nWhat, if anything, is hard to reconstruct at Varna today? A short reply is enough.\n\n[Your name]\nKenesis Vision"
+    },
+    {
+      "company": "Shahi Foods",
+      "subject": "A question about Shahi’s Uthukottai factory",
+      "source": "https://www.shahifoodproducts.com/contact-us.html",
+      "basis": "Official contact page separates the Uthukottai factory from Koyambedu office. Product range is appalam/pappadum. No unverified named client is used.",
+      "body": "Hello Shahi Foods team,\n\nCould you pass this to the owner or production manager? I saw that your factory is in Uthukottai and your office is in Koyambedu.\n\nI’m building Kenesis Vision. We’re testing whether existing CCTV can help answer production questions without someone replaying hours of footage.\n\nIs there a recurring factory issue that your team currently has to visit or phone the floor to understand?\n\nWe’re choosing our first repeatable product. One example would help us judge whether video could be useful.\n\n[Your name]\nKenesis Vision"
+    }
+  ],
+  "companies": [
+    {
+      "company": "Electron Coil Technology",
+      "contact": {
+        "name": "Electron Coil Technology",
+        "email": "ectshankar@gmail.com",
+        "role": "Proprietor",
+        "person": "R Umashankar",
+        "classification": "direct_verified",
+        "source_urls": [
+          "https://ecttransformers.com/",
+          "https://www.dcmsme.gov.in/CLCS_TUS_Scheme/PMS/s/Sanction-Order-date-11-04-2025.pdf"
+        ],
+        "evidence": "Official website names the proprietor. Government MSME April 2025 sanction order explicitly pairs UMASHANKAR with ectshankar@gmail.com and matching company address. Published business contact association verified; inbox delivery and exclusive ownership untested.",
+        "checked_date": "2026-09-15"
+      },
+      "products": "SMPS, linear/current/control transformers; solenoid and inductor coils",
+      "production_evidence": "Official site describes in-house manufacturing, coil-winding machines and lamination assembly;14 Rajalakshmi Nagar1stStreet, Pallikaranai600100.",
+      "client_evidence": "Named current clients not verified in this research. Do not invent them.",
+      "discovery_question": "Ask whether winding-to-assembly delays or agreed station-ready gaps create measurable loss.",
+      "company_sources": [
+        {
+          "url": "https://ecttransformers.com/",
+          "claim": "Proprietor, in-house winding/assembly, manufacturing address and contacts."
+        }
+      ]
+    },
+    {
+      "company": "Guru Mangala Engineering",
+      "contact": {
+        "name": "Guru Mangala Engineering",
+        "email": "vsiva_suma@yahoo.com",
+        "role": "Proprietor",
+        "person": "V Sivanesan",
+        "classification": "association_uncertain",
+        "source_urls": [
+          "https://www.gurumangalaengg.com/about-us/",
+          "https://www.gurumangalaengg.com/gallery/"
+        ],
+        "evidence": "Official contact block names proprietor V Sivanesan and lists vsiva_suma@yahoo.com plus gurumangalaengg@gmail.com. Mailbox is published and owner-associated, but the page does not explicitly assign either address to him individually.",
+        "checked_date": "2026-09-15"
+      },
+      "products": "Machine bases, structures, jigs, fixtures and cutting machines",
+      "production_evidence": "Official site describes machine-base fabrication and machining;27C Jeevaraarthinam3rdCross, KSR Nagar, Chennai600053.",
+      "client_evidence": "Named current clients not verified in this research. Do not invent them.",
+      "discovery_question": "Ask whether fabrication-to-machining handoff or agreed restricted-zone access has a measurable operational cost and can be reliably observed in existing footage.",
+      "company_sources": [
+        {
+          "url": "https://www.gurumangalaengg.com/fabrication-service/",
+          "claim": "Manufacturing activities, proprietor, address, email and phones."
+        }
+      ]
+    },
+    {
+      "company": "Ambattur Metal Treaters",
+      "contact": {
+        "name": "Ambattur Metal Treaters",
+        "email": "amtheat.ns@gmail.com",
+        "role": "CEO / proprietor",
+        "person": "N Sampathkumar",
+        "classification": "direct_verified",
+        "source_urls": [
+          "https://cdnc.heyzine.com/files/uploaded/v2/cba6aa8c84c81b1fadcc84a1a37de3e0dbe8b78f.pdf",
+          "https://www.amtheat.com/",
+          "https://asm-htse.com/htse-committee.php"
+        ],
+        "evidence": "ASM India member directory individual record names N Sampathkumar and lists amtheat@hotmail.com / amtheat.ns@gmail.com, with CEO/proprietor role and matching factory contacts. Publication date is unclear. Personal business association verified; delivery untested.",
+        "checked_date": "2026-09-15",
+        "alternate_emails": [
+          "amtheat@hotmail.com"
+        ]
+      },
+      "products": "Hardening, tempering, annealing and carburizing services",
+      "production_evidence": "Company lists operating heat-treatment units with continuous and batch furnaces.",
+      "client_evidence": "Named current clients not verified in this research. Do not invent them.",
+      "discovery_question": "How do operators distinguish mandatory treatment/cooling time from avoidable unloading delay?",
+      "company_sources": [
+        {
+          "url": "https://www.amtheat.com/",
+          "claim": "Furnaces, unit locations, public email and phone"
+        },
+        {
+          "url": "https://cdnc.heyzine.com/files/uploaded/v2/cba6aa8c84c81b1fadcc84a1a37de3e0dbe8b78f.pdf",
+          "claim": "ASM India directory associates N. Sampathkumar with CEO/proprietor role and matching company contacts; directory date unclear"
+        }
+      ]
+    },
+    {
+      "company": "Best Cast IT Limited (Best Cast)",
+      "contact": {
+        "name": "Best Cast IT Limited (Best Cast)",
+        "email": "sales@bestcastgroup.com",
+        "role": "Murali Kabirdass — Managing Director; Shreyas M. Kabirdass — Director, Business Management",
+        "person": "Murali Kabirdass",
+        "classification": "general_only",
+        "source_urls": [
+          "https://bestcastgroup.com/about-best-cast/",
+          "https://bestcastgroup.com/enquiries/"
+        ],
+        "evidence": "Official leadership and contact pages retain sales@bestcastgroup.com. Corporate directories also expose balu@bcil.net and cs@shareway.in, neither demonstrated to belong to the owner. A related-company email mentioning Murali was not promoted to a verified factory-owner route.",
+        "checked_date": "2026-09-15"
+      },
+      "products": "Die castings, machined parts and assemblies",
+      "production_evidence": "Official enquiry page lists two Ambattur units; capabilities include casting, machining and assembly.",
+      "client_evidence": "Named current clients not verified in this research. Do not invent them.",
+      "discovery_question": "How are casting-to-machining queues and avoidable cycle delays measured?",
+      "company_sources": [
+        {
+          "url": "https://bestcastgroup.com/about-best-cast/",
+          "claim": "Family ownership, named leadership and manufacturing capabilities"
+        },
+        {
+          "url": "https://bestcastgroup.com/enquiries/",
+          "claim": "Two Ambattur unit addresses, sales email and business phones"
+        }
+      ]
+    },
+    {
+      "company": "Engineers India (Ambattur precision machining)",
+      "contact": {
+        "name": "Engineers India (Ambattur precision machining)",
+        "email": "info@engineersindia.in",
+        "role": "Uthayakumar — Proprietor.",
+        "person": "Uthayakumar",
+        "classification": "general_only",
+        "source_urls": [
+          "https://www.engineersindia.in/",
+          "https://in.linkedin.com/in/uthayakumar-shanmugam-77b43219"
+        ],
+        "evidence": "Official company mailbox retained. Targeted owner-name and company searches did not establish a separately published direct owner email.",
+        "checked_date": "2026-09-15"
+      },
+      "products": "Automotive/industrial CNC-machined components",
+      "production_evidence": "Official site labels factory A14 1stCross, Balaji Nagar, Ambattur600053 and lists VMC equipment.",
+      "client_evidence": "Named current clients not verified in this research. Do not invent them.",
+      "discovery_question": "Ask whether CNC-job handoff delay or agreed ready-to-run station absence has a measurable operational cost and can be reliably observed in existing footage.",
+      "company_sources": [
+        {
+          "url": "https://www.engineersindia.in/",
+          "claim": "Proprietor, factory, VMC machining and published encoded mailbox."
+        },
+        {
+          "url": "https://in.linkedin.com/in/uthayakumar-shanmugam-77b43219",
+          "claim": "Direct professional affiliation with precision-machining firm."
+        }
+      ]
+    },
+    {
+      "company": "Manav Packaging Private Limited",
+      "contact": {
+        "name": "Manav Packaging Private Limited",
+        "email": "dhinesh@manavpackaging.in",
+        "role": "Managing Director",
+        "person": "Dhinesh Kumar Varadharajan",
+        "classification": "direct_verified",
+        "source_urls": [
+          "https://www.manavpackaging.in/contact.php",
+          "https://www.epces.in/EPCES-Annual-Report-2019-20-final-draft-as-on-21-10-2020.pdf",
+          "https://www.seepz.gov.in/public/uploads/174239112467dac7541973d_EPCES.pdf"
+        ],
+        "evidence": "Current official contact page republishes dhinesh@manavpackaging.in. EPCES 2019–20 annual report explicitly assigns this email to the named managing director. A 2025 council meeting record corroborates continuing MD role. Delivery untested.",
+        "checked_date": "2026-09-15"
+      },
+      "products": "Corrugated packaging; also trades paper",
+      "production_evidence": "Company describes corrugated production within Chennai's MEPZ and gives factory plots A4–A6.",
+      "client_evidence": "Named current clients not verified in this research. Do not invent them.",
+      "discovery_question": "Which corrugation/packing handoffs are manually tracked and cause costly waiting?",
+      "company_sources": [
+        {
+          "url": "https://www.manavpackaging.in/about.php",
+          "claim": "Manufacturing, MEPZ address, named email and phone"
+        },
+        {
+          "url": "https://www.sezepc.in/central-governing-councils.php",
+          "claim": "2025–27 council identifies Dhinesh Kumar Varadharajan as MD"
+        },
+        {
+          "url": "https://www.epces.in/EPCES-Annual-Report-2019-20-final-draft-as-on-21-10-2020.pdf",
+          "claim": "Historical council report explicitly associates MD with same email"
+        },
+        {
+          "url": "https://www.tofler.in/manav-packaging-private-limited/company/U21093TN1999PTC043810",
+          "claim": "Secondary corporate-data page labels the current MD as shareholder; stake/control unknown."
+        }
+      ]
+    },
+    {
+      "company": "NFS Valves India Corporation",
+      "contact": {
+        "name": "NFS Valves India Corporation",
+        "email": "nfsvalves@gmail.com",
+        "role": "S Vincent — Proprietor.",
+        "person": "S Vincent",
+        "classification": "general_only",
+        "source_urls": [
+          "https://nfsvalves.co.in/about.html"
+        ],
+        "evidence": "Official company mailbox retained. Targeted owner-name and company searches did not establish a separately published direct owner email.",
+        "checked_date": "2026-09-15"
+      },
+      "products": "Speciality valves and centrifugal pumps",
+      "production_evidence": "Official site lists own pattern/machine shop, assembly tables and hydro/pneumatic testing;134 Ganapathy Nagar, Cholambedu MainRoad600062.",
+      "client_evidence": "Named current clients not verified in this research. Do not invent them.",
+      "discovery_question": "Ask whether assembly-to-hydrotest handoff or testing-area access has a measurable operational cost and can be reliably observed in existing footage.",
+      "company_sources": [
+        {
+          "url": "https://nfsvalves.co.in/about.html",
+          "claim": "Proprietor, own machining/assembly/testing facilities, address and contacts."
+        }
+      ]
+    },
+    {
+      "company": "Perfect Controls",
+      "contact": {
+        "name": "Perfect Controls",
+        "email": "sales@perfectcontrols.com",
+        "role": "Current proprietor / CEO",
+        "person": "M Krishnamurthy",
+        "classification": "general_only",
+        "source_urls": [
+          "https://www.perfectcontrols.com/about.html",
+          "https://perfectcontrols.com/contact.html"
+        ],
+        "evidence": "Official about and contact pages publish sales@perfectcontrols.com. Search found only masked purported individual emails in lead databases; no complete direct email verified.",
+        "checked_date": "2026-09-15"
+      },
+      "products": "Transformer oil/winding temperature indicators and control instruments",
+      "production_evidence": "Official site describes owned buildings, mechanical/electronic manufacturing, line assembly and calibration/test facilities;7 NorthRoad, WestCITNagar600035.",
+      "client_evidence": "Named current clients not verified in this research. Do not invent them.",
+      "discovery_question": "Ask whether assembly-to-final-test completion is manually verified and whether video can show a reliable agreed step.",
+      "company_sources": [
+        {
+          "url": "https://www.perfectcontrols.com/about.html",
+          "claim": "Current proprietor, owned manufacturing facilities, assembly/testing processes and contacts."
+        }
+      ]
+    },
+    {
+      "company": "Thirumala Press Components Pvt Ltd (TPC)",
+      "contact": {
+        "name": "Thirumala Press Components Pvt Ltd (TPC)",
+        "email": "sales@tpcpltd.com",
+        "role": "Chairman / Managing Director; major shareholders",
+        "person": "Suresh A G / Sharath Suresh",
+        "classification": "association_uncertain",
+        "source_urls": [
+          "https://www.tpcpltd.com/about",
+          "https://www.tofler.in/thirumala-press-components-private-limited/company/U29130TN1992PTC022712",
+          "https://cleartax.in/f/company/thirumala-press-components-private-limited/U29130TN1992PTC022712/"
+        ],
+        "evidence": "Current official website publishes sales@tpcpltd.com and names Suresh A G and Sharath Suresh. Tofler publishes suresh@tpcpltd.com as company email, not explicitly chairman email. ClearTax has older suresh@thirumalapresscomponents.com. Retain official sales address until owner association is confirmed.",
+        "checked_date": "2026-09-15",
+        "candidate_email": "suresh@tpcpltd.com",
+        "candidate_email_status": "Published secondary corporate contact; individual assignment unconfirmed"
+      },
+      "products": "Tractor/automotive pressed and fabricated components",
+      "production_evidence": "Official site describes presses, fabrication and robotic welding at Golden Estate, S.No3 Plot13 Porur–Kundrathur Road, Chennai600122.",
+      "client_evidence": "Official profile documents presses, fabrication and robotic welding. Client logos include TAFE and Rane; logos are company claims, not independently confirmed current contracts.",
+      "discovery_question": "Ask whether press-to-welding handoff or production-zone access exceptions has a measurable operational cost and can be reliably observed in existing footage.",
+      "company_sources": [
+        {
+          "url": "https://www.tpcpltd.com/about",
+          "claim": "Named major shareholders; local production, robotic welding, IT systems, email and phone."
+        }
+      ]
+    },
+    {
+      "company": "AJ Food Products / AJWA Cakes",
+      "contact": {
+        "name": "AJ Food Products / AJWA Cakes",
+        "email": "ajwabakery2015@gmail.com",
+        "role": "A Hameed — Proprietor.",
+        "person": "A Hameed",
+        "classification": "general_only",
+        "source_urls": [
+          "https://ajwacakes.com/"
+        ],
+        "evidence": "Official company mailbox retained. Targeted owner-name and company searches did not establish a separately published direct owner email.",
+        "checked_date": "2026-09-15"
+      },
+      "products": "Packaged cakes and baked goods",
+      "production_evidence": "Official site labels factory at95/96 A/6 KH Road, Jeeva Nagar, Korukkupet600021 and describes retail-ready bakery manufacture.",
+      "client_evidence": "Named current clients not verified in this research. Do not invent them.",
+      "discovery_question": "Ask whether packing-station coverage or a defined hygiene entry-step exception has a measurable operational cost and can be reliably observed in existing footage.",
+      "company_sources": [
+        {
+          "url": "https://ajwacakes.com/",
+          "claim": "Proprietor, actual factory address, baked-goods manufacture and contacts."
+        }
+      ]
+    },
+    {
+      "company": "Shree Selva Enterprises",
+      "contact": {
+        "name": "Shree Selva Enterprises",
+        "email": "mmshreemuve@yahoo.co.in",
+        "role": "Murugan — proprietor according to secondary GST directory",
+        "person": "Murugan",
+        "classification": "general_only",
+        "source_urls": [
+          "https://shreeselvadiecasting.com/",
+          "https://piceapp.com/gst-number-search/shree-selva-enterprises-33akrpm1601l1z4/"
+        ],
+        "evidence": "Official company mailbox retained. Targeted owner-name and company searches did not establish a separately published direct owner email.",
+        "checked_date": "2026-09-15"
+      },
+      "products": "High-pressure aluminium die-cast components",
+      "production_evidence": "Official site lists four die-casting machines, industrial furnaces and the Kundrathur facility.",
+      "client_evidence": "Named current clients not verified in this research. Do not invent them.",
+      "discovery_question": "Are casting completion and part-removal delays logged, and which delays matter financially?",
+      "company_sources": [
+        {
+          "url": "https://shreeselvadiecasting.com/",
+          "claim": "Production equipment, products, address, email and phone"
+        },
+        {
+          "url": "https://piceapp.com/gst-number-search/shree-selva-enterprises-33akrpm1601l1z4/",
+          "claim": "Secondary GST directory names Murugan as proprietor; matching Amarambedu address"
+        }
+      ]
+    },
+    {
+      "company": "Vicoplast Packing Industries Private Limited",
+      "contact": {
+        "name": "Vicoplast Packing Industries Private Limited",
+        "email": "vicoplastindia@gmail.com",
+        "role": "Founder / director",
+        "person": "G Palani / Palani Gnanam",
+        "classification": "association_uncertain",
+        "source_urls": [
+          "https://www.vicoplastindia.com/about-us/",
+          "https://www.easyleadz.com/company/vicoplast-packing-industries-private-limited-U25205TN2020PTC133935",
+          "https://www.insiderbiz.in/company/VICOPLAST-PACKING-INDUSTRIES-PRIVATE-LIMITED"
+        ],
+        "evidence": "Official company website publishes vicoplastindia@gmail.com and names founder G Palani. EasyLeadz and InsiderBiz publish palanig@sriramforklifters.com as corporate email and separately list director Palani Gnanam. Individual mailbox assignment and current use are not established. Retain official email as primary.",
+        "checked_date": "2026-09-15",
+        "candidate_email": "palanig@sriramforklifters.com",
+        "candidate_email_status": "Published secondary corporate contact; individual assignment unconfirmed"
+      },
+      "products": "Polyethylene packaging films and bags",
+      "production_evidence": "Official profile lists extrusion, printing and cutting/sealing machinery at Thirumudivakkam.",
+      "client_evidence": "Named current clients not verified in this research. Do not invent them.",
+      "discovery_question": "What causes waiting between extrusion, printing and sealing, and what is already measured?",
+      "company_sources": [
+        {
+          "url": "https://www.vicoplastindia.com/about-us/",
+          "claim": "Founder, production equipment, factory address and public contacts"
+        }
+      ]
+    },
+    {
+      "company": "Aphrodite's Drape",
+      "contact": {
+        "name": "Aphrodite's Drape",
+        "email": "aphroditesdrape@gmail.com",
+        "role": "Shanmugapriya — Founder and Proprietor.",
+        "person": "Shanmugapriya",
+        "classification": "general_only",
+        "source_urls": [
+          "https://www.aphroditesdrape.in/about-us/"
+        ],
+        "evidence": "Current official about page names founder/proprietor Shanmugapriya and gives aphroditesdrape@gmail.com as company contact. No separately assigned personal business email found.",
+        "checked_date": "2026-09-15"
+      },
+      "products": "Custom bridal, children's, maternity clothing and uniforms",
+      "production_evidence": "Official page explicitly lists production unit at Plot110&111 Burma Colony, Perungudi600096; separate design studio.",
+      "client_evidence": "Named current clients not verified in this research. Do not invent them.",
+      "discovery_question": "Ask whether stitching-to-finishing handoff or packing completion has a measurable operational cost and can be reliably observed in existing footage.",
+      "company_sources": [
+        {
+          "url": "https://www.aphroditesdrape.in/aphroditesss/",
+          "claim": "Proprietor, bespoke manufacturing, production-unit address and contacts."
+        }
+      ]
+    },
+    {
+      "company": "J-Tech Instruments",
+      "contact": {
+        "name": "J-Tech Instruments",
+        "email": "jtechinstruments@gmail.com",
+        "person": "John Wesily — owner named by GST-data mirror.",
+        "role": "See named leader; mailbox ownership unconfirmed",
+        "classification": "general_only",
+        "source_urls": [
+          "https://www.jtechinstruments.in/contact"
+        ],
+        "evidence": "General company contact. Institutional syllabus independently names J. John Wesily as proprietor; no separately assigned owner email established.",
+        "checked_date": "2026-09-15"
+      },
+      "products": "Educational electrical, instrumentation and testing equipment",
+      "production_evidence": "Official site states own manufacturing operations at106 Burma Colony near Water Tank, Perungudi600096.",
+      "client_evidence": "Named current clients not verified in this research. Do not invent them.",
+      "discovery_question": "Ask whether assembly-to-functional-test handoff has a measurable operational cost and can be reliably observed in existing footage.",
+      "company_sources": [
+        {
+          "url": "https://www.jtechinstruments.in/contact",
+          "claim": "Manufacturing, sole-proprietor status, GST, location and contacts."
+        },
+        {
+          "url": "https://piceapp.com/gst-number-search/j-tech-instruments-33azrpj1748g1z8/",
+          "claim": "Secondary GST mirror dated19Feb2026 identifies legal proprietor John Wesily."
+        }
+      ]
+    },
+    {
+      "company": "Saravana Bhava Fabricators (SB Fabricators)",
+      "contact": {
+        "name": "Saravana Bhava Fabricators (SB Fabricators)",
+        "email": "saravanabhavafab@gmail.com",
+        "person": "PK Paneer — Proprietor.",
+        "role": "See named leader; mailbox ownership unconfirmed",
+        "classification": "general_only",
+        "source_urls": [
+          "https://sbfabs.com/"
+        ],
+        "evidence": "Official general inbox; proprietor named separately.",
+        "checked_date": "2026-09-15"
+      },
+      "products": "Rolling shutters, gates and doors",
+      "production_evidence": "Official site describes over10,000sqft combined manufacturing/office space and family-owned facility; Sr.No395/2A Meppur Road, Meppur Village, Malayambakkam600123.",
+      "client_evidence": "Named current clients not verified in this research. Do not invent them.",
+      "discovery_question": "Ask whether gate/shutter assembly handoff or restricted workshop-zone access has a measurable operational cost and can be reliably observed in existing footage.",
+      "company_sources": [
+        {
+          "url": "https://sbfabs.com/",
+          "claim": "Family ownership, proprietor, workshop footprint, products and contacts."
+        }
+      ]
+    },
+    {
+      "company": "Sriram Industries",
+      "contact": {
+        "name": "Sriram Industries",
+        "email": "rajendran@sriram-industries.com",
+        "person": "M Nagarajan — Proprietor and Founder.",
+        "role": "See named leader; mailbox ownership unconfirmed",
+        "classification": "general_only",
+        "source_urls": [
+          "https://www.sriram-industries.com/contact.htm"
+        ],
+        "evidence": "Published email belongs to finance/commercial head M. Rajendran, not proprietor M. Nagarajan. Useful route, not owner-direct.",
+        "checked_date": "2026-09-15"
+      },
+      "products": "Sheet-metal/structural fabrication and machined components",
+      "production_evidence": "Official contact page describes its fabrication shop; No274 Redhills High Road, Balaji Nagar East, Chennai600053.",
+      "client_evidence": "Named current clients not verified in this research. Do not invent them.",
+      "discovery_question": "Ask whether fabrication handoff delays or unauthorized entry into agreed work zones has a measurable operational cost and can be reliably observed in existing footage.",
+      "company_sources": [
+        {
+          "url": "https://www.sriram-industries.com/contact.htm",
+          "claim": "Proprietor, fabrication shop, address and named commercial/purchase contacts."
+        }
+      ]
+    },
+    {
+      "company": "Dhruv Comfort Seating",
+      "contact": {
+        "name": "Dhruv Comfort Seating",
+        "email": "dcs_chairs@yahoo.com",
+        "person": "Sunil Arya — Founder and MD.",
+        "role": "See named leader; mailbox ownership unconfirmed",
+        "classification": "general_only",
+        "source_urls": [
+          "https://www.dhruvcomfortseating.net/"
+        ],
+        "evidence": "Founder Sunil Arya and general business inbox published; no owner-specific assignment.",
+        "checked_date": "2026-09-15"
+      },
+      "products": "Office/commercial chairs, sofas and tables",
+      "production_evidence": "Official site describes own furniture manufacture and finished-product testing;5 ThoppaiVinayagarStreet, ABlock EzhilNagar600118.",
+      "client_evidence": "Named current clients not verified in this research. Do not invent them.",
+      "discovery_question": "Ask whether chair-assembly-to-final-inspection handoff has a measurable operational cost and can be reliably observed in existing footage.",
+      "company_sources": [
+        {
+          "url": "https://www.dhruvcomfortseating.net/",
+          "claim": "Founder/MD, manufacturing, address and contacts."
+        },
+        {
+          "url": "https://www.dhruvcomfortseating.net/about.html",
+          "claim": "Furniture manufacture and finished-product inspections."
+        }
+      ]
+    },
+    {
+      "company": "Ford Packaging",
+      "contact": {
+        "name": "Ford Packaging",
+        "email": "ford_packaging@yahoo.com",
+        "person": "G. Dhamotharan — proprietor named in company profile",
+        "role": "See named leader; mailbox ownership unconfirmed",
+        "classification": "general_only",
+        "source_urls": [
+          "https://www.fordpackaging.co.in/about.html"
+        ],
+        "evidence": "Proprietor named in profile; email is general business contact.",
+        "checked_date": "2026-09-15"
+      },
+      "products": "Corrugated cartons, boards, rolls and wooden pallets",
+      "production_evidence": "Official company profile describes two production factories in the Chennai/Pallavaram and Sriperumbudur areas.",
+      "client_evidence": "Named current clients not verified in this research. Do not invent them.",
+      "discovery_question": "Which repeat delays appear at both factories and how are supervisors tracking them?",
+      "company_sources": [
+        {
+          "url": "https://www.fordpackaging.co.in/",
+          "claim": "Manufacturing and live published business contacts"
+        },
+        {
+          "url": "https://www.fordpackaging.co.in/about.html",
+          "claim": "Official search-indexed profile: proprietor and two-factory footprint; live retrieval unsuccessful"
+        }
+      ]
+    },
+    {
+      "company": "R S Manufacturing",
+      "contact": {
+        "name": "R S Manufacturing",
+        "email": "siva@rsmanufacturing.in",
+        "person": "Siva — page describes supervision and proprietor experience; exact linkage qualified.",
+        "role": "See named leader; mailbox ownership unconfirmed",
+        "classification": "association_uncertain",
+        "source_urls": [
+          "https://sites.google.com/rsmanufacturing.in/rsmanufacturing/about-us"
+        ],
+        "evidence": "Siva is explicitly assigned this email. Prose links supervision and proprietor experience ambiguously; legal ownership remains uncertain.",
+        "checked_date": "2026-09-15"
+      },
+      "products": "Barcode labels, stickers and security labels",
+      "production_evidence": "Official page explicitly lists factory PK5 ThirdCross SIDCO Industrial Estate, Ekkaduthangal600032.",
+      "client_evidence": "Named current clients not verified in this research. Do not invent them.",
+      "discovery_question": "Ask whether label-production-to-dispatch handoff has a measurable operational cost and can be reliably observed in existing footage.",
+      "company_sources": [
+        {
+          "url": "https://sites.google.com/rsmanufacturing.in/rsmanufacturing/about-us",
+          "claim": "Factory, products, proprietor-related narrative and named emails/phones."
+        }
+      ]
+    },
+    {
+      "company": "VRM Polymers",
+      "contact": {
+        "name": "VRM Polymers",
+        "email": "vrmpolymers2@gmail.com",
+        "person": "Arul — Proprietor.",
+        "role": "See named leader; mailbox ownership unconfirmed",
+        "classification": "general_only",
+        "source_urls": [
+          "https://www.vrmpolymers.com/"
+        ],
+        "evidence": "Official business inbox; no separate owner mailbox established.",
+        "checked_date": "2026-09-15"
+      },
+      "products": "50–1000ml plastic containers",
+      "production_evidence": "Official site describes manufacturing facility;5/73 CrossStreet, Sripuram, ThirumalaiRoad, Chrompet600044.",
+      "client_evidence": "Named current clients not verified in this research. Do not invent them.",
+      "discovery_question": "Ask whether container-finishing-to-packing handoff has a measurable operational cost and can be reliably observed in existing footage.",
+      "company_sources": [
+        {
+          "url": "https://www.vrmpolymers.com/",
+          "claim": "Proprietor, container production facility, address, email and phones."
+        }
+      ]
+    },
+    {
+      "company": "Shahi Foods",
+      "contact": {
+        "name": "Shahi Foods",
+        "email": "info@shahifoodproducts.com",
+        "person": "Founder Kader Ahmed Khan; another paragraph renders D K Ahmed Khan.",
+        "role": "See named leader; mailbox ownership unconfirmed",
+        "classification": "general_only",
+        "source_urls": [
+          "https://www.shahifoodproducts.com/contact-us.html"
+        ],
+        "evidence": "Three general inboxes published. Factory address now verified: Plot 16, K.R.C. Nagar, Uthukottai 602026. No owner-specific email found.",
+        "checked_date": "2026-09-15"
+      },
+      "products": "Appalam, papad and poppadums",
+      "production_evidence": "Official contact page lists factory at Plot 16, K.R.C. Nagar, Uthukottai Post & Taluk, Tiruvallur 602026. Koyambedu is the separate office.",
+      "client_evidence": "Named current clients not verified in this research. Do not invent them.",
+      "discovery_question": "Ask whether packing coverage or a defined hygiene-entry step has a measurable operational cost and can be reliably observed in existing footage.",
+      "company_sources": [
+        {
+          "url": "https://www.shahifoodproducts.com/about-us.html",
+          "claim": "Founder name variants, owned local factory, manufacturing, quality audits and contacts."
+        }
+      ]
+    },
+    {
+      "company": "Base Electrical Engineering",
+      "contact": {
+        "name": "Base Electrical Engineering",
+        "email": "baseelectrical2014@gmail.com",
+        "person": "Magudapathi P — Proprietor.",
+        "role": "See named leader; mailbox ownership unconfirmed",
+        "classification": "general_only",
+        "source_urls": [
+          "https://www.baseelectricalengg.com/about.html"
+        ],
+        "evidence": "Magudapathi P named as proprietor; email is shared business contact.",
+        "checked_date": "2026-09-15"
+      },
+      "products": "Electrical/control panels, bus ducts and distribution boards",
+      "production_evidence": "Official site describes manufacturing;635 Phase1 PKV Mahanagar, Kundrathur600069.",
+      "client_evidence": "Named current clients not verified in this research. Do not invent them.",
+      "discovery_question": "Ask whether panel-assembly verification handoff or test-zone entry has a measurable operational cost and can be reliably observed in existing footage.",
+      "company_sources": [
+        {
+          "url": "https://baseelectricalengg.com/",
+          "claim": "Sole proprietorship, panel manufacture, address, email and phones."
+        }
+      ]
+    },
+    {
+      "company": "JP Electricals",
+      "contact": {
+        "name": "JP Electricals",
+        "email": "jpelectrical2001@gmail.com",
+        "person": "A Anthony — owner.",
+        "role": "See named leader; mailbox ownership unconfirmed",
+        "classification": "general_only",
+        "source_urls": [
+          "https://jpelectricals.co.in/"
+        ],
+        "evidence": "General business contact; no separate A. Anthony address established.",
+        "checked_date": "2026-09-15"
+      },
+      "products": "Manufactured control panels and switchboards",
+      "production_evidence": "Official site describes manufacturing control panels alongside electrical contracting;41 Balaji Nagar, Duraikannu1stStreet, Pozhichalur600074.",
+      "client_evidence": "Named current clients not verified in this research. Do not invent them.",
+      "discovery_question": "Ask whether panel-build completion or controlled test-area entry has a measurable operational cost and can be reliably observed in existing footage.",
+      "company_sources": [
+        {
+          "url": "https://jpelectricals.co.in/",
+          "claim": "Explicit owner, panel manufacturing, location and contacts."
+        }
+      ]
+    },
+    {
+      "company": "Paramasivam Kitchen Equipments",
+      "contact": {
+        "name": "Paramasivam Kitchen Equipments",
+        "email": "paramasivamkitchenequipment@gmail.com",
+        "person": "Babu — Proprietor.",
+        "role": "See named leader; mailbox ownership unconfirmed",
+        "classification": "general_only",
+        "source_urls": [
+          "https://www.paramasivamkitchenequipments.com/contact-us/"
+        ],
+        "evidence": "Official proprietor Babu and business email route; mailbox assignment not explicit. Address differs in secondary GST listing; confirm before visit.",
+        "checked_date": "2026-09-15"
+      },
+      "products": "Bakery and cooking equipment",
+      "production_evidence": "Official site states kitchen-equipment manufacture;67 Tiny Sector, Ekkattuthangal600097.",
+      "client_evidence": "Named current clients not verified in this research. Do not invent them.",
+      "discovery_question": "Ask whether equipment assembly handoff or fabrication-zone access has a measurable operational cost and can be reliably observed in existing footage.",
+      "company_sources": [
+        {
+          "url": "https://www.paramasivamkitchenequipments.com/contact-us/",
+          "claim": "Proprietor, equipment manufacturing, address, phone and published encoded email."
+        }
+      ]
+    },
+    {
+      "company": "CHIK / Designs Factory",
+      "contact": {
+        "name": "CHIK / Designs Factory",
+        "email": "mailus.chik@gmail.com",
+        "person": "Current indexed page: Mahesh and Padmavathi, husband-and-wife founders; older rendered page spells founder Magesh.",
+        "role": "See named leader; mailbox ownership unconfirmed",
+        "classification": "association_uncertain",
+        "source_urls": [
+          "https://mychik.co.in/pages/about-us"
+        ],
+        "evidence": "Founders publish this address beneath their signed message. Treated as founder-associated shared business inbox, not individually verified owner mailbox. Page claims 2–3 daily orders; wholesale/total factory volume unknown.",
+        "checked_date": "2026-09-15"
+      },
+      "products": "Kurtis, nightwear and women's clothing",
+      "production_evidence": "Official about page describes own manufacturing setup with40machines and60people; older page lists267 1stMain, AVM Nagar, Madhavaram600060.",
+      "client_evidence": "Named current clients not verified in this research. Do not invent them.",
+      "discovery_question": "Ask whether stitching-to-packing delay or agreed station-ready absence has a measurable operational cost and can be reliably observed in existing footage.",
+      "company_sources": [
+        {
+          "url": "https://mychik.co.in/pages/about-us",
+          "claim": "Founder-family operation, own garment unit and current indexed contact; older rendered variant has different spelling/contact."
+        }
+      ]
+    },
+    {
+      "company": "Harshal Printing & Packaging",
+      "contact": {
+        "name": "Harshal Printing & Packaging",
+        "email": "hppchennai@gmail.com",
+        "person": "Prashanth Shah on company letterhead; D&B lists Prashant Shantilal Shah as proprietor.",
+        "role": "See named leader; mailbox ownership unconfirmed",
+        "classification": "general_only",
+        "source_urls": [
+          "https://gurunanakcollege.edu.in/files-new/dvv/criterion-1/1.3.4-projects-commerce.pdf"
+        ],
+        "evidence": "2021 company letterhead signed by proprietor gives general email. Current owner mailbox not found. Similar HPPL interview not merged without entity linkage.",
+        "checked_date": "2026-09-15"
+      },
+      "products": "Printed and converted paper packaging",
+      "production_evidence": "Tamil Nadu Boiler Directorate lists factory at6&7 KannabiramanKoilStreet, Kanagachatram, Madhavaram600060 as of31Mar2023.",
+      "client_evidence": "Named current clients not verified in this research. Do not invent them.",
+      "discovery_question": "Ask whether printing-to-finishing handoff or dispatch-area access has a measurable operational cost and can be reliably observed in existing footage.",
+      "company_sources": [
+        {
+          "url": "https://gurunanakcollege.edu.in/files-new/dvv/criterion-1/1.3.4-projects-commerce.pdf",
+          "claim": "Company letterhead, proprietor signature, email, phone and factory address."
+        },
+        {
+          "url": "https://boilers.tn.gov.in/pdfs/Boileruser_Firms_ShellType_FY23.pdf",
+          "claim": "Government factory/boiler-user listing at matching Madhavaram address."
+        },
+        {
+          "url": "https://www.dnb.com/business-directory/company-profiles.harshal_printing_packaging.03820f6a580d81260c242a7647e1581b.html",
+          "claim": "Named proprietor and matching manufacturing premises."
+        }
+      ]
+    },
+    {
+      "company": "Aasic Plastic",
+      "contact": {
+        "name": "Aasic Plastic",
+        "email": "aasicplastic@gmail.com",
+        "person": "B. Sidhic",
+        "role": "Proprietor; email is general business inbox",
+        "classification": "general_only",
+        "source_urls": [
+          "https://www.aasicplastic.com/Contact",
+          "https://blog.aasicplastic.com/dates-container-manufacturer-in-india"
+        ],
+        "checked_date": "2026-09-15",
+        "delivery_tested": false,
+        "evidence": "Official contact explicitly labels this general communication and quotation email. Proprietor has a separate named phone, not a separately assigned email."
+      },
+      "products": "HDPE bottles, containers, caps and plastic engineering components",
+      "production_evidence": "Official contact-page index explicitly labels factory at 91/2 N.M. Street, Palakarai, Trichy 620001, distinct from office at Thennur.",
+      "client_evidence": "Named current clients not verified in this research. Do not invent them.",
+      "discovery_question": "A single visible container-handling or packaging check; handling of changeovers and legitimate station absence.",
+      "company_sources": [
+        {
+          "url": "https://www.aasicplastic.com/Contact",
+          "claim": "Read indexed official page: separate factory/office, proprietor, marketing head and contacts; accessed 2026-09-15. Live browser extraction returns JavaScript shell."
+        },
+        {
+          "url": "https://blog.aasicplastic.com/dates-container-manufacturer-in-india",
+          "claim": "Official blog corroborates business email, marketing phone and Palakarai factory."
+        }
+      ]
+    },
+    {
+      "company": "Ammarun Foundries",
+      "contact": {
+        "name": "Ammarun Foundries",
+        "email": "visvanathan@ammarun.com",
+        "person": "N. Visvanathan",
+        "role": "CEO; family partnership founder",
+        "classification": "direct_verified",
+        "source_urls": [
+          "https://www.ammarun.com/",
+          "https://www.ammarun.com/contactus.html"
+        ],
+        "checked_date": "2026-09-15",
+        "delivery_tested": false,
+        "evidence": "Official contact page explicitly pairs CEO N. Visvanathan with visvanathan@ammarun.com. Verification means published person-address association, not deliverability.",
+        "additional_contacts": [
+          {
+            "person": "V. Arunkumar",
+            "role": "Partner",
+            "email": "arunkumar@ammarun.com",
+            "classification": "direct_verified"
+          },
+          {
+            "person": "C. Senthil Kumar",
+            "role": "COO",
+            "email": "senthilkumar@ammarun.com",
+            "classification": "direct_verified"
+          }
+        ]
+      },
+      "products": "Grey, ductile and compacted-graphite iron castings",
+      "production_evidence": "Official Administration Office & Works: SF80/6A Rathinagiri Road, Vilankurichi 641035; factory runs three shifts.",
+      "client_evidence": "Named current clients not verified in this research. Do not invent them.",
+      "discovery_question": "Restricted-zone and material-handling events around casting",
+      "company_sources": [
+        {
+          "url": "https://www.ammarun.com/",
+          "claim": "Read official family partnership and casting-process profile Accessed 2026-09-15."
+        },
+        {
+          "url": "https://www.ammarun.com/contactus.html",
+          "claim": "Read CEO/partner/COO names, works address and direct business contacts Accessed 2026-09-15."
+        }
+      ]
+    },
+    {
+      "company": "Bright Castings / Bright Groups",
+      "contact": {
+        "name": "Bright Castings / Bright Groups",
+        "email": "balraj@brightcastings.in",
+        "person": "S. Balraj",
+        "role": "Joint Managing Director; owner in government programme",
+        "classification": "direct_verified",
+        "source_urls": [
+          "https://www.brightcastings.in/contact-us/",
+          "https://www.brightcastings.in/wp-content/themes/brightcastings/pdf/Bright-Castings-Pvt-Ltd.pdf",
+          "https://sidhiee.beeindia.gov.in/AboutUs/participatingmsme"
+        ],
+        "checked_date": "2026-09-15",
+        "delivery_tested": false,
+        "evidence": "Official contact page Contact Person block explicitly pairs S. Balraj with balraj@brightcastings.in and brightcast@gmail.com. Brochure and BEE establish role; undated ownership record still needs reconfirmation."
+      },
+      "products": "Iron and precision machined castings",
+      "production_evidence": "Official contact lists Peelamedu works and separate foundry sites at Kattampatti and Codissia Industrial Park, Mopperipalayam.",
+      "client_evidence": "Named current clients not verified in this research. Do not invent them.",
+      "discovery_question": "Visible moulding-to-finishing transfers and exclusion-zone events",
+      "company_sources": [
+        {
+          "url": "https://www.brightcastings.in/contact-us/",
+          "claim": "Read indexed official group plants and direct contacts Accessed 2026-09-15."
+        },
+        {
+          "url": "https://www.brightcastings.in/wp-content/themes/brightcastings/pdf/Bright-Castings-Pvt-Ltd.pdf",
+          "claim": "Read indexed official brochure: foundry, Sinto equipment, Joint MD Accessed 2026-09-15."
+        },
+        {
+          "url": "https://sidhiee.beeindia.gov.in/AboutUs/participatingmsme",
+          "claim": "Read indexed government programme table naming owner; live request returned 502 Accessed 2026-09-15."
+        }
+      ]
+    },
+    {
+      "company": "Anu Foods (Pappa Brand Appalam)",
+      "contact": {
+        "name": "Anu Foods (Pappa Brand Appalam)",
+        "email": "bala@anufoods.in",
+        "person": "V. Balasubramanian",
+        "role": "Proprietor",
+        "classification": "direct_verified",
+        "source_urls": [
+          "https://www.anufoods.in/about-us/",
+          "https://www.anufoods.in/",
+          "https://www.anufoods.in/contact/",
+          "https://www.nmpb.nic.in/sites/default/files/Final%20Report%20-%20Trader%20-%20Exporter%20-%20Importer%20-%20Extractor%20Directory.pdf"
+        ],
+        "checked_date": "2026-09-15",
+        "delivery_tested": false,
+        "evidence": "Official contact names Mr. Balasubramanian for whole spices/flours at the same published phone and address. Official email previously extracted as bala@anufoods.in; government directory corroborates this address but uses a different family member as head. Prefer official named product contact. Shared family access possible.",
+        "additional_contacts": [
+          {
+            "person": "Arun Bala",
+            "role": "Appalam/papad business contact; proprietor family",
+            "email": "arunbala@anufoods.org",
+            "classification": "direct_verified"
+          },
+          {
+            "person": "Arjun Bala",
+            "role": "Ground spices/masala business contact; proprietor family",
+            "email": "arjunbala@anufoods.org",
+            "classification": "direct_verified"
+          }
+        ]
+      },
+      "products": "Appalam, spices, masala powders and flour products",
+      "production_evidence": "Official site describes own production/export in Madurai; registered office at 3298 TNHB Colony, West Anuppanady 625009.",
+      "client_evidence": "Named current clients not verified in this research. Do not invent them.",
+      "discovery_question": "Visible food-handling and packing checkpoint review",
+      "company_sources": [
+        {
+          "url": "https://www.anufoods.in/about-us/",
+          "claim": "Read official proprietor, family succession and exports/certifications Accessed 2026-09-15."
+        },
+        {
+          "url": "https://www.anufoods.in/",
+          "claim": "Read products, Madurai address/phones; public HTML confirmed explicit email Accessed 2026-09-15."
+        }
+      ]
+    },
+    {
+      "company": "Babu Engineering Foundry",
+      "contact": {
+        "name": "Babu Engineering Foundry",
+        "email": "babu@babuengg.com",
+        "person": "Boopendra Babu",
+        "role": "Owner per BEE programme; Babu is cookware co-founder",
+        "classification": "direct_verified",
+        "source_urls": [
+          "https://babuengg.com/",
+          "https://sidhiee.beeindia.gov.in/AboutUs/participatingmsme",
+          "https://bhagyacookware.com/contact-us/",
+          "https://bhagyacookware.com/about-us/"
+        ],
+        "checked_date": "2026-09-15",
+        "delivery_tested": false,
+        "evidence": "BEE programme directly pairs Boopendra Babu with babu@babuengg.com and 9994702223 at the matching Kannampalayam factory. Company-owned Bhagya Cookware contact independently publishes this exact email. Government record undated; mailbox delivery untested."
+      },
+      "products": "Grey and SG iron castings; cast-iron cookware",
+      "production_evidence": "Official in-house melting, moulding, fettling and testing at 287 Pappampatty Road, Kannampalayam 641402.",
+      "client_evidence": "Named current clients not verified in this research. Do not invent them.",
+      "discovery_question": "Access and material-handling events around melting and fettling",
+      "company_sources": [
+        {
+          "url": "https://babuengg.com/",
+          "claim": "Read official works, contacts, machinery and 2023/2024 investment timeline Accessed 2026-09-15."
+        },
+        {
+          "url": "https://sidhiee.beeindia.gov.in/AboutUs/participatingmsme",
+          "claim": "Indexed government table names owner Boopendra Babu Accessed 2026-09-15."
+        }
+      ]
+    },
+    {
+      "company": "MG Knit Garments",
+      "contact": {
+        "name": "MG Knit Garments",
+        "email": "manimaran@mgknitgarments.com",
+        "person": "P. Manimaran",
+        "role": "Founder",
+        "classification": "direct_verified",
+        "source_urls": [
+          "https://www.mgknitgarments.com/",
+          "https://www.mgknitgarments.com/about",
+          "https://www.mgknitgarments.com/contact-9"
+        ],
+        "checked_date": "2026-09-15",
+        "delivery_tested": false,
+        "evidence": "Official website identifies founder P. Manimaran and publishes the exact matching named business email alongside its general Gmail inbox. The site does not guarantee only the founder reads it."
+      },
+      "products": "Knitted T-shirts, shorts, hoodies and sweatshirts",
+      "production_evidence": "Official factory: 10/356B Bharathi Nagar, Ammapalayam 641652; office separately located nearby.",
+      "client_evidence": "Official about page names ElevenParis, Gertrude Gaston and Ba&sh as customers. Company-reported relationship, not independently verified current contracts.",
+      "discovery_question": "Bundle movement and visible packing/checking handovers",
+      "company_sources": [
+        {
+          "url": "https://www.mgknitgarments.com/",
+          "claim": "Read official founder, separate office/factory, export description and contacts Accessed 2026-09-15."
+        }
+      ]
+    },
+    {
+      "company": "Sri Amutham Apparel",
+      "contact": {
+        "name": "Sri Amutham Apparel",
+        "email": "sadha@sriamutham.in",
+        "person": "K. S. Sadhanandan",
+        "role": "Founder and MD; named inbox association not explicit",
+        "classification": "association_uncertain",
+        "source_urls": [
+          "https://sriamutham.in/about-us.html",
+          "https://sriamutham.in/"
+        ],
+        "checked_date": "2026-09-15",
+        "delivery_tested": false,
+        "evidence": "Official homepage publishes sadha@sriamutham.in; about page identifies founder/MD K. S. Sadhanandan. No explicit name-to-email contact block found. Similarity of Sadha to Sadhanandan alone is insufficient to call it a verified owner inbox."
+      },
+      "products": "Fashion knitwear for adults and children",
+      "production_evidence": "Official profile describes manufacturing facility with automated printing; contact 527/2B-1 Palaniammal Nagar, Vijayapuram 641606.",
+      "client_evidence": "Named current clients not verified in this research. Do not invent them.",
+      "discovery_question": "Production/printing-to-packing handovers",
+      "company_sources": [
+        {
+          "url": "https://sriamutham.in/about-us.html",
+          "claim": "Read indexed official founder and physical manufacturing description Accessed 2026-09-15."
+        },
+        {
+          "url": "https://sriamutham.in/",
+          "claim": "Read official/indexed production, printing, packing and business contacts Accessed 2026-09-15."
+        }
+      ]
+    },
+    {
+      "company": "Best Heat Treatment Services",
+      "contact": {
+        "name": "Best Heat Treatment Services",
+        "email": "sqf@bestheattreatment.com",
+        "person": "R. Nagarajan",
+        "role": "Founder/managing partner; current selected email is a plant inbox",
+        "classification": "general_only",
+        "source_urls": [
+          "https://www.bestheattreatment.com/units/",
+          "https://www.bestheattreatment.com/about-us/",
+          "https://www.bestheattreatment.com/contact-us/",
+          "https://kahedu.edu.in/naac/dvv/C-1/upload/1.3.4.1/project%20and%20field%20visit%20merged.pdf",
+          "https://www.sanprecisionalloys.com/wp-content/uploads/2023/04/Company-Brocuhure.pdf"
+        ],
+        "checked_date": "2026-09-15",
+        "delivery_tested": false,
+        "evidence": "Current official contact publishes marketing@bestheattreatment.com; existing sqf inbox is unit-specific. A 2019 university industrial-visit email explicitly copies Nagarajan at a Gmail address, but its age requires phone confirmation before using as current owner contact. Related official group brochure repeats address with an extra .com typo; do not silently correct from that source.",
+        "additional_contacts": [
+          {
+            "person": "R. Nagarajan",
+            "role": "Managing director in 2019 correspondence",
+            "email": "nagarajanbest1989@gmail.com",
+            "classification": "association_uncertain",
+            "caveat": "Person association explicit in university publication; current use unverified. Historical business-use address; phone-first."
+          },
+          {
+            "person": "K. Ravikumar",
+            "role": "Senior Manager, Process, in 2019 correspondence",
+            "email": "ravikumar@bestheattreatment.com",
+            "classification": "association_uncertain",
+            "caveat": "Historical named operations contact. Reconfirm present role."
+          },
+          {
+            "person": "",
+            "role": "Current company marketing inbox",
+            "email": "marketing@bestheattreatment.com",
+            "classification": "general_only"
+          }
+        ]
+      },
+      "products": "Carburising, hardening, annealing, nitriding and induction treatment of metal components",
+      "production_evidence": "Official units page identifies induction-hardening Unit II at 43 Private Industrial Estate and sealed-quench Unit III at Bodipalayam, Coimbatore. Main address: 53 SIDCO Industrial Estate, Coimbatore 641021.",
+      "client_evidence": "Named current clients not verified in this research. Do not invent them.",
+      "discovery_question": "Furnace access zones and visible loading/unloading sequence; where camera evidence could support existing process records.",
+      "company_sources": [
+        {
+          "url": "https://www.bestheattreatment.com/units/",
+          "claim": "Official indexed units page: named process plants, unit email and phone. Accessed 2026-09-15."
+        },
+        {
+          "url": "https://www.bestheattreatment.com/about-us/",
+          "claim": "Read official company page: founder R. Nagarajan and heat-treatment processes."
+        }
+      ]
+    },
+    {
+      "company": "Centwin Textile Mills Private Limited",
+      "contact": {
+        "name": "Centwin Textile Mills Private Limited",
+        "email": "info@centwintextiles.com",
+        "person": "P. Kumaraswamy",
+        "role": "Managing Director; email general",
+        "classification": "general_only",
+        "source_urls": [
+          "https://centwintextiles.com/"
+        ],
+        "checked_date": "2026-09-15",
+        "delivery_tested": false,
+        "evidence": "Official site identifies MD and publishes company inboxes. No public direct MD address verified. Exporter-directory Centwin/hosiery entries may refer to the separated group entities and were not substituted."
+      },
+      "products": "Cotton and blended yarns and fabrics",
+      "production_evidence": "Official Mills At: SF406 Karur Road, Vedasandur 624710; two units in same campus. Registered office in Arulpuram, Tiruppur.",
+      "client_evidence": "Named current clients not verified in this research. Do not invent them.",
+      "discovery_question": "Material movement and exception review around spinning-to-packing",
+      "company_sources": [
+        {
+          "url": "https://centwintextiles.com/",
+          "claim": "Read official promoter history, distinct mills/office addresses, contacts and machinery Accessed 2026-09-15."
+        }
+      ]
+    },
+    {
+      "company": "Koral International / Koral Knitting Mills",
+      "contact": {
+        "name": "Koral International / Koral Knitting Mills",
+        "email": "koral@koral.in",
+        "person": "C. Viswanathan / Anoop Viswanathan",
+        "role": "Founder/chairman / CEO; email general",
+        "classification": "general_only",
+        "source_urls": [
+          "https://www.koral.in/"
+        ],
+        "checked_date": "2026-09-15",
+        "delivery_tested": false,
+        "evidence": "Official site names both leaders but labels koral@koral.in as Indian customers contact and exports@koral.in as international customers contact. No direct leader address found."
+      },
+      "products": "Innerwear, casualwear, activewear and baby garments",
+      "production_evidence": "Official page describes own manufacturing facilities; addresses at 7 and 15 Nethaji Nagar 6th Street, Karumarampalayam, Mannarai 641607.",
+      "client_evidence": "Named current clients not verified in this research. Do not invent them.",
+      "discovery_question": "Sewing-to-inspection and packing handovers",
+      "company_sources": [
+        {
+          "url": "https://www.koral.in/",
+          "claim": "Read indexed official founder, manufacturing facilities, ISO standards and contacts; direct page fetch timed out Accessed 2026-09-15."
+        }
+      ]
+    },
+    {
+      "company": "RBK Apparels",
+      "contact": {
+        "name": "RBK Apparels",
+        "email": "rbk@rbkapparels.com",
+        "person": "R. Bharath Kumar",
+        "role": "Founder and CEO",
+        "classification": "direct_verified",
+        "source_urls": [
+          "https://www.rbkapparels.com/about.php",
+          "https://www.rbkapparels.com/",
+          "https://www.rbkapparels.com/factory.php",
+          "https://rbkapparels.com/contact.php"
+        ],
+        "checked_date": "2026-09-15",
+        "delivery_tested": false,
+        "evidence": "Official contact page explicitly places rbk@rbkapparels.com under CEO R. Bharath Kumar. It also repeats the address as company inbox, so it may be shared. This is a documented named route, not an inference from initials."
+      },
+      "products": "Knitted and woven apparel",
+      "production_evidence": "Official homepage identifies Unit 2 garment factory over 50,000 sq ft; Unit 1 administrative/sample facility.",
+      "client_evidence": "Named current clients not verified in this research. Do not invent them.",
+      "discovery_question": "Checking-to-ironing-to-packing sequence review",
+      "company_sources": [
+        {
+          "url": "https://www.rbkapparels.com/about.php",
+          "claim": "Read indexed official founder and own-firm history Accessed 2026-09-15."
+        },
+        {
+          "url": "https://www.rbkapparels.com/",
+          "claim": "Read own-unit evidence and contacts Accessed 2026-09-15."
+        },
+        {
+          "url": "https://www.rbkapparels.com/factory.php",
+          "claim": "Read production stages and automatic thread trimming/dust collection Accessed 2026-09-15."
+        }
+      ]
+    },
+    {
+      "company": "Sakthi Heat Treatment Industry",
+      "contact": {
+        "name": "Sakthi Heat Treatment Industry",
+        "email": "info@sakthiheattreatment.com",
+        "person": "K. Andamuthu",
+        "role": "Partner; email general",
+        "classification": "general_only",
+        "source_urls": [
+          "https://sakthiheattreatment.com/",
+          "https://sakthiheattreatment.com/about-us.html",
+          "https://sakthiheattreatment.com/contact-us.html"
+        ],
+        "checked_date": "2026-09-15",
+        "delivery_tested": false,
+        "evidence": "Official page names partner Andamuthu but contact page publishes several unassigned inboxes. senthil@sakthiheattreatment.com is public but no owner/partner role association was verified. Old site content warrants phone confirmation.",
+        "additional_contacts": [
+          {
+            "person": "Senthil (full identity unverified)",
+            "role": "Unstated",
+            "email": "senthil@sakthiheattreatment.com",
+            "classification": "association_uncertain"
+          }
+        ]
+      },
+      "products": "Gas and liquid carburising, annealing, tempering and nitriding",
+      "production_evidence": "Official site describes furnaces and a metallurgical laboratory in Ganapathy, Coimbatore. Contact page lists 6/115-A P.N. Palayam Road and a second location at D. Gudalur, Vedasandur, Dindigul.",
+      "client_evidence": "Named current clients not verified in this research. Do not invent them.",
+      "discovery_question": "Restricted furnace access and visible handling checkpoints during shift handover.",
+      "company_sources": [
+        {
+          "url": "https://sakthiheattreatment.com/",
+          "claim": "Read official process and furnace/laboratory description."
+        },
+        {
+          "url": "https://sakthiheattreatment.com/about-us.html",
+          "claim": "Read official page naming K. Andamuthu as partner."
+        },
+        {
+          "url": "https://sakthiheattreatment.com/contact-us.html",
+          "claim": "Official indexed contact page provides locations, emails and phones; accessed 2026-09-15."
+        }
+      ]
+    },
+    {
+      "company": "T-Form Garments / YOUKAY Fashion",
+      "contact": {
+        "name": "T-Form Garments / YOUKAY Fashion",
+        "email": "support@youkayfashion.com",
+        "person": "Mohamed Eliyas",
+        "role": "Founder/proprietor; email support",
+        "classification": "general_only",
+        "source_urls": [
+          "https://youkayfashion.com/about"
+        ],
+        "checked_date": "2026-09-15",
+        "delivery_tested": false,
+        "evidence": "Official about page names proprietor and labels support@youkayfashion.com customer support. No published direct owner email found."
+      },
+      "products": "Women's leggings, pants, nightwear and innerwear",
+      "production_evidence": "Official page explicitly describes own Tiruppur unit, in-house stitching, finishing and packaging.",
+      "client_evidence": "Named current clients not verified in this research. Do not invent them.",
+      "discovery_question": "Packing/dispatch sequence completeness",
+      "company_sources": [
+        {
+          "url": "https://youkayfashion.com/about",
+          "claim": "Read official proprietorship, manufacturing, checking sequence, digital store and contacts Accessed 2026-09-15."
+        }
+      ]
+    },
+    {
+      "company": "Sathyam Labels",
+      "contact": {
+        "name": "Sathyam Labels",
+        "email": "shri@sathyamlabels.com",
+        "person": "N. K. Palanisamy",
+        "role": "Founder; email association unassigned",
+        "classification": "general_only",
+        "source_urls": [
+          "https://www.sathyamlabels.com/",
+          "https://www.sathyamlabels.com/infrastructure"
+        ],
+        "checked_date": "2026-09-15",
+        "delivery_tested": false,
+        "evidence": "Official site names founder but gives shri@sathyamlabels.com and sathyamlabels@gmail.com in general company contact block. Shri is not assigned to founder; no direct owner email verified."
+      },
+      "products": "Woven/printed labels and tapes",
+      "production_evidence": "Official infrastructure describes label weaving, rotary printing and folding; contact 23/48 RVC Building, Mangalam Road, Alangadu 641604.",
+      "client_evidence": "Named current clients not verified in this research. Do not invent them.",
+      "discovery_question": "Material transfer and finishing/packing checkpoint review",
+      "company_sources": [
+        {
+          "url": "https://www.sathyamlabels.com/",
+          "claim": "Read official founder, certification claim and contacts Accessed 2026-09-15."
+        },
+        {
+          "url": "https://www.sathyamlabels.com/infrastructure",
+          "claim": "Read indexed official machine/process details Accessed 2026-09-15."
+        }
+      ]
+    },
+    {
+      "company": "Ajay Sensors & Instruments",
+      "contact": {
+        "name": "Ajay Sensors & Instruments",
+        "email": "ajaykumar@ajaysensors.in",
+        "role": "Managing Partner",
+        "person": "Ajay Kumar Maras Vrishabhendra",
+        "classification": "direct_verified",
+        "source_urls": [
+          "https://ajaysensors.in/",
+          "https://www.bharatibiz.com/en/ajay-sensors-instruments-080-2330-4997"
+        ],
+        "evidence": "Official company site identifies Ajay Kumar as managing partner and publishes the matching named address. Business directory corroborates partner identity and company address. Verified means published association, not mailbox delivery or exclusive access.",
+        "checked_date": "2026-09-15"
+      },
+      "products": "Sensors, transducers, signal conditioners, controllers and test equipment",
+      "production_evidence": "Official site lists electronic/mechanical production, CNC machining and calibration. Works: Shed A-421, 1st Cross, Peenya Industrial Area, Bengaluru 560058; separate Rajajinagar office.",
+      "client_evidence": "Named current clients not verified in this research. Do not invent them.",
+      "discovery_question": "Queues between mechanical production, assembly and calibration.",
+      "company_sources": [
+        {
+          "url": "https://ajaysensors.in/",
+          "claim": "Managing partner/founder, direct email, works address, production equipment and calibration facilities"
+        }
+      ]
+    },
+    {
+      "company": "Ganesh Metal Products",
+      "contact": {
+        "name": "Ganesh Metal Products",
+        "email": "sales@ganeshmetalproducts.com",
+        "role": "Family-owned business; individual owner not confirmed",
+        "person": null,
+        "classification": "general_only",
+        "source_urls": [
+          "https://ganeshmetalproducts.com/about/",
+          "https://ganeshmetalproducts.com/"
+        ],
+        "evidence": "Official Bengaluru company pages publish the sales route and family-owned claim. No public direct owner address found. Same-name Jamnagar companies were excluded. A masked contact-broker listing was not used as email evidence.",
+        "checked_date": "2026-09-15"
+      },
+      "products": "Enclosures, guards, workstations and fabricated steel/aluminium products",
+      "production_evidence": "Official page describes Bengaluru factory with punch presses, laser cutting, CNC bending, welding and powder coating. Shed11, 302/1, Seetharam Industrial Estate, Bahubali Nagar, Jalahalli 560013.",
+      "client_evidence": "Named current clients not verified in this research. Do not invent them.",
+      "discovery_question": "Queues from cutting/bending to welding or coating.",
+      "company_sources": [
+        {
+          "url": "https://ganeshmetalproducts.com/about/",
+          "claim": "Family ownership, factory equipment, shed address and public business contacts"
+        }
+      ]
+    },
+    {
+      "company": "Sri Hanuma Rice Mills",
+      "contact": {
+        "name": "Sri Hanuma Rice Mills",
+        "email": "contact@srihanumaricemills.com",
+        "role": "Founder and Managing Director; intended recipient only",
+        "person": "Chunduri Ravi Babu",
+        "classification": "general_only",
+        "source_urls": [
+          "https://srihanumaricemills.in/contact-us/",
+          "https://srihanumaricemills.in/about-us/"
+        ],
+        "evidence": "Official .in site still publishes this general .com email. Founder and managing partner are named separately; no direct leader mailbox found. Previous MX check returned no mail routing: confirm by published phone before attempting email. Do not invent an .in replacement.",
+        "checked_date": "2026-09-15"
+      },
+      "products": "Raw/steam/parboiled rice, broken rice and rice flour",
+      "production_evidence": "Official site describes8TPH milling facility with dehuskers, polishers, colour sorters and QA lab. Growth Centre,Plot513,Annangi,Gundlapalli523211.",
+      "client_evidence": "Named current clients not verified in this research. Do not invent them.",
+      "discovery_question": "Bagging/loading queues and material availability around the milling line.",
+      "company_sources": [
+        {
+          "url": "https://srihanumaricemills.in/",
+          "claim": "Founder/partner, factory address,8TPH machinery, QA facilities and business contacts"
+        },
+        {
+          "url": "https://srihanumaricemills.in/contact-us/",
+          "claim": "Official business contact route"
+        }
+      ]
+    },
+    {
+      "company": "Varna Print Factory",
+      "contact": {
+        "name": "Varna Print Factory",
+        "email": "ranganath@varnaprintfactory.com",
+        "role": "Co-founder responsible for all operations",
+        "person": "Ranganath Gowda",
+        "classification": "direct_verified",
+        "source_urls": [
+          "https://varnaprintfactory.com/about-us"
+        ],
+        "evidence": "Official biography publishes the email directly beneath Ranganath's founder and operations description. Published association reconfirmed; inbox delivery untested.",
+        "checked_date": "2026-09-15"
+      },
+      "products": "Printed woven/knit cotton, polyester, viscose and silk fabrics",
+      "production_evidence": "Official site describes digital fabric printing machinery and three-shift production. Production business address: Sy No.9/2, near Kings Club, Muddinapalya, Sir M Vishveshwaraiah Layout 7th Block, Bengaluru 560091.",
+      "client_evidence": "Official page states digital printing on woven/knit fabrics, three shifts and Ranganath’s operational role. Companies in his biography are former employers, not established Varna clients.",
+      "discovery_question": "Print-to-finishing queues and delays between successive jobs.",
+      "company_sources": [
+        {
+          "url": "https://varnaprintfactory.com/about-us",
+          "claim": "Co-founders, Ranganath's operational control, direct email, printing machinery and shifts"
+        },
+        {
+          "url": "https://varnaprintfactory.com/contact-zTxfrt",
+          "claim": "Physical address, business phone and general email"
+        }
+      ]
+    },
+    {
+      "company": "Syno Pack India",
+      "contact": {
+        "name": "Syno Pack India",
+        "email": "synopackindia@gmail.com",
+        "role": "Proprietor",
+        "person": "Kodly Kishan",
+        "classification": "association_uncertain",
+        "source_urls": [
+          "https://www.ftcci.in/source/downloads/AGM%202024/PANEL-E%202024.pdf",
+          "https://www.bharatibiz.com/syno-pack-india_4z-090007-89512",
+          "https://www.exportersindia.com/syno-pack-india/contact.htm"
+        ],
+        "evidence": "FTCCI 2024 company entry names proprietor and publishes two company inboxes. Bharatibiz explicitly associates the Gmail address with K. Kishan, but this remains a company-named inbox from secondary evidence. Not counted as a confirmed direct owner email. No new address found.",
+        "checked_date": "2026-09-15"
+      },
+      "products": "Form-fill-seal and oil/milk/water pouch-packing machines",
+      "production_evidence": "FTCCI manufacturing/export member record gives39-4/4,Street1,Sanjay Gandhi Nagar,Balanagar,Hyderabad500037. Seller company page corroborates machine product range and same address.",
+      "client_evidence": "Named current clients not verified in this research. Do not invent them.",
+      "discovery_question": "Assembly/test preparation waiting in its own workshop.",
+      "company_sources": [
+        {
+          "url": "https://ftcci.in/source/downloads/AGM%202024/PANEL-E%202024.pdf",
+          "claim": "Company, proprietor, manufacturing/export activity, email, phone and address"
+        },
+        {
+          "url": "https://www.ftcci.in/source/ftapcci/FR%202021/FR%202021%2010%2013.pdf",
+          "claim": "Independent dated chamber corroboration of proprietor and machine manufacture"
+        },
+        {
+          "url": "https://www.exportersindia.com/syno-pack-india/contact.htm",
+          "claim": "Company product range, Kodly Kishan and same Balanagar address"
+        }
+      ]
+    },
+    {
+      "company": "Altom Foods",
+      "contact": {
+        "name": "Altom Foods",
+        "email": "altomfoods@gmail.com",
+        "role": "Founder; proprietor corroborated by secondary business record",
+        "person": "M. V. Alexander / Alexandar Madassery",
+        "classification": "association_uncertain",
+        "source_urls": [
+          "https://www.altomfoods.com/",
+          "https://www.bharatibiz.com/en/altom-foods-094465-35557",
+          "https://gst.jamku.app/gstin/32AFEPA9023Q1ZG"
+        ],
+        "evidence": "Official contact block gives M. V. Alexander with this company inbox. Secondary records identify Madassery Varghese Alexander as proprietor at matching Padukkad location, explaining name variants. No evidence that this is his individual inbox; no direct owner email counted.",
+        "checked_date": "2026-09-15"
+      },
+      "products": "Chips, mixtures, jaggery sweets and packaged traditional snacks",
+      "production_evidence": "Official page explicitly says all snacks are made in its Padukkad factory. Contact address: Padukad, Viyoor PO, Thrissur 680010.",
+      "client_evidence": "Named current clients not verified in this research. Do not invent them.",
+      "discovery_question": "Frying-to-packing material flow and product changeovers.",
+      "company_sources": [
+        {
+          "url": "https://www.altomfoods.com/",
+          "claim": "Founder, explicit own factory, product range and named business contact/email/phone"
+        }
+      ]
+    },
+    {
+      "company": "BVN Modulars",
+      "contact": {
+        "name": "BVN Modulars",
+        "email": "bvnmodulars@gmail.com",
+        "role": "Founder and Managing Director; intended recipient only",
+        "person": "B. V. N. Reddy",
+        "classification": "general_only",
+        "source_urls": [
+          "https://bvnmodularfurnitures.com/",
+          "https://bvnmodularfurnitures.com/about",
+          "https://ffsc.in/general-body.php"
+        ],
+        "evidence": "Official site publishes general business inbox and founder/MD biography. Furniture sector council corroborates MD of BVN Modular Designers Private Limited. No published direct owner address found; company inbox is not attributed to him individually.",
+        "checked_date": "2026-09-15"
+      },
+      "products": "Kitchens, wardrobes, beds and office furniture",
+      "production_evidence": "Official site calls it a manufacturing company with Homag German machinery and 25–30 employees. Address: D.No.4-332/1, Industrial Area, Lalacheruvu, Rajahmundry 533106.",
+      "client_evidence": "Named current clients not verified in this research. Do not invent them.",
+      "discovery_question": "Panel movement, assembly preparation and rework queues.",
+      "company_sources": [
+        {
+          "url": "https://bvnmodularfurnitures.com/",
+          "claim": "Founder, manufacturing nature, machinery, indicative headcount and public contact"
+        },
+        {
+          "url": "https://bvnmodularfurnitures.com/about",
+          "claim": "Founder/MD background and design-to-manufacturing process"
+        }
+      ]
+    },
+    {
+      "company": "Team D",
+      "contact": {
+        "name": "Team D",
+        "email": "krishnakumar@teamd.in",
+        "role": "Founder and CMD",
+        "person": "Krishna Kumar H. B.",
+        "classification": "direct_verified",
+        "source_urls": [
+          "https://www.teamd.in/contactus",
+          "https://www.teamd.in/"
+        ],
+        "evidence": "New address found: official contact page explicitly publishes krishnakumar@teamd.in alongside info@teamd.in. Official team listing identifies Krishna Kumar H B as founder and CMD. An older export-delegation document has a conflicting spelling; current official spelling retained. Published association, not delivery verification.",
+        "checked_date": "2026-09-15"
+      },
+      "products": "Machined components, sheet metal, tools and contract assemblies",
+      "production_evidence": "Official site describes100,000sqft facility and75+machines. #150/14 Team D Industrial Park, Shanumangala, Bidadi Industrial Area562109.",
+      "client_evidence": "Named current clients not verified in this research. Do not invent them.",
+      "discovery_question": "One non-sensitive material handoff or assembly-support bottleneck.",
+      "company_sources": [
+        {
+          "url": "https://www.teamd.in/",
+          "claim": "Founder/CMD, facility, public business contact and certification claims"
+        },
+        {
+          "url": "https://www.teamd.in/aboutus",
+          "claim": "Factory size and specific CNC/toolroom manufacturing equipment"
+        }
+      ]
+    },
+    {
+      "company": "The Green Wrap",
+      "contact": {
+        "name": "The Green Wrap",
+        "email": "thegreenwraponline@gmail.com",
+        "role": "Family-owned business; individual owner not confirmed",
+        "person": null,
+        "classification": "general_only",
+        "source_urls": [
+          "https://thegreenwrap.in/",
+          "https://thegreenwrap.in/our-products",
+          "https://www.quickerala.com/trivandrum/menamkulam/the-green-wrap/464751"
+        ],
+        "evidence": "Official website and matching Menamkulam business listing publish company inbox only. No named owner email found. Customer testimonials are not owner identities.",
+        "checked_date": "2026-09-15"
+      },
+      "products": "Paper/SOS bags, food containers, cups, courier/cake boxes",
+      "production_evidence": "Official product page describes25,000sqft offset-printing/finishing facility and automated sheet-fed paper-bag production in Kerala. Regional listing places business in Menamkulam.",
+      "client_evidence": "Named current clients not verified in this research. Do not invent them.",
+      "discovery_question": "Waiting at sheet feeding, finishing or packing handoffs.",
+      "company_sources": [
+        {
+          "url": "https://thegreenwrap.in/our-products",
+          "claim": "Family ownership, facility area, automation, products and public contacts"
+        },
+        {
+          "url": "https://www.quickerala.com/trivandrum/menamkulam/the-green-wrap/464751",
+          "claim": "Menamkulam locality and same business email"
+        }
+      ]
+    },
+    {
+      "company": "Nice Global Food Products",
+      "contact": {
+        "name": "Nice Global Food Products",
+        "email": "info@nicefoods.in",
+        "role": "Co-Founder and Director, Manufacturing and Operations; intended recipient only",
+        "person": "Amanullah",
+        "classification": "general_only",
+        "source_urls": [
+          "https://www.nicefoods.in/about"
+        ],
+        "evidence": "Official company biography names manufacturing co-founder Amanullah and international-business co-founder Shahul. Only info@nicefoods.in and exports@nicefoods.in are published in reviewed sources. Neither is a verified individual founder inbox.",
+        "checked_date": "2026-09-15"
+      },
+      "products": "Packaged snacks, groceries and frozen foods; private-label production",
+      "production_evidence": "Official site describes bulk food manufacturing and modern production. Address: Edakalamattam, Erattupetta PO, Kottayam 686121. Separate plant address is not distinguished.",
+      "client_evidence": "Named current clients not verified in this research. Do not invent them.",
+      "discovery_question": "Packing-line waiting and visible material handoffs across one product run.",
+      "company_sources": [
+        {
+          "url": "https://www.nicefoods.in/about",
+          "claim": "Founders, manufacturing role, physical business location, contact, product range and claimed certifications"
+        }
+      ]
+    }
+  ]
+}

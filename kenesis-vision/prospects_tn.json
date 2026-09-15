@@ -1,0 +1,490 @@
+[
+  {
+    "name": "Coimbatore Premier Industries (CPI / Rub-O-Tech)",
+    "city": "Coimbatore",
+    "region": "Tamil Nadu outside Chennai metro",
+    "sector": "Rubber and polyurethane moulding",
+    "products": "Rubber moulded parts, metal-rubber bonded parts, cut gaskets, cast polyurethane parts",
+    "factory_evidence": "Official site describes on-site compression/transfer moulding, presses, mixing/degassing and an oven. Contact location: 6th Cross, Thaneerpandal, VK Road, BR Puram, Coimbatore 641004.",
+    "leadership": "Habil Madraswala, CEO and Founder; Huzefa Habil and Mustafa Habil, Managing Partners",
+    "leadership_confidence": "High: named on official company page; current tenure not independently checked",
+    "email": "info@cpirubber.com",
+    "email_type": "Official general business inbox",
+    "phone": "+91 98430 79795",
+    "website": "https://www.cpirubber.com/",
+    "sources": [
+      {
+        "url": "https://www.cpirubber.com/",
+        "claim": "Read official page: plant processes, address, leadership, email and phone. Accessed 2026-09-15."
+      }
+    ],
+    "fit_reason": "Strong discovery candidate: rubber production steps and founder/partner leadership are explicit.",
+    "discovery_topic": "Whether any visible loading, unloading or inspection step needs exception review; camera view suitability around presses.",
+    "caveat": "No evidence of CCTV coverage, a current operational problem, budget or willingness to buy. Treat CPI and Rub-O-Tech as one prospect."
+  },
+  {
+    "name": "Best Heat Treatment Services",
+    "city": "Coimbatore",
+    "region": "Tamil Nadu outside Chennai metro",
+    "sector": "Commercial heat treatment",
+    "products": "Carburising, hardening, annealing, nitriding and induction treatment of metal components",
+    "factory_evidence": "Official units page identifies induction-hardening Unit II at 43 Private Industrial Estate and sealed-quench Unit III at Bodipalayam, Coimbatore. Main address: 53 SIDCO Industrial Estate, Coimbatore 641021.",
+    "leadership": "R. Nagarajan, Founder",
+    "leadership_confidence": "High for founder identity on official site; present purchase authority unknown",
+    "email": "sqf@bestheattreatment.com",
+    "email_type": "Official sealed-quench-furnace unit inbox",
+    "phone": "+91 99449 64865; central +91 422 4205661",
+    "website": "https://www.bestheattreatment.com/",
+    "sources": [
+      {
+        "url": "https://www.bestheattreatment.com/units/",
+        "claim": "Official indexed units page: named process plants, unit email and phone. Accessed 2026-09-15."
+      },
+      {
+        "url": "https://www.bestheattreatment.com/about-us/",
+        "claim": "Read official company page: founder R. Nagarajan and heat-treatment processes."
+      }
+    ],
+    "fit_reason": "Strong process-factory candidate with multiple physical treatment units and a published unit-level contact.",
+    "discovery_topic": "Furnace access zones and visible loading/unloading sequence; where camera evidence could support existing process records.",
+    "caveat": "No verified unmet need. CCTV cannot establish internal furnace temperature or metallurgical quality. San Precision Alloys is a related group prospect and is not counted separately."
+  },
+  {
+    "name": "Sakthi Heat Treatment Industry",
+    "city": "Coimbatore / Dindigul",
+    "region": "Tamil Nadu outside Chennai metro",
+    "sector": "Commercial heat treatment",
+    "products": "Gas and liquid carburising, annealing, tempering and nitriding",
+    "factory_evidence": "Official site describes furnaces and a metallurgical laboratory in Ganapathy, Coimbatore. Contact page lists 6/115-A P.N. Palayam Road and a second location at D. Gudalur, Vedasandur, Dindigul.",
+    "leadership": "K. Andamuthu, Partner",
+    "leadership_confidence": "Medium: official about page names partner but text and certification references are dated",
+    "email": "info@sakthiheattreatment.com",
+    "email_type": "Official general business inbox",
+    "operational_contact": "senthil@sakthiheattreatment.com is also published; role not stated",
+    "phone": "+91 422 2532600; +91 94437 12572",
+    "website": "https://sakthiheattreatment.com/",
+    "sources": [
+      {
+        "url": "https://sakthiheattreatment.com/",
+        "claim": "Read official process and furnace/laboratory description."
+      },
+      {
+        "url": "https://sakthiheattreatment.com/about-us.html",
+        "claim": "Read official page naming K. Andamuthu as partner."
+      },
+      {
+        "url": "https://sakthiheattreatment.com/contact-us.html",
+        "claim": "Official indexed contact page provides locations, emails and phones; accessed 2026-09-15."
+      }
+    ],
+    "fit_reason": "Direct heat-processing end user with partner-level leadership evidence.",
+    "discovery_topic": "Restricted furnace access and visible handling checkpoints during shift handover.",
+    "caveat": "Website appears old. Confirm contact and active site before prioritizing. No actual safety or process failure is alleged."
+  },
+  {
+    "name": "Unique Industries (Unitech Rubber Products)",
+    "city": "Madurai",
+    "region": "Tamil Nadu outside Chennai metro",
+    "sector": "Rubber moulding",
+    "products": "Bonded seals, oil seals, O-rings, gaskets and custom rubber products",
+    "factory_evidence": "Official company profile describes rubber manufacturing in Madurai. Contact: 63/8 NH-7, Nagari, Madurai 625221.",
+    "leadership": "Named current leader not verified; official profile says founded by a group of technocrats",
+    "leadership_confidence": "Unknown individual leadership",
+    "email": "uniqueindustries@rediffmail.com",
+    "email_type": "Officially published business inbox on a consumer email service",
+    "phone": "+91 94421 24636; +91 94422 24636",
+    "website": "https://unitechrubberproducts.co.in/",
+    "sources": [
+      {
+        "url": "https://unitechrubberproducts.co.in/about-us/",
+        "claim": "Read indexed official profile: rubber manufacturing and founder-group description."
+      },
+      {
+        "url": "https://unitechrubberproducts.co.in/contact-us/",
+        "claim": "Read indexed official contact page: Nagari address, email and phones; accessed 2026-09-15. Direct homepage fetch timed out."
+      }
+    ],
+    "fit_reason": "Industrial rubber products match the requested manufacturing focus.",
+    "discovery_topic": "How rubber batches move through moulding, finishing and checks; whether existing video captures a useful repeated step.",
+    "caveat": "Factory evidence is company-described manufacturing plus contact location, not a separately labeled factory address. Founding year differs between site pages. Verify site and decision-maker."
+  },
+  {
+    "name": "Abi Rubber Private Limited",
+    "city": "Madurai",
+    "region": "Tamil Nadu outside Chennai metro",
+    "sector": "Rubber moulding and metal-rubber bonding",
+    "products": "Oil seals, O-rings, mountings, bellows and rubber grommets",
+    "factory_evidence": "Official site separately describes mixing, raw-material storage, production, trimming, inspection and laboratory areas. Published location: 2 Sengol Nagar 6th Street, Vilangudi, Madurai 625018.",
+    "leadership": "Named current leader not verified",
+    "leadership_confidence": "Unknown",
+    "email": "abirubberpvtmadurai@gmail.com",
+    "email_type": "Officially published general business inbox",
+    "phone": "+91 452 2662117; +91 97152 03177",
+    "website": "https://abirubberprivatelimited.com/",
+    "sources": [
+      {
+        "url": "https://abirubberprivatelimited.com/",
+        "claim": "Read official page: factory departments, product list, address, email and phone; accessed 2026-09-15."
+      }
+    ],
+    "fit_reason": "Strong process fit: the manufacturer publishes multiple distinct production and inspection areas.",
+    "discovery_topic": "Whether any mandatory visible transfer or inspection checkpoint would benefit from searchable exception clips.",
+    "caveat": "Do not interpret distribution cities as additional factories. Camera deployment, plant size and purchase authority are unknown."
+  },
+  {
+    "name": "Karthik Polymers Private Limited",
+    "city": "Madurai",
+    "region": "Tamil Nadu outside Chennai metro",
+    "sector": "Precision rubber components",
+    "products": "Oil seals, O-rings, square rings and gaskets for automobile systems",
+    "factory_evidence": "Official site identifies the company as a small-scale precision rubber manufacturer in Madurai. Address: 22, formerly 80C/1, Nehru Nagar First Street, via TVS Nagar, Madurai 625003.",
+    "leadership": "Late R. Hariharanathan, Founder; current executive not verified",
+    "leadership_confidence": "High historical founder identification; current leadership unknown",
+    "email": "karthikpolymers@gmail.com",
+    "email_type": "Public business email extracted from official website HTML",
+    "phone": "+91 94430 63801; +91 93623 64980",
+    "website": "https://karthikpolymers.com/",
+    "sources": [
+      {
+        "url": "https://karthikpolymers.com/",
+        "claim": "Read indexed official content for manufacturing, address, founder and phones. Direct public HTML read confirmed email on 2026-09-15; browser text masks email."
+      }
+    ],
+    "fit_reason": "Focused rubber-component manufacturer suitable for learning whether narrowly defined visible checks recur.",
+    "discovery_topic": "Observable handling and inspection steps around small rubber components; minimum camera detail required.",
+    "caveat": "Published contact location is not separately labeled as factory. Small parts may be below CCTV resolution. Deceased founder is not an outreach contact."
+  },
+  {
+    "name": "Sun Pressing Private Limited",
+    "city": "Madurai",
+    "region": "Tamil Nadu outside Chennai metro",
+    "sector": "Sheet-metal automotive components",
+    "products": "Metal shells, brackets, cross members, engine mountings and welded subassemblies",
+    "factory_evidence": "Official site describes press, fabrication, powder-coating and packing departments at F2 and F3 SIDCO Industrial Estate, K. Pudur, Madurai 625007.",
+    "leadership": "D. Dhanush Kodi, Managing Director; D. Dhinesh Kumar, Executive Director",
+    "leadership_confidence": "High: official about page names both roles; current tenure not independently checked",
+    "email": "nippon@sunpressing.com",
+    "email_type": "Official company contact inbox; recipient role not specified",
+    "phone": "+91 80125 13001",
+    "website": "https://www.sunpressing.com/",
+    "sources": [
+      {
+        "url": "https://www.sunpressing.com/",
+        "claim": "Read official plant services, products, address and business contacts."
+      },
+      {
+        "url": "https://www.sunpressing.com/about-us.html",
+        "claim": "Read official names and roles of MD and executive director; accessed 2026-09-15."
+      }
+    ],
+    "fit_reason": "Strong candidate: named management and several visible metal-production operations.",
+    "discovery_topic": "Access near presses and repeatable load/unload or packing checkpoints; how exceptions are reviewed today.",
+    "caveat": "No evidence of unmet need or existing cameras. Some alternate phones differ between site sections; primary number is consistent."
+  },
+  {
+    "name": "Precision Products / Precise Products",
+    "city": "Madurai",
+    "region": "Tamil Nadu outside Chennai metro",
+    "sector": "Precision machining and tooling",
+    "products": "Machined components, moulds, dies, jigs, fixtures and tool-room services",
+    "factory_evidence": "Official homepage describes manufacturing and CNC EDM, wire-cut and VMC services based in Madurai. Contact location: 105/105-A Bypass Road, near Bodi railway line, Madurai 625016.",
+    "leadership": "Named current leader not verified",
+    "leadership_confidence": "Unknown",
+    "email": "precisionproducts.mdu@gmail.com",
+    "email_type": "Official shared business inbox",
+    "phone": "+91 452 2381808; +91 98421 81808",
+    "website": "https://www.precisionprecise.com/",
+    "sources": [
+      {
+        "url": "https://www.precisionprecise.com/",
+        "claim": "Read official machining, manufacturing and location/contact details."
+      },
+      {
+        "url": "https://www.precisionprecise.com/contact.html",
+        "claim": "Read indexed official contacts for both business names; accessed 2026-09-15."
+      }
+    ],
+    "fit_reason": "Machining shop can inform machine-area event review and attended/unattended station definitions.",
+    "discovery_topic": "Which machine activities legitimately run unattended and which require an operator; visibility at loading points.",
+    "caveat": "Counted as one prospect because the website and inbox are shared. Exact legal structure, factory footprint and leadership need confirmation. Do not label normal automatic cycles as absenteeism."
+  },
+  {
+    "name": "Champion Plastics (India) Private Limited",
+    "city": "Hosur",
+    "region": "Tamil Nadu outside Chennai metro",
+    "sector": "Automotive blow moulding",
+    "products": "Fuel tanks, resonators, air-conditioning ducts and air-intake components",
+    "factory_evidence": "Official homepage explicitly locates its blow-moulding facility at SIDCO Industrial Estate, Hosur. Address: E28 and E29, Phase VI, Hosur 635126.",
+    "leadership": "Perumal Jayaramachandran and Uma Chandran are listed among directors in a public MCA-derived directory; current operational leader not verified",
+    "leadership_confidence": "Medium-low: secondary company-registration listing, not current official leadership page",
+    "email": "mail@championplastics.in",
+    "email_type": "Published corporate email in MCA-derived public listing; official website email is masked in accessible text",
+    "phone": "+91 76049 29711; +91 97511 77720",
+    "website": "https://championplasticsindia.com/",
+    "sources": [
+      {
+        "url": "https://championplasticsindia.com/",
+        "claim": "Read official facility/process description and Hosur phone/address."
+      },
+      {
+        "url": "https://cleartax.in/f/company/champion-plastics-india-private-limited/U02520TZ1992PTC003751",
+        "claim": "Read published corporate email and matching Hosur legal entity; secondary MCA-derived listing."
+      },
+      {
+        "url": "https://www.indiafilings.com/search/champion-plastics-india-private-limited-cin-U02520TZ1992PTC003751",
+        "claim": "Read public directory's director names and email; source age/currentness uncertain. Accessed 2026-09-15."
+      },
+      {
+        "url": "https://www.tofler.in/champion-plastics-india-private-limited/company/U02520TZ1992PTC003751",
+        "claim": "Public company profile separately publishes mail@championplastics.in; read 2026-09-15. Secondary corporate-data source."
+      }
+    ],
+    "fit_reason": "Explicit blow-moulding factory with published direct business phone.",
+    "discovery_topic": "Whether handling and finishing steps around moulded parts are visible enough for narrowly scoped SOP checks.",
+    "caveat": "Email is corroborated by multiple public corporate-data listings but official-page HTML returned HTTP 406, so official mailto/encoding could not be inspected. Not deliverability-tested. Confirm by phone. Do not confuse with US Champion Plastics."
+  },
+  {
+    "name": "Rikki Plastic Private Limited — Hosur Plant II",
+    "city": "Hosur",
+    "region": "Tamil Nadu outside Chennai metro",
+    "sector": "Automotive plastic injection moulding",
+    "products": "Precision injection-moulded automotive components",
+    "factory_evidence": "Official contact page explicitly labels Plant II at C20 SIDCO Industrial Estate, Phase I, Hosur South, Tamil Nadu 635126.",
+    "leadership": "Named current leader not verified",
+    "leadership_confidence": "Unknown",
+    "email": "info@rikkiplastic.com",
+    "email_type": "Official central business inbox, public HTML verified",
+    "phone": "+91 129 415 4941 / 4948 (central Faridabad contact)",
+    "website": "https://rikkiplastic.com/",
+    "sources": [
+      {
+        "url": "https://rikkiplastic.com/contact-us.php",
+        "claim": "Read indexed official Plant II address and central phones; direct public HTML confirmed email on 2026-09-15."
+      },
+      {
+        "url": "https://rikkiplastic.com/",
+        "claim": "Read official automotive injection-moulding description."
+      }
+    ],
+    "fit_reason": "Confirmed Hosur plastic-component plant.",
+    "discovery_topic": "Whether the Hosur plant can approve a local video pilot and which repeated moulding/handling events matter.",
+    "caveat": "Reserve: headquarters and published phone are in Faridabad. Local decision authority and plant-specific contact not verified. Website inconsistently describes legal form."
+  },
+  {
+    "name": "Aasic Plastic",
+    "city": "Tiruchirappalli",
+    "region": "Tamil Nadu outside Chennai metro",
+    "sector": "Plastic injection/blow moulding and packaging",
+    "products": "HDPE bottles, containers, caps and plastic engineering components",
+    "factory_evidence": "Official contact-page index explicitly labels factory at 91/2 N.M. Street, Palakarai, Trichy 620001, distinct from office at Thennur.",
+    "leadership": "B. Sidhic, Proprietor; S. Mohamed Asik, Marketing Head",
+    "leadership_confidence": "High for published roles; evidence is indexed official page, live page requires JavaScript",
+    "email": "aasicplastic@gmail.com",
+    "email_type": "Official general quotation/business inbox",
+    "phone": "+91 98424 03903 (proprietor); +91 91235 13678 (marketing)",
+    "website": "https://www.aasicplastic.com/",
+    "sources": [
+      {
+        "url": "https://www.aasicplastic.com/Contact",
+        "claim": "Read indexed official page: separate factory/office, proprietor, marketing head and contacts; accessed 2026-09-15. Live browser extraction returns JavaScript shell."
+      },
+      {
+        "url": "https://blog.aasicplastic.com/dates-container-manufacturer-in-india",
+        "claim": "Official blog corroborates business email, marketing phone and Palakarai factory."
+      }
+    ],
+    "fit_reason": "Strong reachable candidate: proprietor named and factory separated from office.",
+    "discovery_topic": "A single visible container-handling or packaging check; handling of changeovers and legitimate station absence.",
+    "caveat": "No production scale, CCTV quality, buying intent or present operational problem verified."
+  },
+  {
+    "name": "National Plastics — Erode",
+    "city": "Erode",
+    "region": "Tamil Nadu outside Chennai metro",
+    "sector": "Plastic film packaging",
+    "products": "Extruded blown-film polypropylene tubes and bags, including printed bags",
+    "factory_evidence": "Official website explicitly labels factory at RSF 1388/1, Plot 31, Edissia Industrial Estate, Karur Bypass Road, Erode 638002; describes extrusion manufacturing.",
+    "leadership": "Named current leader not verified",
+    "leadership_confidence": "Unknown",
+    "email": "nationalplasticspks@gmail.com",
+    "email_type": "Official general business inbox",
+    "phone": "+91 93849 32216",
+    "website": "https://natplas.in/",
+    "sources": [
+      {
+        "url": "https://natplas.in/",
+        "claim": "Read official manufacturing, factory address, email and phone; accessed 2026-09-15."
+      }
+    ],
+    "fit_reason": "Explicit local packaging factory with direct published contact.",
+    "discovery_topic": "Visible material movement, packing checkpoints and operator coverage rules around extrusion equipment.",
+    "caveat": "Do not confuse with similarly named national companies. Published capacity is a vendor claim and is not used to infer budget. Leadership and CCTV unknown."
+  },
+  {
+    "name": "Mayura Packaging Private Limited",
+    "city": "Kangeyam / Tiruppur district",
+    "region": "Tamil Nadu outside Chennai metro",
+    "sector": "Corrugated packaging",
+    "products": "Paper-based corrugated transport and graphic packaging",
+    "factory_evidence": "Official site offers corrugated packaging and has a Factory and Warehouse section. Published address is SF851/3, Coimbatore-Trichy NH Road, Kosavampalayam Pirivu, Kandiyan Kovil Village, Kangeyam 641665.",
+    "leadership": "Named current leader not verified",
+    "leadership_confidence": "Unknown",
+    "email": "info@mayurapackaging.com",
+    "email_type": "Official general business inbox",
+    "phone": "+91 99430 40248",
+    "website": "https://www.mayurapackaging.com/",
+    "sources": [
+      {
+        "url": "https://www.mayurapackaging.com/",
+        "claim": "Read official corrugated-packaging business description."
+      },
+      {
+        "url": "https://www.mayurapackaging.com/?capablities=factory-and-warehouse",
+        "claim": "Read official factory/warehouse page and published address/email/phone; page body has limited plant detail."
+      },
+      {
+        "url": "https://www.mayurapackaging.com/?page_id=28",
+        "claim": "Read indexed official contact page; accessed 2026-09-15."
+      }
+    ],
+    "fit_reason": "Relevant packaging manufacturer for production-to-dispatch workflow discovery.",
+    "discovery_topic": "Whether converting/packing steps have observable completion or material-flow events.",
+    "caveat": "Reserve pending phone confirmation of factory location: site contact copy also calls the location a Coimbatore head office; extracted factory page contains little detailed evidence."
+  },
+  {
+    "name": "Shakthi Innovative Crafts / Shakthi Abinav (Shakthi Cups group)",
+    "city": "Erode",
+    "region": "Tamil Nadu outside Chennai metro",
+    "sector": "Paper food packaging",
+    "products": "Paper cups, printed cups, ripple cups and double-wall cups",
+    "factory_evidence": "Official site explicitly describes an Erode paper-cup manufacturing facility. Published location: 54 Kalayansundram Street, Vendipalayam, Erode 638002.",
+    "leadership": "Named current leader not verified; testimonial names are not treated as company executives",
+    "leadership_confidence": "Unknown",
+    "email": "shakthicups@gmail.com",
+    "email_type": "Official business inbox",
+    "operational_contact": "info@shakthiabinav.com is also published",
+    "phone": "+91 98427 39639",
+    "website": "https://www.shakthiabinav.com/",
+    "sources": [
+      {
+        "url": "https://www.shakthiabinav.com/",
+        "claim": "Read official paper-cup manufacturing, Erode factory reference, group relationship and business contacts; accessed 2026-09-15."
+      }
+    ],
+    "fit_reason": "Paper-cup production and packing offer a relevant repeatable manufacturing context.",
+    "discovery_topic": "Whether any visible packing or handling check creates useful exceptions; actual coverage around cup-making machines.",
+    "caveat": "Group naming varies across page sections. Count once; verify invoicing entity and factory address. Claims about being biggest are not adopted."
+  },
+  {
+    "name": "Jtex Poly Products",
+    "city": "Coimbatore",
+    "region": "Tamil Nadu outside Chennai metro",
+    "sector": "Plastic packaging and injection moulding",
+    "products": "Plastic packaging, printed bags and injection-moulded articles",
+    "factory_evidence": "Official site describes plastic manufacturing; contact page includes a factory image and 8/1144 Trichy Road, Coimbatore 641045.",
+    "leadership": "Named current leader not verified; published contact email is named Jayachandran but role is not stated",
+    "leadership_confidence": "Unknown role; do not assume email recipient is proprietor or MD",
+    "email": "jayachandran@jtexpolyproducts.com",
+    "email_type": "Official named business contact; title unverified",
+    "phone": "+91 422 2313937 / 2313938 / 2317504",
+    "website": "https://www.jtexpolyproducts.com/",
+    "sources": [
+      {
+        "url": "https://www.jtexpolyproducts.com/",
+        "claim": "Read official plastic-manufacturing and packaging description."
+      },
+      {
+        "url": "https://www.jtexpolyproducts.com/contact.html",
+        "claim": "Read indexed official address, factory-image label, email and phones; accessed 2026-09-15."
+      }
+    ],
+    "fit_reason": "Relevant plastics manufacturer with a publicly named business inbox.",
+    "discovery_topic": "Whether a repeated packaging or moulding handling step can be observed from current cameras.",
+    "caveat": "Reserve: website is visibly old; no separate current plant-location confirmation or present leadership. Verify operations and contact by phone."
+  },
+  {
+    "name": "Hemagni Build Pro",
+    "city": "Hosur",
+    "region": "Tamil Nadu outside Chennai metro",
+    "sector": "Steel fabrication and building components",
+    "products": "Fabricated steel structures, roofing profiles and pre-engineered building components",
+    "factory_evidence": "Official FAQ explicitly confirms own Hosur plant with beam welding, plasma cutting, roof-sheet forming, rolling, shearing and drilling. Address: 130/1C Jeemangalam Village, Bagalur, Hosur Taluk, Krishnagiri 635103.",
+    "leadership": "Subramani Reddy G, Managing Director; Saravanan Rajamani, Executive Director - Business",
+    "leadership_confidence": "High: named on official leadership section; current tenure not independently verified",
+    "email": "Sales@hemagnibuildpro.com",
+    "email_type": "Official sales inbox",
+    "phone": "+91 88842 10876",
+    "website": "https://www.hemagnibuildpro.com/",
+    "sources": [
+      {
+        "url": "https://www.hemagnibuildpro.com/",
+        "claim": "Read official manufacturing FAQ, leadership and full contact section; accessed 2026-09-15."
+      }
+    ],
+    "fit_reason": "Own metal-fabrication plant and named directors; suitable for learning about visible handling and access events.",
+    "discovery_topic": "Access to fabrication zones and material movements around large steel parts; separate plant workflow from construction-site work.",
+    "caveat": "Has both manufacturing and project-construction business. Qualify factory use specifically; do not treat its customers' buildings as its own plants."
+  },
+  {
+    "name": "Magtorq Private Limited",
+    "city": "Hosur",
+    "region": "Tamil Nadu outside Chennai metro",
+    "sector": "Gearbox and transmission manufacturing",
+    "products": "Planetary gearboxes, geared motors and custom gear-transmission systems",
+    "factory_evidence": "Official about page describes production and testing. Official address is 58-C SIPCOT Industrial Complex, Hosur 635126. SIDM directory identifies design/manufacture/supply at the same address.",
+    "leadership": "Pantallore Vadikketil Narayanan Kutty (P.V.N. Kutty), Managing Director, per Tofler record as of 20 November 2025; Ajit Narayan listed as Director in newer corporate-data records",
+    "leadership_confidence": "Medium: newer secondary corporate-data evidence. Historical SIDM 2020-21 label of Ajit Narayan as MD differs; current official confirmation still needed",
+    "email": "info@magtorq.org",
+    "email_type": "Official general business inbox",
+    "phone": "+91 4344 276581; +91 4344 276338",
+    "website": "https://www.magtorq.org/",
+    "sources": [
+      {
+        "url": "https://www.magtorq.org/about-us/",
+        "claim": "Read official production/testing description."
+      },
+      {
+        "url": "https://www.magtorq.org/contact/",
+        "claim": "Read official Hosur address, email and phones."
+      },
+      {
+        "url": "https://www.sidm.in/files/SIDM%20Members%20Directory%202020-21.pdf",
+        "claim": "Read indexed association directory: historical MD and manufacturing identity; accessed 2026-09-15."
+      },
+      {
+        "url": "https://www.tofler.in/pantallore-vadikketil-narayanan-kutty/director/01505330",
+        "claim": "Read public corporate-data record: Magtorq MD role as of 20 November 2025; accessed 2026-09-15."
+      },
+      {
+        "url": "https://www.thecompanycheck.com/company/magtorq-private-limited/U02520TZ1989PTC002458",
+        "claim": "Read public corporate-data page listing Kutty as MD and Ajit Narayan as Director; secondary evidence, not official company confirmation."
+      }
+    ],
+    "fit_reason": "Industrial component maker with plant-related production/testing evidence.",
+    "discovery_topic": "Observable assembly/test handovers and how normal machine cycles affect unattended-station definitions.",
+    "caveat": "Newer corporate-data sources list Kutty as MD and Ajit Narayan as Director; historical association directory differs. Confirm present executive role before addressing. Official address is labeled office, so confirm plant visit location. No buying intent verified."
+  },
+  {
+    "name": "Elman Furnace Private Limited",
+    "city": "Coimbatore",
+    "region": "Tamil Nadu outside Chennai metro",
+    "sector": "Industrial furnace equipment manufacturing - reserve",
+    "products": "Custom heat-treatment furnaces and industrial ovens",
+    "factory_evidence": "Official site describes design and production of furnaces; published manufacturing-business location is SF380/2 Athiparasakthi Nagar, Seerapalayam, Coimbatore 641105.",
+    "leadership": "Official site says founded by two college friends; names not verified",
+    "leadership_confidence": "Unknown individuals",
+    "email": "elmanfurnace@gmail.com",
+    "email_type": "Official general business inbox",
+    "phone": "+91 98941 03505",
+    "website": "https://www.elmanfurnace.com/",
+    "sources": [
+      {
+        "url": "https://www.elmanfurnace.com/",
+        "claim": "Read official furnace-manufacturing business description, founder background and contacts; accessed 2026-09-15."
+      }
+    ],
+    "fit_reason": "Weaker reserve: equipment fabrication may inform industrial workflow discovery, but this is not verified as a commercial heat-treatment end user.",
+    "discovery_topic": "Only qualify own fabrication/assembly shop operations; establish whether repeatable visible checks exist.",
+    "caveat": "Do not rank alongside end-user treatment factories without qualification. Sold furnace installations belong to customers and are not Elman's own plants."
+  }
+]

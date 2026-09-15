@@ -1,0 +1,457 @@
+[
+  {
+    "name": "Blue Barn Farm",
+    "county": "Blair",
+    "website": "https://www.bluebarnfarmpa.com/",
+    "owner": "Tim and Karen Wilson",
+    "owner_evidence": "Official About and Contact pages explicitly identify both as owners.",
+    "email": "bluebarnfarmpa@gmail.com",
+    "email_type": "general",
+    "phone": "240-357-4087",
+    "offers": "Pick-your-own berries; self-service farm market; farmers-market produce.",
+    "active_evidence": "Indexed official updates include a recent Labor Day farm-market promotion. The market page publishes April–November opening and daily hours. No direct trading confirmation.",
+    "website_issue": "The dedicated picking update begins with a 2024 season announcement.",
+    "issue_url": "https://www.bluebarnfarmpa.com/keep-up-with-blue-barn-farm/",
+    "issue_evidence": "The indexed official text explicitly introduces the 2024 growing season, while the same page includes more recent embedded farm-market posts. Picking days require a call or Facebook check.",
+    "proposed_fix": "Replace the old season introduction with an owner-editable, date-stamped picking-status panel; show crops, picking hours and prices together.",
+    "buyer_fit": "Owner-run visitor business with several sales channels. A repeatable seasonal update service fits better than a speculative full rebrand.",
+    "caveat": "Live fetches timed out; evidence is indexed official text. This is not evidence the site is down. Contact page also lists 814-201-6134 while footer lists 240-357-4087; ask which is preferred. Budget and traffic unknown.",
+    "selection_status": "priority",
+    "rank_rationale": "Specific dated content plus clear visitor decision and public contact; confirm current page in browser before outreach.",
+    "sources": [
+      {
+        "url": "https://www.bluebarnfarmpa.com/about-us/",
+        "claim": "Named ownership, farm acreage and direct-sales model.",
+        "accessed": "2026-09-15"
+      },
+      {
+        "url": "https://www.bluebarnfarmpa.com/contact-us/",
+        "claim": "Published business email; owners; conflicting phone placements.",
+        "accessed": "2026-09-15"
+      },
+      {
+        "url": "https://www.bluebarnfarmpa.com/keep-up-with-blue-barn-farm/",
+        "claim": "2024 picking introduction and more recent embedded market promotion.",
+        "accessed": "2026-09-15"
+      },
+      {
+        "url": "https://www.bluebarnfarmpa.com/markets/",
+        "claim": "Self-service and local-market sales; seasonal hours.",
+        "accessed": "2026-09-15"
+      }
+    ],
+    "state": "Pennsylvania",
+    "review_method": "Text-only review of official page text and identified supporting sources. No visual, mobile, speed, form-submission or checkout test.",
+    "accessed": "2026-09-15"
+  },
+  {
+    "name": "One Two Tree Farm",
+    "county": "Wayne",
+    "website": "https://www.onetwotreefarm.com/",
+    "owner": "Dan Barna",
+    "owner_evidence": "Official home and contact pages explicitly identify Dan as owner.",
+    "email": "dbarna06@gmail.com",
+    "email_type": "direct owner",
+    "phone": "570-647-6789",
+    "offers": "Wholesale trees and shrubs for landscape professionals; nursery visits.",
+    "active_evidence": "Official availability page is labelled Fall 2025–Spring 2026 and includes summer digging by telephone. Recent operating season documented; no Fall 2026 trading confirmation.",
+    "website_issue": "Availability page still names the previous Fall 2025–Spring 2026 season.",
+    "issue_url": "https://www.onetwotreefarm.com/availability",
+    "issue_evidence": "The page lists plant varieties and sizes under that season heading. Contact page asks customers to request a price list.",
+    "proposed_fix": "Build a dated availability catalogue with species/size filters and a quote request carrying the selected plants and quantities; retain private wholesale pricing if desired.",
+    "buyer_fit": "Family nursery advertises 77 acres and over 85 varieties. Wholesale enquiries can have material order value, but actual sales and website share are unknown.",
+    "caveat": "Wholesale nursery, not agritourism. Private prices may be intentional. Do not promise online stock accuracy without an update process.",
+    "selection_status": "priority",
+    "rank_rationale": "Named owner email and a specific season-update problem; nursery catalogue offers a narrow paid scope.",
+    "sources": [
+      {
+        "url": "https://www.onetwotreefarm.com/",
+        "claim": "Family business, owner, nursery acreage and product range.",
+        "accessed": "2026-09-15"
+      },
+      {
+        "url": "https://www.onetwotreefarm.com/contact-us",
+        "claim": "Owner-associated email, phone and request-for-price-list process.",
+        "accessed": "2026-09-15"
+      },
+      {
+        "url": "https://www.onetwotreefarm.com/availability",
+        "claim": "Availability season and plant descriptions.",
+        "accessed": "2026-09-15"
+      },
+      {
+        "url": "https://doczz.net/doc/2075941/member-directory",
+        "claim": "Historical PA Preferred directory copy places nursery address in Wayne County; county only.",
+        "accessed": "2026-09-15"
+      }
+    ],
+    "state": "Pennsylvania",
+    "review_method": "Text-only review of official page text and identified supporting sources. No visual, mobile, speed, form-submission or checkout test.",
+    "accessed": "2026-09-15"
+  },
+  {
+    "name": "Bendy Brook Farm",
+    "county": "Berks",
+    "website": "https://www.bendybrookfarm.com/",
+    "owner": "Nevin Mast",
+    "owner_evidence": "Official site describes Mast family farming and names Nevin as primary contact; LocalHarvest explicitly identifies him as owner.",
+    "email": "nevin@bendybrookfarm.com",
+    "email_type": "direct owner",
+    "phone": "610-698-1086",
+    "offers": "Pastured meat and eggs, bulk beef, holiday turkeys, farm pickup and home delivery.",
+    "active_evidence": "Live official pages offer ordering and delivery. LocalHarvest listing updated February 1, 2026. Checkout and current fulfilment not tested.",
+    "website_issue": "Legacy Products page still points customers to a price list labelled 2016.",
+    "issue_url": "https://www.bendybrookfarm.com/products/",
+    "issue_evidence": "Official indexed Products page links Market Price List 2016. The current Online Store separately handles deposits/gift certificates and directs other products to an order form.",
+    "proposed_fix": "Retire or redirect the legacy price page and make one clear product-to-pickup/delivery enquiry path. Preserve manual confirmation where variable meat weights require it.",
+    "buyer_fit": "Repeat local deliveries and bulk meat orders create identifiable customer tasks. Direct owner access; capacity and budget remain unknown.",
+    "caveat": "Legacy page may receive little traffic. The separate order form requires JavaScript in text extraction; this is not evidence it is broken. Confirm navigation and actual customer confusion before proposing wider work.",
+    "selection_status": "priority",
+    "rank_rationale": "Concrete old price-page evidence and reachable owner. Start with content cleanup and ordering clarity.",
+    "sources": [
+      {
+        "url": "https://www.bendybrookfarm.com/contact-us/",
+        "claim": "Nevin and his published email/phone.",
+        "accessed": "2026-09-15"
+      },
+      {
+        "url": "https://www.localharvest.org/bendy-brook-farm-M40067",
+        "claim": "Explicit ownership and February 2026 listing update.",
+        "accessed": "2026-09-15"
+      },
+      {
+        "url": "https://www.bendybrookfarm.com/products/",
+        "claim": "2016 price-list label on legacy Products page.",
+        "accessed": "2026-09-15"
+      },
+      {
+        "url": "https://www.bendybrookfarm.com/online-store/",
+        "claim": "Shop limited to certain products; other products directed to order form.",
+        "accessed": "2026-09-15"
+      },
+      {
+        "url": "https://www.bendybrookfarm.com/southeast-pa-home-delivery/",
+        "claim": "Fortnightly delivery and manual confirmation.",
+        "accessed": "2026-09-15"
+      },
+      {
+        "url": "https://bountifulberks.org/food/where-to-buy-local-meat-for-end-of-summer-picnics/",
+        "claim": "Berks-area direct-sales farm coverage.",
+        "accessed": "2026-09-15"
+      }
+    ],
+    "state": "Pennsylvania",
+    "review_method": "Text-only review of official page text and identified supporting sources. No visual, mobile, speed, form-submission or checkout test.",
+    "accessed": "2026-09-15"
+  },
+  {
+    "name": "Spring Mountain Farms",
+    "county": "Carbon",
+    "website": "https://www.springmountainfarms.com/",
+    "owner": "Bill and Sharon Moreton",
+    "owner_evidence": "Official site identifies family operation and publishes Bill's email. Organic Consumers directory explicitly names Bill and Sharon as owners.",
+    "email": "bill@springmountainfarms.com",
+    "email_type": "direct owner",
+    "phone": "610-871-2310",
+    "offers": "Pick-your-own orchard and berries; year-round meat and egg farm store.",
+    "active_evidence": "Live official pages show store hours and seasonal products. LocalHarvest listing updated February 8, 2026.",
+    "website_issue": "Picking page offers a broad crop calendar and an undated opening announcement, but no current picking-price or day-specific availability summary.",
+    "issue_url": "https://www.springmountainfarms.com/pick-your-own",
+    "issue_evidence": "Opening day is stated as July 5 without a year; crop rows list month ranges. Buckets and payment types are explained, but prices are absent from the reviewed page text.",
+    "proposed_fix": "Add a date-stamped 'picking this week' block with prices and clear confirmation instructions that the owner can update quickly.",
+    "buyer_fit": "Customer visits depend on knowing what is ready. Several revenue channels make a simple seasonal site service plausible.",
+    "caveat": "Undated July 5 is not proof of stale information. Crop changes may justify calling. No evidence of lost bookings, website traffic or budget.",
+    "selection_status": "conditional",
+    "rank_rationale": "Good owner route and visitor task; first ask whether repeated availability questions actually create work.",
+    "sources": [
+      {
+        "url": "https://www.springmountainfarms.com/",
+        "claim": "Family operation, offers, email and shop hours.",
+        "accessed": "2026-09-15"
+      },
+      {
+        "url": "https://www.springmountainfarms.com/pick-your-own",
+        "claim": "Undated opening announcement and broad crop months.",
+        "accessed": "2026-09-15"
+      },
+      {
+        "url": "https://organicconsumers.org/regenerative-farm-map/spring-mountain-farms/",
+        "claim": "Named owners, matching email and phone.",
+        "accessed": "2026-09-15"
+      },
+      {
+        "url": "https://www.localharvest.org/spring-mountain-farms-M65705/csa",
+        "claim": "February 2026 listing update.",
+        "accessed": "2026-09-15"
+      },
+      {
+        "url": "https://delawareandlehigh.org/blog/journey-family-fun/",
+        "claim": "Carbon County location.",
+        "accessed": "2026-09-15"
+      }
+    ],
+    "state": "Pennsylvania",
+    "review_method": "Text-only review of official page text and identified supporting sources. No visual, mobile, speed, form-submission or checkout test.",
+    "accessed": "2026-09-15"
+  },
+  {
+    "name": "Paulus Farm Market",
+    "county": "Cumberland",
+    "website": "https://paulusfarmmarket.com/",
+    "owner": "Jim and Amy Paulus",
+    "owner_evidence": "Official About page calls Jim owner/operator and Amy co-owner; Amy coordinates educational tours.",
+    "email": "info@paulusfarmmarket.com",
+    "email_type": "general",
+    "phone": "717-697-4330",
+    "offers": "Farm market, FarmPark, u-pick, school tours, birthday parties and farm camp.",
+    "active_evidence": "Official homepage publishes 2026 season passes, 2026 camp registration and 2026 guided field-trip information.",
+    "website_issue": "School-tour booking requires an email exchange with up to four days allowed for confirmation.",
+    "issue_url": "https://paulusfarmmarket.com/SchoolTours",
+    "issue_evidence": "Tour page sends visitors to email to request a date, includes separate downloadable information and warns confirmation may take four days.",
+    "proposed_fix": "Offer a structured tour enquiry with group size, preferred dates, age and package; send an automatic acknowledgement while keeping staff approval.",
+    "buyer_fit": "Paid visitor offers and named owner/educator suggest a meaningful booking task. Existing online season-pass and camp systems show the farm already buys digital services.",
+    "caveat": "Manual approval may work well and may be necessary. Existing site supplier is credited. This is a conditional workflow improvement, not proof of a bad website or buyer interest.",
+    "selection_status": "conditional",
+    "rank_rationale": "Established paid activities, but needs a conversation about enquiry volume before any redesign offer.",
+    "sources": [
+      {
+        "url": "https://paulusfarmmarket.com/About",
+        "claim": "Jim/Amy ownership and tour responsibility.",
+        "accessed": "2026-09-15"
+      },
+      {
+        "url": "https://paulusfarmmarket.com/",
+        "claim": "2026 paid activities and business contact.",
+        "accessed": "2026-09-15"
+      },
+      {
+        "url": "https://paulusfarmmarket.com/SchoolTours",
+        "claim": "Email-only date request, downloadable details and four-day confirmation allowance.",
+        "accessed": "2026-09-15"
+      }
+    ],
+    "state": "Pennsylvania",
+    "review_method": "Text-only review of official page text and identified supporting sources. No visual, mobile, speed, form-submission or checkout test.",
+    "accessed": "2026-09-15"
+  },
+  {
+    "name": "Maiden Creek Beef",
+    "county": "Berks",
+    "website": "https://maidencreekbeef.com/",
+    "owner": "Kelsie Odhner Anderson",
+    "owner_evidence": "Official contact page explicitly labels Kelsie as owner and provides business email.",
+    "email": "maidencreekbeef@gmail.com",
+    "email_type": "direct owner",
+    "phone": "484-375-4406",
+    "offers": "Bulk beef shares, beef bundles, individual beef products and local pickup; limited shipping.",
+    "active_evidence": "Live shop lists priced products and add-to-cart controls. Homepage describes a one-to-four-week fulfilment process. No transaction performed.",
+    "website_issue": "Product-level fulfilment clarity is weaker than the homepage.",
+    "issue_url": "https://maidencreekbeef.com/product/whole-cow-healthy-beef-whole-steer-freezer-beef-natural-beef-naturally-raised-beef/",
+    "issue_evidence": "Whole-cow product page lists $4,400 and cuts/weights but does not repeat the homepage's one-to-four-week wait or explicit restriction that only eighth-cow orders ship.",
+    "proposed_fix": "Place pickup-only eligibility and estimated fulfilment timing beside the whole-cow purchase control; add a simple bulk-share comparison.",
+    "buyer_fit": "High-value direct product with a clear online purchase task. Owner is directly reachable through an explicitly associated business inbox.",
+    "caveat": "Checkout may already enforce these conditions and was not tested. Review is limited to product-page information; no claim of actual ordering errors or lost revenue.",
+    "selection_status": "conditional",
+    "rank_rationale": "Specific product information gap tied to a high-value order. Focus on purchase-page clarification rather than a complete rebuild.",
+    "sources": [
+      {
+        "url": "https://maidencreekbeef.com/contact/",
+        "claim": "Explicit owner, email, phone and pickup address.",
+        "accessed": "2026-09-15"
+      },
+      {
+        "url": "https://maidencreekbeef.com/",
+        "claim": "Published wait time and eighth-cow-only shipping restriction.",
+        "accessed": "2026-09-15"
+      },
+      {
+        "url": "https://maidencreekbeef.com/product/whole-cow-healthy-beef-whole-steer-freezer-beef-natural-beef-naturally-raised-beef/",
+        "claim": "Whole-cow price, content and absence of those fulfilment statements in reviewed text.",
+        "accessed": "2026-09-15"
+      },
+      {
+        "url": "https://bountifulberks.org/food/where-to-buy-local-meat-for-end-of-summer-picnics/",
+        "claim": "Berks County context.",
+        "accessed": "2026-09-15"
+      }
+    ],
+    "state": "Pennsylvania",
+    "review_method": "Text-only review of official page text and identified supporting sources. No visual, mobile, speed, form-submission or checkout test.",
+    "accessed": "2026-09-15"
+  },
+  {
+    "name": "Patriot Farms",
+    "county": "Berks",
+    "website": "https://www.patriotfarmspa.com/",
+    "owner": "Ansel Bachman and Brittany J.P. Bachman",
+    "owner_evidence": "Official team page explicitly calls both co-owners.",
+    "email": "patriotfarmsonline@gmail.com",
+    "email_type": "general",
+    "phone": "732-759-5251",
+    "offers": "Organic vegetables and herbs, self-service farm store, farmers markets and donation-based farm tours.",
+    "active_evidence": "Homepage is accepting 2026 volunteer/market-help applications; Real Organic Project lists 2025 renewal.",
+    "website_issue": "Current produce availability requires a phone call; tours require an email or text exchange.",
+    "issue_url": "https://www.patriotfarmspa.com/",
+    "issue_evidence": "Farm-store section asks shoppers to call to learn what is in season or buy pork. Tours use email/text booking and a suggested $15 donation.",
+    "proposed_fix": "Only if recurring questions are burdensome, add a low-maintenance weekly stock note and short tour enquiry form.",
+    "buyer_fit": "Direct owner-run sales, but low tour price and self-service model point toward a modest content service, not an expensive redesign.",
+    "caveat": "Existing website explains directions and two distinct addresses well. Manual booking may be intentional. Small-scale economics may not support the user's desired project price.",
+    "selection_status": "conditional",
+    "rank_rationale": "Easy owner contact but lower likely project value; qualify budget before doing any mockup.",
+    "sources": [
+      {
+        "url": "https://www.patriotfarmspa.com/pfteam",
+        "claim": "Named co-owners.",
+        "accessed": "2026-09-15"
+      },
+      {
+        "url": "https://www.patriotfarmspa.com/",
+        "claim": "Email, phone, 2026 hiring signal, tour process, suggested donation and call-for-stock instruction.",
+        "accessed": "2026-09-15"
+      },
+      {
+        "url": "https://realorganicproject.org/directory/patriot-farms/",
+        "claim": "Berks County, small scale and 2025 certification renewal.",
+        "accessed": "2026-09-15"
+      }
+    ],
+    "state": "Pennsylvania",
+    "review_method": "Text-only review of official page text and identified supporting sources. No visual, mobile, speed, form-submission or checkout test.",
+    "accessed": "2026-09-15"
+  },
+  {
+    "name": "Kuhn Orchards",
+    "county": "Adams",
+    "website": "https://kuhnorchards.com/",
+    "owner": "Sidney Kuhn",
+    "owner_evidence": "Official team page identifies Sidney as owner/operator and says ownership transferred to her in 2012.",
+    "email": "sidkuhnorch@gmail.com",
+    "email_type": "uncertain",
+    "phone": "717-334-2722",
+    "offers": "Orchard produce sold through eight DC/Northern Virginia markets; online preorders and winter delivery.",
+    "active_evidence": "Official 2026 market schedule and multiple 2026 job descriptions.",
+    "website_issue": "No sufficiently strong redesign problem established.",
+    "issue_url": "https://kuhnorchards.com/",
+    "issue_evidence": "Homepage clearly links the webstore and market schedule and explicitly warns that the Pennsylvania farm has no retail store or u-pick.",
+    "proposed_fix": "Reserve. Ask about a specific unmet need before offering any design work; preserve the clear market-versus-farm distinction.",
+    "buyer_fit": "Established family direct-sales business with a working digital offer, but good business fit does not establish redesign need.",
+    "caveat": "Email is officially published for hiring; the address resembles Sidney's name but the page does not explicitly label inbox ownership. Do not call it a confirmed private owner inbox.",
+    "selection_status": "reserve",
+    "rank_rationale": "Good ownership and active evidence; no documented material issue to justify a pitch.",
+    "sources": [
+      {
+        "url": "https://kuhnorchards.com/staff-employment/",
+        "claim": "Ownership, hiring email and 2026 activity.",
+        "accessed": "2026-09-15"
+      },
+      {
+        "url": "https://kuhnorchards.com/",
+        "claim": "Clear customer routes and no-farm-retail warning.",
+        "accessed": "2026-09-15"
+      },
+      {
+        "url": "https://kuhnorchards.com/farmers-markets/",
+        "claim": "2026 market schedule.",
+        "accessed": "2026-09-15"
+      }
+    ],
+    "state": "Pennsylvania",
+    "review_method": "Text-only review of official page text and identified supporting sources. No visual, mobile, speed, form-submission or checkout test.",
+    "accessed": "2026-09-15"
+  },
+  {
+    "name": "Wallenpaupack Creek Farm",
+    "county": "Wayne",
+    "website": "https://wallenpaupackcreekfarm.com/",
+    "owner": "Kelly and Britt Comisky",
+    "owner_evidence": "Official story describes their purchase and operation; county AgroLegacy directory explicitly identifies both as owners.",
+    "email": "britt@wallycreekfarm.com",
+    "email_type": "direct owner",
+    "phone": "570-230-4025",
+    "offers": "Farm wedding venue, receptions, private parties and farm events.",
+    "active_evidence": "Live site offers wedding enquiries and a planning portal; no dated 2026 booking or trading confirmation.",
+    "website_issue": "No material redesign problem established from text-only review.",
+    "issue_url": "https://wallenpaupackcreekfarm.com/contact/",
+    "issue_evidence": "Site has pricing guide, venue information, named event/marketing emails and an existing wedding planning portal.",
+    "proposed_fix": "Reserve. Only explore a specific lead-quality or enquiry-volume problem if the owners identify one.",
+    "buyer_fit": "Weddings could support meaningful project spend, and Britt has an explicit marketing role. Neither budget nor dissatisfaction is established.",
+    "caveat": "Existing HoneyBook-related planning workflow may already meet needs. Images and embedded enquiries were not visually tested. Alternative owner route: kelly@wallycreekfarm.com for farm/event operations.",
+    "selection_status": "reserve",
+    "rank_rationale": "Owner access and high-value offer, but no honest evidence that a redesign is needed.",
+    "sources": [
+      {
+        "url": "https://wallenpaupackcreekfarm.com/our-story/",
+        "claim": "Kelly and Britt's property purchase and farm operations.",
+        "accessed": "2026-09-15"
+      },
+      {
+        "url": "https://wallenpaupackcreekfarm.com/contact/",
+        "claim": "Britt marketing email, Kelly operations email, phone and planning portal.",
+        "accessed": "2026-09-15"
+      },
+      {
+        "url": "https://wallenpaupackcreekfarm.com/",
+        "claim": "Wedding offer and pricing guide.",
+        "accessed": "2026-09-15"
+      },
+      {
+        "url": "https://www.agrolegacy.org/producers",
+        "claim": "Explicit owner names and Wayne County context.",
+        "accessed": "2026-09-15"
+      }
+    ],
+    "state": "Pennsylvania",
+    "review_method": "Text-only review of official page text and identified supporting sources. No visual, mobile, speed, form-submission or checkout test.",
+    "accessed": "2026-09-15"
+  },
+  {
+    "name": "Calkins Creamery",
+    "county": "Wayne",
+    "website": "https://calkinscreamery.com/",
+    "owner": "Emily Montgomery",
+    "owner_evidence": "Official team page explicitly identifies Emily as owner and cheesemaker.",
+    "email": "calkinscreamery@gmail.com",
+    "email_type": "general",
+    "phone": "570-729-8103",
+    "offers": "Farmstead cheese, gift boxes, farm-store pickup, shipping and wholesale.",
+    "active_evidence": "Live website has priced products, gift boxes and online purchase controls. No transaction performed.",
+    "website_issue": "One gift-box description disagrees with its own contents list.",
+    "issue_url": "https://calkinscreamery.com/shop/p/delight-gift-box",
+    "issue_evidence": "Delight Gift Box narrative says six cheeses while the bullet list says five varieties.",
+    "proposed_fix": "Confirm the correct contents with the owner and make the product text consistent. This alone does not justify a full redesign.",
+    "buyer_fit": "Established products and wholesale testimonials suggest a real business; current website already supports shopping, FAQs and fulfilment.",
+    "caveat": "Minor content mismatch only. General customer-service inbox, not a confirmed owner inbox. Do not present a typo as proof of lost revenue or a rebranding opportunity.",
+    "selection_status": "reserve",
+    "rank_rationale": "Concrete minor correction but strong existing purchase routes; low redesign priority.",
+    "sources": [
+      {
+        "url": "https://calkinscreamery.com/our-team",
+        "claim": "Emily ownership and customer-service team.",
+        "accessed": "2026-09-15"
+      },
+      {
+        "url": "https://calkinscreamery.com/shop/p/delight-gift-box",
+        "claim": "Six-versus-five contents discrepancy.",
+        "accessed": "2026-09-15"
+      },
+      {
+        "url": "https://calkinscreamery.squarespace.com/shop",
+        "claim": "Official branded shop publishes general email and fulfilment FAQs; main-domain shop fetch timed out.",
+        "accessed": "2026-09-15"
+      },
+      {
+        "url": "https://calkinscreamery.com/highland-farm",
+        "claim": "Wayne County farm and family history.",
+        "accessed": "2026-09-15"
+      },
+      {
+        "url": "https://calkinscreamery.com/",
+        "claim": "Current online shopping offer.",
+        "accessed": "2026-09-15"
+      }
+    ],
+    "state": "Pennsylvania",
+    "review_method": "Text-only review of official page text and identified supporting sources. No visual, mobile, speed, form-submission or checkout test.",
+    "accessed": "2026-09-15"
+  }
+]

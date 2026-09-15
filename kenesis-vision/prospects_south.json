@@ -1,0 +1,404 @@
+[
+  {
+    "name": "Centroid Polymer Technologies",
+    "city": "Kanjikode, Palakkad",
+    "region": "Kerala",
+    "sector": "Industrial rubber and polymer moulding",
+    "products": "Moulded elastomers, engineering plastics, rubber-to-metal bonded parts and extruded profiles",
+    "factory_evidence": "Official site identifies a 30,000 sq ft Kanjikode facility and compounding, compression/transfer/injection moulding and extrusion. Contact address: Plot P32(4,5), KINFRA IITP, Kanjikode, Palakkad 678621.",
+    "leadership": "Not verified in reviewed official sources.",
+    "leadership_confidence": "Unknown",
+    "email": "sales@centroidpolymer.com",
+    "email_type": "Sales email published on official contact page",
+    "operational_contact": "info@centroidpolymer.com",
+    "phone": "+91 9946231123",
+    "website": "https://www.centroidpolymer.com/",
+    "sources": [
+      {
+        "url": "https://www.centroidpolymer.com/about",
+        "claim": "Factory size, location and moulding/compounding capabilities"
+      },
+      {
+        "url": "https://www.centroidpolymer.com/contact",
+        "claim": "Business email, phone and industrial-estate address"
+      }
+    ],
+    "fit_reason": "Process match: repeated moulding and material preparation could support a narrowly measured workflow pilot.",
+    "discovery_topic": "Whether mould changes or material handoffs create measurable avoidable delay at one visible station.",
+    "caveat": "Fit is a hypothesis. Leadership, CCTV coverage, budget and decision speed are not verified."
+  },
+  {
+    "name": "Toyo Rubbers",
+    "city": "Thodupuzha",
+    "region": "Kerala",
+    "sector": "Industrial rubber moulding",
+    "products": "Industrial rubber moulds, anti-vibration components and automotive rubber products",
+    "factory_evidence": "Official about page describes compounding, CNC-made compression moulds, hydraulic-press vulcanization, post-curing and inspection. Factory contact is Kumaramangalam PO, Thodupuzha.",
+    "leadership": "Not verified; a named-looking mailbox is published but its owner's role is not established.",
+    "leadership_confidence": "Unknown",
+    "email": "sales@toyorubbers.com",
+    "email_type": "Sales email published on official site",
+    "operational_contact": "jayakrishnantoyo@yahoo.co.in (public business mailbox; role unverified)",
+    "phone": "+91 4862 200491",
+    "website": "https://www.toyorubbers.com/",
+    "sources": [
+      {
+        "url": "https://www.toyorubbers.com/about",
+        "claim": "Manufacturing stages, establishment in 1998, factory location and public business contacts"
+      }
+    ],
+    "fit_reason": "Explicit press-based production gives a clearer starting point than a generic factory listing.",
+    "discovery_topic": "Press loading/demoulding gaps and material changeovers; distinguish planned cure time from avoidable delays.",
+    "caveat": "No named decision-maker verified. CCTV, budget, current production volume and decision speed remain unknown."
+  },
+  {
+    "name": "Vajra Rubber Products (P) Ltd",
+    "city": "Konathakunnu, Thrissur",
+    "region": "Kerala",
+    "sector": "Custom rubber, plastics and composites",
+    "products": "Custom-moulded rubber, bonded components, plastic and composite products",
+    "factory_evidence": "Official site describes integrated manufacturing in Thrissur, hydraulic presses and autoclave capability. Public contact is PO Konathakunnu, Thrissur 680123.",
+    "leadership": "Sachindranath P.S. — Founder; official management page lists Managing Director. Sabareenath G. — Executive Director.",
+    "leadership_confidence": "High: official company sources; reconfirm current titles before contact.",
+    "email": "md@vajrarubber.com",
+    "email_type": "Managing Director email explicitly published on official management page",
+    "operational_contact": "Prasanth PS — Production Director, prasanthps@vajrarubber.com (official management page); Head-projects@vajrarubber.com",
+    "phone": "+91 9496001601",
+    "website": "https://vajrarubber.com/",
+    "sources": [
+      {
+        "url": "https://vajrarubber.com/",
+        "claim": "Integrated manufacturing, equipment and founder identification"
+      },
+      {
+        "url": "https://vajrarubber.com/management.html",
+        "claim": "Named management roles and published MD email"
+      },
+      {
+        "url": "https://vajrarubber.com/contact",
+        "claim": "General/project emails, telephone and Thrissur address"
+      }
+    ],
+    "fit_reason": "Strong process evidence plus an explicitly public MD route.",
+    "discovery_topic": "One non-sensitive moulding station where missed visible steps or handoffs have an agreed cost.",
+    "caveat": "Aerospace/defence work may restrict video access. Older management page needs current-title confirmation. CCTV, budget and decision speed are unknown."
+  },
+  {
+    "name": "Cochin Rubber Factory",
+    "city": "Anchery, Thrissur",
+    "region": "Kerala",
+    "sector": "Rubber and plastic moulds",
+    "products": "Rubber/plastic moulds for designer tiles, pavers and related products",
+    "factory_evidence": "Official product site markets rubber/plastic moulds under Cochin Rubber Factory. Public location is TC 20/923, Lour Nagar, PO Anchery, Thrissur 680006. Regional business directory independently describes manufacture of tile and industrial rubber moulds.",
+    "leadership": "Not verified in reviewed sources.",
+    "leadership_confidence": "Unknown",
+    "email": "cochinrubberfactory@gmail.com",
+    "email_type": "General business email published on official contact page",
+    "phone": "+91 9387112040",
+    "website": "https://crfchampion.com/",
+    "sources": [
+      {
+        "url": "https://crfchampion.com/",
+        "claim": "Rubber/plastic mould product range and company identity"
+      },
+      {
+        "url": "https://crfchampion.com/Contactus.php",
+        "claim": "Business email, phone and address"
+      },
+      {
+        "url": "https://www.keralafind.com/categories/business/rubber_products.htm",
+        "claim": "Secondary corroboration of mould manufacturing"
+      }
+    ],
+    "fit_reason": "Relevant rubber/plastic mould production; lower-confidence reserve until own shopfloor is confirmed.",
+    "discovery_topic": "Which mould-production and finishing stages occur in its own factory.",
+    "caveat": "Official plant/process detail is thinner than other candidates. Confirm active factory and distinguish mould manufacturing from paving services. Leadership, CCTV and budget unknown."
+  },
+  {
+    "name": "JR Rubber Industries",
+    "city": "Mulankunnathukavu, Thrissur",
+    "region": "Kerala",
+    "sector": "Rubber, PVC and plastic mould manufacturing",
+    "products": "Paver, tile and precast-wall moulds",
+    "factory_evidence": "Official site describes mould manufacturing since 1994 and factory/in-plant training. Address: Thodapparambu, Mulankunnathukavu PO, Thrissur 680581.",
+    "leadership": "Not verified in reviewed official sources.",
+    "leadership_confidence": "Unknown",
+    "email": "mail@jrrubbermoulds.com",
+    "email_type": "General business email published on official website",
+    "phone": "+91 8589955449",
+    "website": "https://jrrubbermoulds.com/",
+    "sources": [
+      {
+        "url": "https://jrrubbermoulds.com/",
+        "claim": "Own rubber/PVC/plastic mould manufacturing and public contact details"
+      },
+      {
+        "url": "https://jrprecastmoulds.com/request-a-qoute.html",
+        "claim": "Same company factory-visit invitation and business address/email"
+      }
+    ],
+    "fit_reason": "Established mould-making process with a concrete factory identity.",
+    "discovery_topic": "Own mould-production delays, finishing handoffs and inspection queues.",
+    "caveat": "Qualify JR's own manufacturing line rather than its customers' concrete/paver plants. Named leadership, CCTV, budget and decision speed not verified."
+  },
+  {
+    "name": "Elvee Rubber Products",
+    "city": "Peenya, Bengaluru",
+    "region": "Karnataka",
+    "sector": "Moulded industrial rubber components",
+    "products": "O-rings, gaskets, grommets, bellows, bushes, diaphragms and silicone components",
+    "factory_evidence": "Official site calls the company an MSME with over 25 years of moulded industrial rubber manufacturing. Public head office: No.09, Byraveshwara Industrial Estate, 17th Cross, Andhrahalli Main Road, Peenya 2nd Stage, Bengaluru 560091.",
+    "leadership": "Cyril Varghese — Co-Founder and CEO, self-identified on public LinkedIn profile. Official site publishes a Founder & CEO phone without a personal name.",
+    "leadership_confidence": "Medium-high: self-authored professional profile; official site corroborates role contact but not name.",
+    "email": "info@elveerubber.com",
+    "email_type": "General business email published on official site; not a guessed personal email",
+    "operational_contact": "elveerubber@gmail.com",
+    "phone": "+91 8095945333 (officially labelled Founder & CEO)",
+    "website": "https://www.elveerubber.com/",
+    "sources": [
+      {
+        "url": "https://www.elveerubber.com/",
+        "claim": "Manufacturing, public business emails, Peenya address and Founder & CEO phone"
+      },
+      {
+        "url": "https://in.linkedin.com/in/cyril-varghese-828164122",
+        "claim": "Cyril Varghese self-identifies as Co-Founder and CEO"
+      }
+    ],
+    "fit_reason": "Industrial moulding supplier with a publicly labelled founder contact route.",
+    "discovery_topic": "Whether one repeat moulding operation has observable delay that management wants quantified.",
+    "caveat": "Official address is labelled head office rather than separately factory. Confirm production at Peenya. CCTV, budget and decision speed are unknown."
+  },
+  {
+    "name": "Tool Technologies",
+    "city": "Peenya, Bengaluru",
+    "region": "Karnataka",
+    "sector": "Rubber and plastic injection moulding",
+    "products": "Seals, gaskets, O-rings, bonded oil seals and custom automotive/electrical moulded parts",
+    "factory_evidence": "Company's official WordPress site describes rubber/plastic injection-moulded manufacturing and made-to-drawing production. Address: #71/72, 7th Cross, Handrahalli Main Road, Maruthi Nagar, Peenya 2nd Stage, Bengaluru 560091.",
+    "leadership": "Mr Nataraj — Founder and Managing Director, explicitly stated on company site.",
+    "leadership_confidence": "High for published claim; independent/current-role confirmation pending.",
+    "email": "natarajtooltech@gmail.com",
+    "email_type": "Named founder/MD business email published on company website",
+    "phone": "+91 7975326691",
+    "website": "https://tooltechnologiesin.wordpress.com/",
+    "sources": [
+      {
+        "url": "https://tooltechnologiesin.wordpress.com/",
+        "claim": "Manufacturing process/products, founder/MD identity, email, phone and business address"
+      }
+    ],
+    "fit_reason": "Direct founder route and a closely matching industrial moulding process.",
+    "discovery_topic": "One repeat moulding station: material readiness, visible sequence checkpoints and avoidable idle time.",
+    "caveat": "Evidence is self-published and does not establish current capacity, company size or active installed CCTV. Confirm these before qualification; willingness to pay unknown."
+  },
+  {
+    "name": "S V Rubber Product",
+    "city": "Battarahalli, Bengaluru",
+    "region": "Karnataka",
+    "sector": "Rubber and plastic moulding/extrusion",
+    "products": "Moulded components, seals, gaskets, cords, tubing and extruded profiles",
+    "factory_evidence": "Official homepage lists compression moulding, injection moulding, extrusion and in-house rubber mould dies. Address: Site 64,65, Rifco Shantiniketan Layout, Battarahalli, Bengaluru 560049.",
+    "leadership": "Not verified in reviewed official sources.",
+    "leadership_confidence": "Unknown",
+    "email": "svrubberproduct@gmail.com",
+    "email_type": "General business email published on official website",
+    "phone": "+91 9980566237",
+    "website": "https://svrubberproduct.com/",
+    "sources": [
+      {
+        "url": "https://svrubberproduct.com/",
+        "claim": "Manufacturing processes, product range, email, phone and address"
+      },
+      {
+        "url": "https://svrubberproduct.com/contact/",
+        "claim": "Public business contact details and production enquiry workflow"
+      }
+    ],
+    "fit_reason": "Direct process match for a limited moulding/extrusion workflow study.",
+    "discovery_topic": "Which actual manufacturing line at the listed location has a repeated observable bottleneck.",
+    "caveat": "Establishment age, scale and named ownership are not verified. Confirm factory rather than office address. CCTV and budget unknown."
+  },
+  {
+    "name": "Mahalaxmi Rubber Products",
+    "city": "Cherlapally, Hyderabad",
+    "region": "Telangana",
+    "sector": "Industrial rubber moulding",
+    "products": "Moulded seals, rail pads, transformer rubber parts and dehusking rollers",
+    "factory_evidence": "Official site describes separate carbon and non-carbon/food-grade units. Factory: Plot 58, Phase I, IDA Cherlapally, Hyderabad 500051.",
+    "leadership": "P. A. Radhakrishnan Nair — management, described as a second-generation entrepreneur/rubber technologist; Ranju Pillai — management with sales and marketing experience.",
+    "leadership_confidence": "High: official management biographies; exact statutory titles not stated.",
+    "email": "ranju@smrubberproducts.com",
+    "email_type": "Named management business email explicitly published on Mahalaxmi official contact page",
+    "operational_contact": "mahalaxmirubberproduct@gmail.com (factory)",
+    "phone": "+91 9010242563",
+    "website": "https://mahalaxmirubberproducts.in/",
+    "sources": [
+      {
+        "url": "https://mahalaxmirubberproducts.in/",
+        "claim": "Products, manufacturing units and factory location"
+      },
+      {
+        "url": "https://mahalaxmirubberproducts.in/aboutus.html",
+        "claim": "Named management biographies and second-generation background"
+      },
+      {
+        "url": "https://mahalaxmirubberproducts.in/contact.html",
+        "claim": "Published Ranju and factory emails, telephone and addresses"
+      }
+    ],
+    "fit_reason": "Strong rubber-process match and an official named management route.",
+    "discovery_topic": "Material changes and press/workstation handoffs across one chosen unit.",
+    "caveat": "The alternate email domain is exactly as published. Do not infer authority over technology purchases. CCTV, budget and decision speed remain unknown."
+  },
+  {
+    "name": "Vikah Rubbers Private Limited",
+    "city": "Hanumakonda",
+    "region": "Telangana",
+    "sector": "Recycled rubber processing",
+    "products": "Rubber crumb, granules, factice and EPDM/recycled-rubber materials",
+    "factory_evidence": "Official site describes rubber crumb/granule manufacturing. Unit: Shed 1, Plot 14, Site A, IP Rampur, Kazipet Mandal, Hanumakonda 506151; separate administrative office in Nagole, Hyderabad.",
+    "leadership": "Not verified in reviewed official sources.",
+    "leadership_confidence": "Unknown",
+    "email": "info@vikahrubbers.com",
+    "email_type": "General business email published on official contact page",
+    "phone": "+91 8886789356",
+    "website": "https://vikahrubbers.com/",
+    "sources": [
+      {
+        "url": "https://vikahrubbers.com/",
+        "claim": "Rubber-processing manufacturing identity"
+      },
+      {
+        "url": "https://vikahrubbers.com/ContactUs",
+        "claim": "Factory versus administrative location, email and phone"
+      }
+    ],
+    "fit_reason": "Adjacent process-manufacturing candidate for material movement and staging rather than intricate assembly SOP.",
+    "discovery_topic": "Material queue and transfer delays visible at one processing zone.",
+    "caveat": "Lower priority than moulding firms. Some official pages use bot protection. Current plant operation, leadership, CCTV and budget require confirmation."
+  },
+  {
+    "name": "Kanta Rubber Pvt Ltd",
+    "city": "Jeedimetla, Hyderabad",
+    "region": "Telangana",
+    "sector": "Industrial rubber and polymer manufacturing",
+    "products": "Moulded rubber products, hoses and industrial polymer components",
+    "factory_evidence": "Official production page lists mixing mills, kneaders, calender, vulcaniser, hose-wrapping equipment and hydraulic presses. Registered office/works: 143-144, Phase V, IDA Jeedimetla, Hyderabad 500055.",
+    "leadership": "Not verified in reviewed official sources.",
+    "leadership_confidence": "Unknown",
+    "email": "marketing@kantarubber.com",
+    "email_type": "Marketing email published on official contact page",
+    "operational_contact": "Inquiry@kantarubber.com",
+    "phone": "+91 9397038507",
+    "website": "https://www.kantarubber.com/",
+    "sources": [
+      {
+        "url": "https://www.kantarubber.com/productionresource.asp",
+        "claim": "Specific factory machinery and production capabilities"
+      },
+      {
+        "url": "https://www.kantarubber.com/contact.asp",
+        "claim": "Works address, published business emails and mobile number"
+      },
+      {
+        "url": "https://www.kantarubber.com/about.asp",
+        "claim": "Company manufacturing identity"
+      }
+    ],
+    "fit_reason": "Unusually concrete equipment evidence for recurring mixing, press and hose workflows.",
+    "discovery_topic": "Whether material staging or handoffs between mixing and downstream equipment cause measurable delay.",
+    "caveat": "Website appears older; reconfirm equipment and contacts are current. Named leadership, CCTV and purchasing authority unknown."
+  },
+  {
+    "name": "Deesawala Rubber Industries",
+    "city": "Hyderabad",
+    "region": "Telangana",
+    "sector": "Rubber gaskets, seals and infrastructure products",
+    "products": "Pipe gaskets, bridge-bearing pads, rubber sheets and profiles",
+    "factory_evidence": "Official company pages describe rubber manufacturing. Company-hosted May 2024 Bizz Buzz report identifies three operating units at Balanagar and planned additional Kallakal facilities. Official contact page lists Ranigunj, Secunderabad head office.",
+    "leadership": "Huned Deesawala — Co-Founder and Managing Director; Murtaza Deesawala — Executive Director on current official about page. A 2024 report identifies Murtaza as Huned's son and then GM Sales.",
+    "leadership_confidence": "High: current official roles; historical title differs and is date-labelled.",
+    "email": "murtaza@deesawalarubber.com",
+    "email_type": "Named executive business email published on official contact page",
+    "operational_contact": "enquiry@deesawalarubber.com",
+    "phone": "+91 8447825453",
+    "website": "https://www.deesawalarubber.com/",
+    "sources": [
+      {
+        "url": "https://www.deesawalarubber.com/about.html",
+        "claim": "Manufacturing and current named leadership"
+      },
+      {
+        "url": "https://www.deesawalarubber.com/contact.html",
+        "claim": "Executive email, general email, phone and head-office address"
+      },
+      {
+        "url": "https://www.deesawalarubber.com/pdf/press-2.pdf",
+        "claim": "Company-hosted dated reporting on operating Balanagar factories and founder-family relationship"
+      }
+    ],
+    "fit_reason": "Established rubber manufacturer with an explicit founder-family executive contact.",
+    "discovery_topic": "Select one existing plant and one repeated production handoff with a measurable loss.",
+    "caveat": "Do not treat announced fourth/fifth factories as completed. Likely larger/more structured than micro-SMEs; procurement speed, CCTV and budget are unverified."
+  },
+  {
+    "name": "Mithra Fluid Trans Pvt Ltd",
+    "city": "Veeravalli, Krishna district",
+    "region": "Andhra Pradesh",
+    "sector": "Industrial rubber hose manufacturing",
+    "products": "Dredging, hydraulic, industrial and hand-built hoses; moulded items",
+    "factory_evidence": "Official site describes hose manufacturing and a laboratory with rubber-technologist support. Plant: RS No 9-190, Bapulapadu Mandalam, Veeravalli Village, Krishna district 521110. Corporate office is in Hyderabad.",
+    "leadership": "Not verified in reviewed official sources.",
+    "leadership_confidence": "Unknown",
+    "email": "Marketing@mftl.in",
+    "email_type": "Marketing business email published on official contact page",
+    "operational_contact": "Admin@mftl.in",
+    "phone": "+91 8977915617",
+    "website": "https://mftl.in/",
+    "sources": [
+      {
+        "url": "https://mftl.in/",
+        "claim": "Hose products and manufacturing capability"
+      },
+      {
+        "url": "https://mftl.in/about-us.html",
+        "claim": "Company manufacturing background"
+      },
+      {
+        "url": "https://mftl.in/contact-us.html",
+        "claim": "Andhra Pradesh plant distinct from Hyderabad office, public email and phone"
+      }
+    ],
+    "fit_reason": "Clear AP factory evidence and observable manual/material-handling stages in hose production.",
+    "discovery_topic": "Material staging and hand-built hose process handoffs at the Veeravalli plant.",
+    "caveat": "Ownership and current purchasing decision-maker unknown. Some quality requirements will be invisible to general CCTV. Coverage, budget and decision speed unverified."
+  },
+  {
+    "name": "Veena Rubber Industries",
+    "city": "Autonagar, Vijayawada",
+    "region": "Andhra Pradesh",
+    "sector": "Industrial rubber products",
+    "products": "Rubber cords, diaphragms, rings, seals, fenders, bellows and gate seals",
+    "factory_evidence": "Official site describes rubber manufacturing since 1977 and production facilities. Address: #3 Krishi Complex, Phase III, opposite Telephone Exchange, Autonagar, Vijayawada 520007.",
+    "leadership": "Not verified from official source; a secondary directory lists Raghavendhar as owner, requiring confirmation.",
+    "leadership_confidence": "Low: owner name from secondary directory only.",
+    "email": "veenarubberindustries@yahoo.co.in",
+    "email_type": "General business email published on official site",
+    "phone": "+91 9848125127",
+    "website": "https://www.veenarubbers.co.in/",
+    "sources": [
+      {
+        "url": "https://www.veenarubbers.co.in/",
+        "claim": "Manufacturing, product range, establishment claim, email, phone and address"
+      },
+      {
+        "url": "https://www.bharatibiz.com/en/veena-rubber-industries-0866-254-2227",
+        "claim": "Secondary owner-name lead only; not treated as verified current leadership"
+      }
+    ],
+    "fit_reason": "Established AP industrial-rubber producer with accessible public business contact.",
+    "discovery_topic": "Which moulded-rubber or finishing operation occurs in its own shopfloor and has a visible repeat workflow.",
+    "caveat": "Some lining/service work may occur at customers' sites. Confirm own factory line, owner role, CCTV coverage and budget."
+  }
+]

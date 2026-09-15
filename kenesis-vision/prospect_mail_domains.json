@@ -1,0 +1,404 @@
+[
+    {
+        "domain":  "apapackage.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "alt3.aspmx.l.google.com",
+                           "alt1.aspmx.l.google.com",
+                           "aspmx.l.google.com",
+                           "alt2.aspmx.l.google.com",
+                           "alt4.aspmx.l.google.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "aristorubberproducts.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "mail.aristorubberproducts.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "bestcastgroup.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "ALT4.ASPMX.L.GOOGLE.com",
+                           "ALT1.ASPMX.L.GOOGLE.com",
+                           "ALT2.ASPMX.L.GOOGLE.com",
+                           "ALT3.ASPMX.L.GOOGLE.com",
+                           "ASPMX.L.GOOGLE.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "bestheattreatment.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "mail.bestheattreatment.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "centroidpolymer.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "alt2.aspmx.l.google.com",
+                           "alt3.aspmx.l.google.com",
+                           "aspmx.l.google.com",
+                           "alt4.aspmx.l.google.com",
+                           "alt1.aspmx.l.google.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "championplastics.in",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "championplastics-in.mail.protection.outlook.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "cpirubber.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "alt3.aspmx.l.google.com",
+                           "alt1.aspmx.l.google.com",
+                           "alt4.aspmx.l.google.com",
+                           "aspmx.l.google.com",
+                           "alt2.aspmx.l.google.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "deesawalarubber.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "mail.deesawalarubber.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "deluxrubber.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "mail.deluxrubber.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "elveerubber.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "elveerubber.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "gkpackaging.co.in",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "mail.gkpackaging.co.in"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "gmail.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "alt3.gmail-smtp-in.l.google.com",
+                           "gmail-smtp-in.l.google.com",
+                           "alt1.gmail-smtp-in.l.google.com",
+                           "alt2.gmail-smtp-in.l.google.com",
+                           "alt4.gmail-smtp-in.l.google.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "gmoulding.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "mailstore1.secureserver.net",
+                           "smtp.secureserver.net"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "hemagnibuildpro.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "alt3.aspmx.l.google.com",
+                           "aspmx.l.google.com",
+                           "alt2.aspmx.l.google.com",
+                           "alt1.aspmx.l.google.com",
+                           "alt4.aspmx.l.google.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "hotmail.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "hotmail-com.olc.protection.outlook.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "innoprime.in",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "mx2.zoho.com",
+                           "mx.zoho.com",
+                           "mx3.zoho.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "innovativemouldscraft.in",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "alt4.aspmx.l.google.com",
+                           "igw09.site4now.net",
+                           "alt2.aspmx.l.google.com",
+                           "aspmx.l.google.com",
+                           "alt3.aspmx.l.google.com",
+                           "alt1.aspmx.l.google.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "jrrubbermoulds.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "aspmx.l.google.com",
+                           "alt3.aspmx.l.google.com",
+                           "alt1.aspmx.l.google.com",
+                           "alt4.aspmx.l.google.com",
+                           "alt2.aspmx.l.google.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "jtexpolyproducts.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "mailwash62.pair.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "kantarubber.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "aspmx2.googlemail.com",
+                           "aspmx3.googlemail.com",
+                           "aspmx.l.google.com",
+                           "alt1.aspmx.l.google.com",
+                           "alt2.aspmx.l.google.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "ldsrubbertech.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "ldsrubbertech.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "magtorq.org",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "mx01.mailngx.com",
+                           "mx02.mailngx.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "manavpackaging.in",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "alt2.aspmx.l.google.com",
+                           "alt3.aspmx.l.google.com",
+                           "alt1.aspmx.l.google.com",
+                           "alt4.aspmx.l.google.com",
+                           "aspmx.l.google.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "mayurapackaging.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "mayurapackaging-com.mail.protection.outlook.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "mftl.in",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "aspmx.l.google.com",
+                           "alt3.aspmx.l.google.com",
+                           "alt1.aspmx.l.google.com",
+                           "alt4.aspmx.l.google.com",
+                           "alt2.aspmx.l.google.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "nandhinirubber.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "ALT3.ASPMX.L.GOOGLE.com",
+                           "ALT1.ASPMX.L.GOOGLE.com",
+                           "ALT4.ASPMX.L.GOOGLE.com",
+                           "ALT2.ASPMX.L.GOOGLE.com",
+                           "ASPMX.L.GOOGLE.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "plastronicsindia.in",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "alt1.aspmx.l.google.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "polycraft.co.in",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "alt2.aspmx.l.google.com",
+                           "alt4.aspmx.l.google.com",
+                           "aspmx.l.google.com",
+                           "alt3.aspmx.l.google.com",
+                           "alt1.aspmx.l.google.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "rediffmail.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "mx.rediffmail.rediff.akadns.net"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "rekharubber.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "alt2.aspmx.l.google.com",
+                           "alt3.aspmx.l.google.com",
+                           "aspmx.l.google.com",
+                           "alt4.aspmx.l.google.com",
+                           "alt1.aspmx.l.google.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "rikkiplastic.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "rikkiplastic-com.mail.protection.outlook.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "sakthiheattreatment.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "mx3.zoho.com",
+                           "mx.zoho.com",
+                           "mx2.zoho.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "simtechcnc.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "simtechcnc-com.mail.protection.outlook.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "smrubberproducts.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "aspmx.l.google.com",
+                           "alt3.aspmx.l.google.com",
+                           "alt4.aspmx.l.google.com",
+                           "alt1.aspmx.l.google.com",
+                           "alt2.aspmx.l.google.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "sunpressing.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "alt4.aspmx.l.google.com",
+                           "alt1.aspmx.l.google.com",
+                           "alt2.aspmx.l.google.com",
+                           "alt3.aspmx.l.google.com",
+                           "aspmx.l.google.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "toyorubbers.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "toyorubbers.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "vajrarubber.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "vajrarubber-com.mail.protection.outlook.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "vikahrubbers.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "mx2.hostinger.com",
+                           "mx1.hostinger.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "yahoo.co.in",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "mx-apac.mail.gm0.yahoodns.net"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "yahoo.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "mta6.am0.yahoodns.net",
+                           "mta5.am0.yahoodns.net",
+                           "mta7.am0.yahoodns.net"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "yahoo.in",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "mx-apac.mail.gm0.yahoodns.net"
+                       ],
+        "checked_date":  "2026-09-15"
+    }
+]

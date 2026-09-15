@@ -1,0 +1,382 @@
+[
+  {
+    "name": "Henry River Farms",
+    "county": "Burke",
+    "website": "https://www.henryriverfarms.com/",
+    "owner": "Tyler and Mandy Nix",
+    "owner_evidence": "Official About Us names both owners. Tyler's named email appears on that page.",
+    "email": "tyler@henryriverfarms.com",
+    "email_type": "direct owner",
+    "phone": "828-201-8649",
+    "offers": "Pumpkin patch, farm activities, farm shop, pork, eggs and events.",
+    "active_evidence": "Live farm shop lists pork for sale. County tourism lists the Nix family business. Pumpkin page publishes seasonal hours; year is not stated.",
+    "website_issue": "The main Events page still promotes a May 17, 2025 conference without marking it as past.",
+    "issue_url": "https://www.henryriverfarms.com/events-2",
+    "issue_evidence": "Page gives the 2025 date and invites attendance. It is still reached through the main Events navigation.",
+    "proposed_fix": "Separate upcoming events from an archive. Add year-specific season dates and a next-event enquiry route.",
+    "buyer_fit": "Owner directly reachable; admissions, retail and events make visit clarity relevant. Potential small content-and-booking project.",
+    "caveat": "Not evidence of lost sales or a full redesign need. Shop exists already. Current season and budget need confirmation.",
+    "selection_status": "priority",
+    "sources": [
+      {
+        "url": "https://www.henryriverfarms.com/about-us",
+        "claim": "Owners and direct named email."
+      },
+      {
+        "url": "https://www.henryriverfarms.com/events-2",
+        "claim": "2025 event remains promoted on main event page."
+      },
+      {
+        "url": "https://www.henryriverfarms.com/shop-products",
+        "claim": "Current reachable retail offer."
+      },
+      {
+        "url": "https://www.discoverburkecounty.com/all-attractions/henry-river-farms/",
+        "claim": "County tourism and family operation."
+      }
+    ],
+    "state": "North Carolina",
+    "review_method": "Text-only page review; no visual, mobile, speed or conversion testing.",
+    "accessed": "2026-09-15"
+  },
+  {
+    "name": "Bee Happy Farm",
+    "county": "Granville",
+    "website": "https://beehappyfarmcreedmoor.com/",
+    "owner": "Dean Richards",
+    "owner_evidence": "Official About page explicitly names owner/operator and says he personally handles the listed phone.",
+    "email": "beehappy3102@gmail.com",
+    "email_type": "general",
+    "phone": "919-452-8167",
+    "offers": "Honey, u-pick fruit, vegetables, seedlings, tours and children's events.",
+    "active_evidence": "Official site publishes 2026 honey prices. Farm products and visit information are live.",
+    "website_issue": "Visit page lists both 8am–6pm and 24/7 self-service without explaining which activities apply. Vermont location text repeats the Creedmoor description.",
+    "issue_url": "https://beehappyfarmcreedmoor.com/visit",
+    "issue_evidence": "NC hours contain both schedules. A Strafford, Vermont address is paired with text inviting a Creedmoor visit.",
+    "proposed_fix": "Separate staffed visits, picking and self-service hours. Give each location its own accurate visit instructions and seasonal status.",
+    "buyer_fit": "Hands-on owner and direct-to-public visits make a small visit-page improvement plausible.",
+    "caveat": "Website credits an existing designer. Needs may be handled by that provider. Email is business-wide, not a verified personal inbox.",
+    "selection_status": "priority",
+    "sources": [
+      {
+        "url": "https://beehappyfarmcreedmoor.com/about",
+        "claim": "Owner, phone association, public business email and 2026 pricing."
+      },
+      {
+        "url": "https://beehappyfarmcreedmoor.com/visit",
+        "claim": "Location and hours ambiguity."
+      },
+      {
+        "url": "https://www.thegranvillegardeners.org/wp-content/uploads/2024/08/GGG_8_2024_Final.pdf",
+        "claim": "Local organization identifies Dean and Creedmoor farm location."
+      }
+    ],
+    "state": "North Carolina",
+    "review_method": "Text-only page review; no visual, mobile, speed or conversion testing.",
+    "accessed": "2026-09-15"
+  },
+  {
+    "name": "Odom Farming Company",
+    "county": "Wayne",
+    "website": "https://www.odomfarmingcompany.com/",
+    "owner": "Odom family; Emily Odom is a named operator",
+    "owner_evidence": "Official page says third-generation Odom family operation. Our State names JR, Emily, James and Reese as the generation taking over in 2010.",
+    "email": "odomfarmingcoinc@gmail.com",
+    "email_type": "general",
+    "phone": "919-738-2905",
+    "offers": "U-pick strawberries, seasonal mazes, pumpkin patch, field trips, parties and farm rentals.",
+    "active_evidence": "Homepage actively promotes 2026 Harvest Market, fall group bookings and 2026 Trunk or Treat.",
+    "website_issue": "Homepage pairs the 2026 Trunk or Treat heading with Sunday October 26. October 26, 2026 is Monday. Group bookings separately require calls or free-form messages.",
+    "issue_url": "https://www.odomfarmingcompany.com/",
+    "issue_evidence": "Current event block contains the year/day mismatch. Field Trip page asks visitors to email, text, message or call after choosing a package.",
+    "proposed_fix": "Confirm the intended event date. Offer a structured group enquiry with package, group size and preferred dates.",
+    "buyer_fit": "Multiple paid visitor offers and group bookings create a plausible small booking-enquiry project.",
+    "caveat": "Calendar correction alone does not justify full redesign. Tickets already available. A manual booking process may be deliberate.",
+    "selection_status": "conditional",
+    "sources": [
+      {
+        "url": "https://www.odomfarmingcompany.com/",
+        "claim": "Current 2026 offers, public email and date mismatch."
+      },
+      {
+        "url": "https://www.odomfarmingcompany.com/field-trips",
+        "claim": "Package prices and manual booking instructions."
+      },
+      {
+        "url": "https://www.odomfarmingcompany.com/who-we-are",
+        "claim": "Family operation."
+      },
+      {
+        "url": "https://www.ourstate.com/take-a-bite-out-of-wayne-county/",
+        "claim": "Wayne County and named Odom operators."
+      }
+    ],
+    "state": "North Carolina",
+    "review_method": "Text-only page review; no visual, mobile, speed or conversion testing.",
+    "accessed": "2026-09-15"
+  },
+  {
+    "name": "Brock's Farm / The Cotton Barn",
+    "county": "Pitt",
+    "website": "https://brocksfarm.com/",
+    "owner": "Brock family; Sue Brock is published farm contact",
+    "owner_evidence": "Farm-authored LocalHarvest listing describes third-generation family ownership and names Sue Brock. Official wedding page references Sue Ellen as the customer-facing contact.",
+    "email": "thecottonbarnnc@gmail.com",
+    "email_type": "general",
+    "phone": "252-531-3329",
+    "offers": "Farm stand, berries, field trips, weddings and company events.",
+    "active_evidence": "Official site advertises venue enquiries and farm offers. LocalHarvest listing refreshed in 2025. Current operation and field-trip availability need confirmation.",
+    "website_issue": "Field-trip page says closed for 2022 and returning in 2023 while still displaying packages and a booking form.",
+    "issue_url": "https://brocksfarm.com/farm/field-trips/",
+    "issue_evidence": "The old closure notice, per-student packages and Book Now form coexist on the same live service page.",
+    "proposed_fix": "Confirm whether trips operate. Replace stale notice with current status and expose only available packages.",
+    "buyer_fit": "Paid events and school bookings offer a clear revenue-linked content problem to discuss.",
+    "caveat": "Hold until current field-trip activity is confirmed. Existing website vendors are credited. Published email is primarily the venue inbox.",
+    "selection_status": "conditional",
+    "sources": [
+      {
+        "url": "https://brocksfarm.com/farm/field-trips/",
+        "claim": "Old closure notice conflicts with active-looking booking section."
+      },
+      {
+        "url": "https://brocksfarm.com/contact/",
+        "claim": "Official business email, phone and locations."
+      },
+      {
+        "url": "https://www.localharvest.org/brocks-berries-produce-farm-M33403",
+        "claim": "Family ownership and Sue contact; refreshed 2025."
+      },
+      {
+        "url": "https://brocksfarm.com/weddings/",
+        "claim": "Venue service and Sue Ellen reference."
+      }
+    ],
+    "state": "North Carolina",
+    "review_method": "Text-only page review; no visual, mobile, speed or conversion testing.",
+    "accessed": "2026-09-15"
+  },
+  {
+    "name": "Bunn Family Farms",
+    "county": "Nash",
+    "website": "https://bunnfamilyfarms.com/",
+    "owner": "Derrick Bunn",
+    "owner_evidence": "Official contact page search index explicitly lists Owner Derrick Bunn.",
+    "email": "sales.bunnfamilyfarms@gmail.com",
+    "email_type": "general",
+    "phone": "252-205-6477",
+    "offers": "Pumpkins, wheat straw, seasonal gifts and group visits.",
+    "active_evidence": "Live homepage gives current visit hours and sales route. No dated 2026 event was found.",
+    "website_issue": "Homepage directs visitors to event calendar but indexed event page lists only TBD. Main visit hours also lack a season qualifier while contact page says mainly fall and appointments.",
+    "issue_url": "https://bunnfamilyfarms.com/event-calendar/",
+    "issue_evidence": "Indexed official calendar has Upcoming Events followed by TBD. Contact text asks visitors to confirm seasonal availability.",
+    "proposed_fix": "Publish dated current-season status. Use an enquiry/waitlist when no public events are scheduled.",
+    "buyer_fit": "Owner-run retail with seasonal visits; could suit modest content maintenance.",
+    "caveat": "Calendar/contact live fetch returned 406; findings partly from indexed official text. No proof of operation beyond current website. General inbox.",
+    "selection_status": "conditional",
+    "sources": [
+      {
+        "url": "https://bunnfamilyfarms.com/",
+        "claim": "Exact email, hours and Nash County service area."
+      },
+      {
+        "url": "https://bunnfamilyfarms.com/contact-us/",
+        "claim": "Indexed official owner and seasonal visit qualification."
+      },
+      {
+        "url": "https://bunnfamilyfarms.com/event-calendar/",
+        "claim": "Indexed calendar placeholder and group offer."
+      }
+    ],
+    "state": "North Carolina",
+    "review_method": "Text-only page review; no visual, mobile, speed or conversion testing.",
+    "accessed": "2026-09-15"
+  },
+  {
+    "name": "Buttermilk Creek Farm",
+    "county": "Alamance",
+    "website": "https://www.buttermilkcreek.net/",
+    "owner": "Steve Smith (local nursery referral; confirm)",
+    "owner_evidence": "Official site confirms family ownership. Pritchett Farms Nurseries names Steve Smith as owner with matching website and phone.",
+    "email": "buttermilkcreek@gmail.com",
+    "email_type": "general",
+    "phone": "336-212-1997",
+    "offers": "Pick-your-own berries, peaches, apples, flowers and vegetables.",
+    "active_evidence": "Latest official notice is dated July 27, 2025 and anticipates July 2026. Current 2026 trading was not confirmed.",
+    "website_issue": "Latest-news block still says 2025 season has ended and visitors will be seen in July 2026.",
+    "issue_url": "https://www.buttermilkcreek.net/",
+    "issue_evidence": "As accessed in September 2026, the only latest-news notice refers to a now-past anticipated reopening.",
+    "proposed_fix": "Replace with confirmed current status and a dated crop/hours update that owner can maintain.",
+    "buyer_fit": "Direct farm visits depend on current crop and opening information; small seasonal update service may fit.",
+    "caveat": "Reserve until trading and owner role reconfirmed. Potentially very small budget. Official general email preferred over old directory addresses.",
+    "selection_status": "reserve",
+    "sources": [
+      {
+        "url": "https://www.buttermilkcreek.net/",
+        "claim": "Family ownership, email and stale season notice."
+      },
+      {
+        "url": "https://pritchettfarmsnurseries.com/links/",
+        "claim": "Local business identifies Steve Smith as owner."
+      },
+      {
+        "url": "https://www.farmerspal.com/organic-farms/region/alamance-county-north-carolina/page/1/",
+        "claim": "Alamance County location; old email not used."
+      }
+    ],
+    "state": "North Carolina",
+    "review_method": "Text-only page review; no visual, mobile, speed or conversion testing.",
+    "accessed": "2026-09-15"
+  },
+  {
+    "name": "Zephyr Family Farm",
+    "county": "Person",
+    "website": "https://www.zf.farm/",
+    "owner": "Amanda Harrell and Steven (family operators)",
+    "owner_evidence": "Western Wake Farmers Market carries their first-person founding story. Farm listing names Amanda Harrell as contact.",
+    "email": "zephyrfamilyfarm@gmail.com",
+    "email_type": "general",
+    "phone": "919-717-6064",
+    "offers": "Year-round vegetables, CSA subscriptions, market sales and online pickup.",
+    "active_evidence": "Farm listing updated February 20, 2026 with spring CSA; official homepage links live shop and current schedules.",
+    "website_issue": "Homepage pickup section specifies Tuesday and Saturday but Say Hello invites a Friday pickup.",
+    "issue_url": "https://www.zf.farm/",
+    "issue_evidence": "Both pickup instructions occur on the same homepage; Friday could mean a market pickup but is not explained there.",
+    "proposed_fix": "Distinguish on-farm pickup from market pickup with consistent day/location labels.",
+    "buyer_fit": "Recurring orders and subscriptions make accurate fulfilment instructions relevant.",
+    "caveat": "Reserve: existing online shop and CSA paths are already clear. This is a small copy clarification, not evidence of redesign need.",
+    "selection_status": "reserve",
+    "sources": [
+      {
+        "url": "https://www.zf.farm/",
+        "claim": "Email, conflicting pickup language and existing commerce links."
+      },
+      {
+        "url": "https://www.localharvest.org/zephyr-family-farm-M81972",
+        "claim": "Person County, Amanda contact and dated 2026 activity."
+      },
+      {
+        "url": "https://beige-swordfish-p479.squarespace.com/vendors/zephyr",
+        "claim": "Farmers market carries Amanda and Steven founding story."
+      }
+    ],
+    "state": "North Carolina",
+    "review_method": "Text-only page review; no visual, mobile, speed or conversion testing.",
+    "accessed": "2026-09-15"
+  },
+  {
+    "name": "Perry Lowe Orchards",
+    "county": "Wilkes / Alexander county line",
+    "website": "https://www.perryloweorchards.com/",
+    "owner": "Perry (Ty) Lowe III and Lowe family",
+    "owner_evidence": "Official About page describes family ownership and Ty taking over; subsequent generation members work in the business.",
+    "email": "perryloweorchards@gmail.com",
+    "email_type": "general",
+    "phone": "336-921-3123",
+    "offers": "U-pick apples, farm shop, cider, dried apples and school trips.",
+    "active_evidence": "Official Tours page expressly advertises 2026 field trips with prices and weekday timing.",
+    "website_issue": "No strong redesign problem found. School-trip scheduling is by email while public u-pick already has online tickets.",
+    "issue_url": "https://www.perryloweorchards.com/tours/",
+    "issue_evidence": "Tours has useful pricing and itinerary, followed by email scheduling. Homepage has opening hours, season information and ticket links.",
+    "proposed_fix": "Only offer a group-enquiry form if the owner reports repetitive scheduling work.",
+    "buyer_fit": "100-acre orchard with multiple paid offers suggests a commercial operation; spending and website needs unknown.",
+    "caveat": "Reserve: site already covers key visit tasks and credits an agency. Do not pitch an unnecessary rebuild.",
+    "selection_status": "reserve",
+    "sources": [
+      {
+        "url": "https://www.perryloweorchards.com/about-us/",
+        "claim": "Family ownership and named generations."
+      },
+      {
+        "url": "https://www.perryloweorchards.com/tours/",
+        "claim": "2026 paid tours and public email."
+      },
+      {
+        "url": "https://www.perryloweorchards.com/",
+        "claim": "County-line location, current visit details and existing ticket route."
+      }
+    ],
+    "state": "North Carolina",
+    "review_method": "Text-only page review; no visual, mobile, speed or conversion testing.",
+    "accessed": "2026-09-15"
+  },
+  {
+    "name": "Naylor Family Farm",
+    "county": "Harnett",
+    "website": "https://www.naylorfamilyfarm.com/",
+    "owner": "Naylor family (individual controlling owner not confirmed)",
+    "owner_evidence": "Official About page describes the family's vegetable and agritourism operation. No individual owner was established.",
+    "email": "naylorfamilyfarm@gmail.com",
+    "email_type": "general",
+    "phone": "910-591-1965",
+    "offers": "Seasonal farm admission, school trips, parties, pumpkins and produce.",
+    "active_evidence": "Hours page publishes September 19–November 1, 2026 dates and live fall-ticket link.",
+    "website_issue": "No strong redesign issue found. Homepage's two Explore links lead to different farm/market destinations without distinct text labels in extracted content.",
+    "issue_url": "https://www.naylorfamilyfarm.com/",
+    "issue_evidence": "One Explore link goes to a separate roadside market site; the other to the farm page. Hours and tickets are already available through navigation.",
+    "proposed_fix": "If visual review confirms ambiguity, label the choices Farm Visits and Roadside Market.",
+    "buyer_fit": "Established paid attractions and retail. A focused navigation improvement may be relevant.",
+    "caveat": "Reserve: text-only finding may be resolved by adjacent images. Existing ticketing is present. Official site explicitly prefers a phone call over email.",
+    "selection_status": "reserve",
+    "sources": [
+      {
+        "url": "https://www.naylorfamilyfarm.com/",
+        "claim": "Two generic destination labels and official email."
+      },
+      {
+        "url": "https://www.naylorfamilyfarm.com/aboutus",
+        "claim": "Family operation and phone preference."
+      },
+      {
+        "url": "https://www.naylorfamilyfarm.com/general-6",
+        "claim": "2026 active season and ticket route."
+      },
+      {
+        "url": "https://maps.apple.com/place?place-id=IE64ACD9F0B4A239B",
+        "claim": "Harnett County location."
+      }
+    ],
+    "state": "North Carolina",
+    "review_method": "Text-only page review; no visual, mobile, speed or conversion testing.",
+    "accessed": "2026-09-15"
+  },
+  {
+    "name": "Plant Lane Farm",
+    "county": "Wake service area; exact operating county not confirmed",
+    "website": "https://www.plantlanefarm.com/",
+    "owner": "Maureen Hammond",
+    "owner_evidence": "Official resume explicitly names owner and pairs her with sales@plantlanefarm.com. About page confirms founder/CEO.",
+    "email": "sales@plantlanefarm.com",
+    "email_type": "direct owner",
+    "phone": "919-900-0645",
+    "offers": "Garden design, installation, maintenance, plant procurement and direct plant sales; adjacent non-tech business.",
+    "active_evidence": "Official pages updated 2026, named operating team, certifications and live project-enquiry form.",
+    "website_issue": "FAQ says public plant sales are available but gives only Yes, without explaining where/how to buy plants. Main enquiry focuses on garden projects.",
+    "issue_url": "https://www.plantlanefarm.com/faq",
+    "issue_evidence": "Direct-public-plant-sales question has one-word answer. Contact form requests project details; no plant-buying instructions found on reviewed pages.",
+    "proposed_fix": "Add clear plant-sales availability and collection/enquiry instructions if retail remains an active offer.",
+    "buyer_fit": "Owner-led team and recurring garden services are commercially relevant; specific retail clarity opportunity only.",
+    "caveat": "Reserve: site has marketing staff and an assistant handling website updates. Strong existing project funnel. Role inbox is paired to owner but may be shared. Nursery has evolved mainly into a garden-design business.",
+    "selection_status": "reserve",
+    "sources": [
+      {
+        "url": "https://www.plantlanefarm.com/resume",
+        "claim": "Explicit owner and email association."
+      },
+      {
+        "url": "https://www.plantlanefarm.com/about",
+        "claim": "Current business direction and in-house marketing/web staff."
+      },
+      {
+        "url": "https://www.plantlanefarm.com/faq",
+        "claim": "Public plant-sales answer and Raleigh service area."
+      },
+      {
+        "url": "https://www.plantlanefarm.com/contact-us",
+        "claim": "Current project-oriented enquiry and phone/email."
+      }
+    ],
+    "state": "North Carolina",
+    "review_method": "Text-only page review; no visual, mobile, speed or conversion testing.",
+    "accessed": "2026-09-15"
+  }
+]

@@ -1,0 +1,388 @@
+[
+  {
+    "name": "Lawrence Orchards",
+    "county": "Marion",
+    "website": "https://www.lawrenceorchards.com/",
+    "owner": "George and Vickie Lawrence",
+    "owner_evidence": "Official history identifies George as present owner with wife Vickie.",
+    "email": "lawrence@lawrenceorchards.com",
+    "email_type": "uncertain",
+    "phone": "740-389-3019",
+    "offers": "U-pick apples, farm market, cider, school tours and pavilion rental.",
+    "active_evidence": "Marion tourism lists Applefest on September 26, 2026.",
+    "website_issue": "Homepage includes unrelated gambling promotions and external casino links.",
+    "issue_url": "https://www.lawrenceorchards.com/",
+    "issue_evidence": "Farm information is followed by multiple casino and betting paragraphs unrelated to the orchard.",
+    "proposed_fix": "Confirm the content with the owner; investigate and remove unwanted content before discussing a refreshed visitor site.",
+    "buyer_fit": "Established public-facing orchard with events and rentals; a concrete website trust issue merits a conversation.",
+    "caveat": "Cause is unconfirmed. Do not assert hacking or sell cosmetic redesign as a security remedy. Email is associated with George only by AllBiz; verify by published phone first.",
+    "selection_status": "reserve",
+    "sources": [
+      {
+        "url": "https://www.lawrenceorchards.com/",
+        "claim": "Farm offers and unrelated gambling content."
+      },
+      {
+        "url": "https://www.lawrenceorchards.com/historyoftheorchard.html",
+        "claim": "Owner names."
+      },
+      {
+        "url": "https://www.lawrenceorchards.com/findandcontactus.html",
+        "claim": "Business phone and address."
+      },
+      {
+        "url": "https://www.visitmarionohio.com/attractions/lawrence-orchards-2/",
+        "claim": "2026 event and Marion location."
+      },
+      {
+        "url": "https://www.allbiz.com/business/lawrence-orchards-740-389-3019",
+        "claim": "Secondary publication of owner-associated email; unconfirmed."
+      }
+    ],
+    "state": "Ohio",
+    "review_method": "Text-only review of published pages; no visual, mobile, speed or transaction testing.",
+    "accessed": "2026-09-15"
+  },
+  {
+    "name": "Anywhere With You Acres",
+    "county": "Union",
+    "website": "https://anywherewithyouacres.com/",
+    "owner": "Cody and Alexis Johnston",
+    "owner_evidence": "Official About page explicitly identifies the couple as family owners and operators.",
+    "email": "info@anywherewithyouacres.com",
+    "email_type": "general",
+    "phone": "740-816-0694",
+    "offers": "Pumpkins, mums, seasonal activities and a linked wedding venue.",
+    "active_evidence": "Live farm site promotes a November 2025 craft show; chamber lists The Grange Hall at the same address. Current 2026 farm season not verified.",
+    "website_issue": "Homepage foregrounds a 2025 event while its operating-season footer still states 2022.",
+    "issue_url": "https://anywherewithyouacres.com/",
+    "issue_evidence": "Top event is November 30, 2025; repeated Open Daily footer specifies September 10–October 16, 2022.",
+    "proposed_fix": "One current-season visit page with maintained dates, current activity availability and a clear path to the separate wedding venue.",
+    "buyer_fit": "Explicit local owners and multiple visitor offers; possible seasonal maintenance project.",
+    "caveat": "Confirm that farm visits continue in 2026 and whether the newer venue site is their main focus. Stale dates alone do not justify a complete redesign.",
+    "selection_status": "conditional",
+    "sources": [
+      {
+        "url": "https://anywherewithyouacres.com/",
+        "claim": "Email, phone and promoted historical dates."
+      },
+      {
+        "url": "https://anywherewithyouacres.com/about-us/",
+        "claim": "Named owners and farm activities."
+      },
+      {
+        "url": "https://thegrangehallohio.com/wedding/",
+        "claim": "Same farm in northern Union County; wedding offer."
+      },
+      {
+        "url": "https://chambermaster.unioncounty.org/list/category/agribusiness-1006",
+        "claim": "Current chamber listing at matching address."
+      }
+    ],
+    "state": "Ohio",
+    "review_method": "Text-only review of published pages; no visual, mobile, speed or transaction testing.",
+    "accessed": "2026-09-15"
+  },
+  {
+    "name": "Kaleidoscope Farms",
+    "county": "Hancock",
+    "website": "https://kaleidoscopefarms.wordpress.com/",
+    "owner": "Dave and Jan Reese and family",
+    "owner_evidence": "Official contact page identifies Dave Reese and family as owner; Ohio Christmas Tree Association names Dave and Jan.",
+    "email": "reesefam@bright.net",
+    "email_type": "direct owner",
+    "phone": "419-792-0769",
+    "offers": "Choose-and-cut trees, gift shop, flowers, classes and ticketed early tree tagging.",
+    "active_evidence": "Homepage publishes 2026 garden classes and October/November 2026 tree-tagging ticket links.",
+    "website_issue": "The tree-pricing page gives two differently scoped ranges without clearly separating them.",
+    "issue_url": "https://kaleidoscopefarms.wordpress.com/trees-and-prices/",
+    "issue_evidence": "Opening paragraph says trees range $35–$125; later cut-tree paragraph says $25–$180 and an average around $70.",
+    "proposed_fix": "Ask which prices apply; publish a dated comparison for field trees, precut trees and dug trees beside booking options.",
+    "buyer_fit": "Direct family-owner inbox plus several paid experiences; suitable small content and season-planning offer.",
+    "caveat": "Different products may explain the ranges. Existing ticketing works as a published route; no booking transaction tested and no evidence they need a full redesign.",
+    "selection_status": "conditional",
+    "sources": [
+      {
+        "url": "https://kaleidoscopefarms.wordpress.com/",
+        "claim": "2026 activity and ticket links."
+      },
+      {
+        "url": "https://kaleidoscopefarms.wordpress.com/contact/",
+        "claim": "Owner-associated email and business phone."
+      },
+      {
+        "url": "https://kaleidoscopefarms.wordpress.com/trees-and-prices/",
+        "claim": "Two price ranges requiring clarification."
+      },
+      {
+        "url": "https://ohiochristmastree.org/kaleidoscope-farms",
+        "claim": "Dave and Jan ownership, same email and Hancock County."
+      }
+    ],
+    "state": "Ohio",
+    "review_method": "Text-only review of published pages; no visual, mobile, speed or transaction testing.",
+    "accessed": "2026-09-15"
+  },
+  {
+    "name": "Libby's Pumpkin Patch & Venue",
+    "county": "Meigs",
+    "website": "https://www.libbyspumpkinpatch.com/",
+    "owner": "Kevin Lewis (co-owner)",
+    "owner_evidence": "Official About page labels Kevin Lewis co-owner.",
+    "email": "libbyspumpkinsandsunflowers@gmail.com",
+    "email_type": "general",
+    "phone": "Not found on reviewed official pages",
+    "offers": "Pumpkin patch, flower activities and a wedding/event barn.",
+    "active_evidence": "Homepage explicitly announces the approaching 2026 pumpkin season.",
+    "website_issue": "Venue inquiry asks event type but does not separately request preferred date or guest count; an unedited Heading 2 also appears in page text.",
+    "issue_url": "https://www.libbyspumpkinpatch.com/the-venue",
+    "issue_evidence": "Published form fields are first name, last name, email, phone and event type. The gallery is followed by Heading 2.",
+    "proposed_fix": "Add optional date and guest-count fields to help the owner qualify venue inquiries; remove template residue.",
+    "buyer_fit": "Venue bookings offer a clearer commercial reason for inquiry improvements than pumpkin sales alone.",
+    "caveat": "Form was not submitted. Owners may prefer to collect details later. FAQ answers may be in interactive controls, so their absence from extraction is not a defect. Small lead-form improvement, not proven full redesign.",
+    "selection_status": "conditional",
+    "sources": [
+      {
+        "url": "https://www.libbyspumpkinpatch.com/",
+        "claim": "2026 season and Meigs County location."
+      },
+      {
+        "url": "https://www.libbyspumpkinpatch.com/about-1",
+        "claim": "Kevin Lewis co-owner."
+      },
+      {
+        "url": "https://www.libbyspumpkinpatch.com/the-venue",
+        "claim": "Email, inquiry fields and placeholder heading; Facebook preferred for fast responses."
+      }
+    ],
+    "state": "Ohio",
+    "review_method": "Text-only review of published pages; no visual, mobile, speed or transaction testing.",
+    "accessed": "2026-09-15"
+  },
+  {
+    "name": "Arrowhead Orchard",
+    "county": "Stark",
+    "website": "https://www.arrowheadorchard.com/",
+    "owner": "Kevin Miller",
+    "owner_evidence": "Official team page identifies Kevin Miller as Owner Operator.",
+    "email": "info@arrowheadorchard.com",
+    "email_type": "general",
+    "phone": "330-862-2733",
+    "offers": "Farm market, fall festival, u-pick, private rentals and school visits.",
+    "active_evidence": "School-trip page lists September 7–October 30, 2026.",
+    "website_issue": "School-trip page has inconsistent visit hours.",
+    "issue_url": "https://www.arrowheadorchard.com/school-tours",
+    "issue_evidence": "Opening timetable gives Mondays and Fridays 9am–5pm; Rules and Notes later permits stays 9am–6pm.",
+    "proposed_fix": "Confirm correct hours and maintain one shared school-trip schedule with clear Monday/Friday choices.",
+    "buyer_fit": "Public pricing and several paid visitor products make operational content useful.",
+    "caveat": "A one-hour text discrepancy supports a small correction. Booking links and detailed pricing already exist; not evidence a full redesign is needed.",
+    "selection_status": "conditional",
+    "sources": [
+      {
+        "url": "https://www.arrowheadorchard.com/",
+        "claim": "Stark County, offers, phone and general email."
+      },
+      {
+        "url": "https://www.arrowheadorchard.com/visitus",
+        "claim": "Kevin Miller owner-operator."
+      },
+      {
+        "url": "https://www.arrowheadorchard.com/school-tours",
+        "claim": "2026 dates and inconsistent hours."
+      }
+    ],
+    "state": "Ohio",
+    "review_method": "Text-only review of published pages; no visual, mobile, speed or transaction testing.",
+    "accessed": "2026-09-15"
+  },
+  {
+    "name": "Monroe's Orchard & Farm Market",
+    "county": "Portage",
+    "website": "https://monroesorchard.com/",
+    "owner": "Roger and Susan Monroe and family",
+    "owner_evidence": "Official About page names Roger, Sue and children as the family operating the orchard; legal ownership shares not published.",
+    "email": "info@monroesorchard.com",
+    "email_type": "uncertain",
+    "phone": "330-569-7464",
+    "offers": "U-pick fruit, market, syrup and harvest festivals.",
+    "active_evidence": "Homepage lists current apple availability and festival dates September 26, October 3 and October 10, matching 2026 Saturdays; year omitted.",
+    "website_issue": "Homepage market hours conflict with the contact page for Monday–Wednesday in peach-to-October season.",
+    "issue_url": "https://monroesorchard.com/contact/",
+    "issue_evidence": "Homepage says Monday–Saturday 9–5. Contact page says Monday–Wednesday 9–6 for the current seasonal band.",
+    "proposed_fix": "Maintain one dated market-hours block reused across both pages; distinguish u-pick hours from market hours.",
+    "buyer_fit": "Family-run seasonal visitor business with a concrete planning inconsistency.",
+    "caveat": "Email appears in a September 2026 syndicated local article, not the reviewed official contact page. Verify by phone. Current hours may be maintained elsewhere; correction alone does not establish redesign demand.",
+    "selection_status": "conditional",
+    "sources": [
+      {
+        "url": "https://monroesorchard.com/",
+        "claim": "Homepage hours and seasonal activity."
+      },
+      {
+        "url": "https://monroesorchard.com/about/",
+        "claim": "Family operators and Portage County."
+      },
+      {
+        "url": "https://monroesorchard.com/contact/",
+        "claim": "Different seasonal hours and official phone."
+      },
+      {
+        "url": "https://bluewaterhealthyliving.com/news/national-news/ohio/great-places-to-go-apple-picking-in-akron-canton-region/",
+        "claim": "Secondary publication of general email in current article; association unconfirmed by official page."
+      }
+    ],
+    "state": "Ohio",
+    "review_method": "Text-only review of published pages; no visual, mobile, speed or transaction testing.",
+    "accessed": "2026-09-15"
+  },
+  {
+    "name": "Innocenzi's Pumpkin Farm",
+    "county": "Trumbull",
+    "website": "https://www.innocenzipumpkins.com/about-us",
+    "owner": "Anthony Innocenzi",
+    "owner_evidence": "Official history states Anthony assumed ownership in 2021; the same page publishes his name-matching email.",
+    "email": "innocenzi.anthony@gmail.com",
+    "email_type": "direct owner",
+    "phone": "330-553-9704",
+    "offers": "Retail and wholesale pumpkins, gourds and corn stalks.",
+    "active_evidence": "Official site describes August–October daily opening; Ohio Farm Bureau lists the farm in October 2025. No year-specific 2026 announcement found.",
+    "website_issue": "Only a minor address typo was established.",
+    "issue_url": "https://www.innocenzipumpkins.com/about-us",
+    "issue_evidence": "Main address block truncates ZIP to 4442; footer supplies full 44428.",
+    "proposed_fix": "Correct address consistency. Ask about retail versus wholesale inquiry needs before proposing more work.",
+    "buyer_fit": "Direct owner contact and public-facing product sales, but weak evidence of paid redesign value.",
+    "caveat": "Reserve: minor typo is not a commercial redesign case. Homepage fetch failed in the research tool; do not call the site broken. Full visual review pending.",
+    "selection_status": "reserve",
+    "sources": [
+      {
+        "url": "https://www.innocenzipumpkins.com/about-us",
+        "claim": "Owner, email, offers, seasonal hours and address inconsistency."
+      },
+      {
+        "url": "https://ofbf.org/2025/10/01/pumpkins-in-trumbull-county-from-porch-to-pie/",
+        "claim": "Trumbull County and 2025 operation mention."
+      }
+    ],
+    "state": "Ohio",
+    "review_method": "Text-only review of published pages; no visual, mobile, speed or transaction testing.",
+    "accessed": "2026-09-15"
+  },
+  {
+    "name": "Dupler's Pumpkin Land",
+    "county": "Licking",
+    "website": "https://www.duplerspumpkinland.com/",
+    "owner": "Roger and Traci Dupler and family",
+    "owner_evidence": "Official story describes their purchase and establishment; farm remains family operated with children.",
+    "email": "duplerspumpkinland@gmail.com",
+    "email_type": "general",
+    "phone": "740-641-3127",
+    "offers": "Pumpkins, decorations, admission-based fall activities and wagon rides.",
+    "active_evidence": "Official homepage and freshly opened Story page show September 11–October 31, 2026.",
+    "website_issue": "No material content friction established in reviewed pages.",
+    "issue_url": "https://www.duplerspumpkinland.com/",
+    "issue_evidence": "Current hours, admission prices, extra-cost activities and contact details are published. Old search snippets showed 2025, but live opened page correctly shows 2026.",
+    "proposed_fix": "No redesign pitch yet; only discuss a new need if owner identifies one.",
+    "buyer_fit": "Accessible family business but clear existing visit information lowers research priority.",
+    "caveat": "Reserve. Do not treat stale search snippets as a live-site problem. Visual/mobile review not performed.",
+    "selection_status": "reserve",
+    "sources": [
+      {
+        "url": "https://www.duplerspumpkinland.com/",
+        "claim": "Current season, pricing and contacts."
+      },
+      {
+        "url": "https://www.duplerspumpkinland.com/our-story",
+        "claim": "Family ownership and current live hours."
+      },
+      {
+        "url": "https://explorelc.squarespace.com/directory/duplers-pumpkin-land",
+        "claim": "Licking County tourism listing at matching address."
+      }
+    ],
+    "state": "Ohio",
+    "review_method": "Text-only review of published pages; no visual, mobile, speed or transaction testing.",
+    "accessed": "2026-09-15"
+  },
+  {
+    "name": "Rittman Orchards",
+    "county": "Wayne",
+    "website": "https://rittmanorchards.com/",
+    "owner": "Vodraska family; Chris and Matt run the business; Amanda manages market",
+    "owner_evidence": "Official story records family purchase and current roles after Dale's death in 2023.",
+    "email": "info@rittmanorchards.com",
+    "email_type": "general",
+    "phone": "330-925-4152",
+    "offers": "U-pick fruit, farm market, online bakery orders, school trips and associated cidery.",
+    "active_evidence": "What's Ripe page explicitly updated September 15, 2026 at 9:42am.",
+    "website_issue": "No strong redesign need established; apple u-pick schedule currently says TBD.",
+    "issue_url": "https://rittmanorchards.com/whats-ripe/",
+    "issue_evidence": "Freshly updated page provides prices and a ripening calendar but has TBD for next apple-picking dates and varieties.",
+    "proposed_fix": "If helpful, offer an opt-in alert for the next picking announcement; preserve existing shopping and trip tools.",
+    "buyer_fit": "Multiple sales channels and clear current family operations, but existing site already supports commerce and inquiry.",
+    "caveat": "Reserve. Crop uncertainty is normal and is not a website defect. Amanda's published employment email is a named manager route, not verified owner email; retained separately.",
+    "selection_status": "reserve",
+    "alternate_email": "amanda@rittmanorchards.com",
+    "alternate_email_note": "Official employment page; named family market manager, ownership not established.",
+    "sources": [
+      {
+        "url": "https://rittmanorchards.com/our-story/",
+        "claim": "Family ownership and current roles."
+      },
+      {
+        "url": "https://rittmanorchards.com/contact-us/",
+        "claim": "Wayne County, phone and contact form."
+      },
+      {
+        "url": "https://rittmanorchards.com/terms-and-conditions/",
+        "claim": "Published general email."
+      },
+      {
+        "url": "https://rittmanorchards.com/whats-ripe/",
+        "claim": "Dated update and current u-pick status."
+      },
+      {
+        "url": "https://rittmanorchards.com/employment/",
+        "claim": "Amanda's published work email."
+      }
+    ],
+    "state": "Ohio",
+    "review_method": "Text-only review of published pages; no visual, mobile, speed or transaction testing.",
+    "accessed": "2026-09-15"
+  },
+  {
+    "name": "Kingsway Pumpkin Farm",
+    "county": "Stark",
+    "website": "https://kingswaypumpkinfarm.com/",
+    "owner": "King family; Mary King founder (historical source)",
+    "owner_evidence": "2018 Compass Ohio feature says Mary King opened the family-run farm. Current named legal owner not verified.",
+    "email": "kingswaypumpkin@gmail.com",
+    "email_type": "general",
+    "phone": "330-877-6241",
+    "offers": "Pumpkins, corn maze, wagon rides, animals and admission-based family activities.",
+    "active_evidence": "Homepage lists September 12, 2026 opening and a 2026 corn-maze theme.",
+    "website_issue": "No material content friction established.",
+    "issue_url": "https://kingswaypumpkinfarm.com/",
+    "issue_evidence": "Homepage supplies current dates, hours, admission prices, inclusions, extra costs and contact information; weather updates intentionally go to Facebook.",
+    "proposed_fix": "No speculative redesign. A shared weather-status block is optional only if owner reports repeat questions.",
+    "buyer_fit": "Established visitor business; site already communicates the main purchase information clearly.",
+    "caveat": "Reserve. General inbox, historical named-owner evidence and no confirmed redesign need.",
+    "selection_status": "reserve",
+    "sources": [
+      {
+        "url": "https://kingswaypumpkinfarm.com/",
+        "claim": "2026 offers, prices, hours and contact email."
+      },
+      {
+        "url": "https://compassohio.com/wp-content/uploads/2018/08/magazine_final_web-3.pdf",
+        "claim": "Historical Mary King founder and family operation."
+      },
+      {
+        "url": "https://www.visitcanton.com/blog/fall-fun-and-festival-round-up/",
+        "claim": "2026 season and Stark County visitor context."
+      }
+    ],
+    "state": "Ohio",
+    "review_method": "Text-only review of published pages; no visual, mobile, speed or transaction testing.",
+    "accessed": "2026-09-15"
+  }
+]

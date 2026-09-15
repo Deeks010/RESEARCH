@@ -1,0 +1,51 @@
+{
+  "Best Cast IT Limited (Best Cast)": {
+    "ownership_evidence": "Company explicitly describes a family-held business led by Murali Kabirdass; son Shreyas is a full-time director.",
+    "owner_evidence_grade": "strong",
+    "decision_locality": "MD/family and two operating units are linked to the Chennai business; actual approval chain remains unknown.",
+    "adoption_signals": "Company documents tool development, die casting, machining and assembly; existing process capability is a readiness signal, not AI demand.",
+    "operational_usecase": "Casting-to-machining handoff review and clearly defined production-zone access.",
+    "metric_scores": [3,1,2,2,1]
+  },
+  "Ford Packaging": {
+    "ownership_evidence": "Official indexed profile identifies G. Dhamotharan as proprietor. Profile is undated and live retrieval failed; present role needs reconfirmation.",
+    "owner_evidence_grade": "qualified",
+    "decision_locality": "Proprietor-associated local business contact and two Chennai-area factories; no verified buying process.",
+    "adoption_signals": "Company describes production equipment and manufacturing since 2000. Detailed present investment not verified.",
+    "operational_usecase": "Corrugation-to-packing queue and delay review.",
+    "metric_scores": [2,1,2,2,0]
+  },
+  "Manav Packaging Private Limited": {
+    "ownership_evidence": "Tofler's July 2026 profile labels MD Dhinesh Kumar Varadharajan as shareholder. Ownership percentage/control is not available; SEZEPC 2025–27 corroborates his MD role.",
+    "owner_evidence_grade": "qualified",
+    "decision_locality": "Named MD's public business email and MEPZ production location support a local management route. Approval authority not tested.",
+    "adoption_signals": "Established corrugated manufacturing and international operations; this can support a technology discussion but does not establish budget.",
+    "operational_usecase": "Changeover and packing-handoff evidence at one local line.",
+    "metric_scores": [2,2,2,2,1],
+    "extra_source": {"url":"https://www.tofler.in/manav-packaging-private-limited/company/U21093TN1999PTC043810","claim":"Secondary corporate-data page labels the current MD as shareholder; stake/control unknown."}
+  },
+  "Vicoplast Packing Industries Private Limited": {
+    "ownership_evidence": "Company profile identifies G. Palani as founder and director. Current shareholding/control is not disclosed.",
+    "owner_evidence_grade": "qualified",
+    "decision_locality": "Founder-led operating company and manufacturing contact are in Thirumudivakkam; local authority remains an inference.",
+    "adoption_signals": "Official profile lists extrusion, printing and cutting/sealing machines.",
+    "operational_usecase": "Film-production handoff and finished-bag packing queue review.",
+    "metric_scores": [2,1,2,2,1]
+  },
+  "Ambattur Metal Treaters": {
+    "ownership_evidence": "ASM India professional directory identifies N. Sampathkumar as CEO/proprietor and matches company contact details. Directory date/current tenure are uncertain.",
+    "owner_evidence_grade": "qualified",
+    "decision_locality": "Directory ties proprietor to Chennai office/works; official site provides the same phone and nearby treatment units.",
+    "adoption_signals": "Company lists continuous and batch furnaces, controlled treatment and laboratory equipment.",
+    "operational_usecase": "Distinguish safe mandatory waiting from avoidable furnace-unloading delay; camera alone cannot verify metallurgy.",
+    "metric_scores": [2,2,2,2,1]
+  },
+  "Shree Selva Enterprises": {
+    "ownership_evidence": "Secondary GST directory identifies Murugan as proprietor at the matching Kundrathur manufacturing address. Official company site does not name the owner.",
+    "owner_evidence_grade": "qualified",
+    "decision_locality": "Local operating factory and published business phone; direct owner responsibility has not been confirmed.",
+    "adoption_signals": "Company specifies die-casting machines and industrial furnaces.",
+    "operational_usecase": "Part-removal timing and access around casting equipment.",
+    "metric_scores": [2,1,2,2,1]
+  }
+}

@@ -1,0 +1,176 @@
+[
+  {
+    "name": "Manav Packaging Private Limited",
+    "city": "Tambaram MEPZ, Chennai",
+    "sector": "Packaging",
+    "products": "Corrugated packaging; also trades paper",
+    "factory_evidence": "Company describes corrugated production within Chennai's MEPZ and gives factory plots A4–A6.",
+    "leadership": "Dhinesh Kumar Varadharajan — Managing Director",
+    "leadership_confidence": "SEZEPC 2025–27 council names MD; company publishes matching named email",
+    "email": "dhinesh@manavpackaging.in",
+    "email_type": "Named leadership business email, company-published and council-corroborated",
+    "phone": "+91 98840 43734",
+    "website": "https://www.manavpackaging.in/",
+    "operational_contact": "Production manager not publicly identified; request MEPZ operations lead",
+    "sources": [
+      {
+        "url": "https://www.manavpackaging.in/about.php",
+        "claim": "Manufacturing, MEPZ address, named email and phone"
+      },
+      {
+        "url": "https://www.sezepc.in/central-governing-councils.php",
+        "claim": "2025–27 council identifies Dhinesh Kumar Varadharajan as MD"
+      },
+      {
+        "url": "https://www.epces.in/EPCES-Annual-Report-2019-20-final-draft-as-on-21-10-2020.pdf",
+        "claim": "Historical council report explicitly associates MD with same email"
+      }
+    ],
+    "fit_reason": "Established factory with named MD contact and current institutional leadership corroboration.",
+    "discovery_topic": "Which corrugation/packing handoffs are manually tracked and cause costly waiting?",
+    "caveat": "Its paper-trading business is separate from factory fit. No buying intent established.",
+    "region": "Chennai metro",
+    "checked_date": "2026-09-15"
+  },
+  {
+    "name": "Ford Packaging",
+    "city": "Pammal/Pallavaram and Sriperumbudur",
+    "sector": "Packaging",
+    "products": "Corrugated cartons, boards, rolls and wooden pallets",
+    "factory_evidence": "Official company profile describes two production factories in the Chennai/Pallavaram and Sriperumbudur areas.",
+    "leadership": "G. Dhamotharan — proprietor named in company profile",
+    "leadership_confidence": "Official indexed profile names proprietor; page is undated and live profile fetch failed",
+    "email": "ford_packaging@yahoo.com",
+    "email_type": "Official company business inbox",
+    "phone": "+91 98400 74652",
+    "website": "https://www.fordpackaging.co.in/",
+    "operational_contact": "Factory production head not named",
+    "sources": [
+      {
+        "url": "https://www.fordpackaging.co.in/",
+        "claim": "Manufacturing and live published business contacts"
+      },
+      {
+        "url": "https://www.fordpackaging.co.in/about.html",
+        "claim": "Official search-indexed profile: proprietor and two-factory footprint; live retrieval unsuccessful"
+      }
+    ],
+    "fit_reason": "Proprietor-led signal plus two nearby factories for comparison interviews.",
+    "discovery_topic": "Which repeat delays appear at both factories and how are supervisors tracking them?",
+    "caveat": "Confirm proprietor and second-plant status before named outreach; no Ford Motor affiliation implied.",
+    "region": "Chennai metro",
+    "checked_date": "2026-09-15"
+  },
+  {
+    "name": "Vicoplast Packing Industries Private Limited",
+    "city": "Thirumudivakkam, Chennai",
+    "sector": "Plastics and polymers",
+    "products": "Polyethylene packaging films and bags",
+    "factory_evidence": "Official profile lists extrusion, printing and cutting/sealing machinery at Thirumudivakkam.",
+    "leadership": "G. Palani — founder/director",
+    "leadership_confidence": "Official company profile names founder and director",
+    "email": "vicoplastindia@gmail.com",
+    "email_type": "Official company business inbox",
+    "phone": "+91 74014 44023",
+    "website": "https://www.vicoplastindia.com/",
+    "operational_contact": "Extrusion/production manager not named",
+    "sources": [
+      {
+        "url": "https://www.vicoplastindia.com/about-us/",
+        "claim": "Founder, production equipment, factory address and public contacts"
+      }
+    ],
+    "fit_reason": "Founder-led signal and repeat production processes close to Chennai.",
+    "discovery_topic": "What causes waiting between extrusion, printing and sealing, and what is already measured?",
+    "caveat": "Extrusion is continuous; a rubber-curing detector will not transfer unchanged.",
+    "region": "Chennai metro",
+    "checked_date": "2026-09-15"
+  },
+  {
+    "name": "Best Cast IT Limited (Best Cast)",
+    "city": "Ambattur, Chennai",
+    "sector": "Metal casting and tooling",
+    "products": "Die castings, machined parts and assemblies",
+    "factory_evidence": "Official enquiry page lists two Ambattur units; capabilities include casting, machining and assembly.",
+    "leadership": "Murali Kabirdass — Managing Director; Shreyas M. Kabirdass — Director, Business Management",
+    "leadership_confidence": "Official site explicitly calls it a family-held business",
+    "email": "sales@bestcastgroup.com",
+    "email_type": "Official sales inbox",
+    "phone": "+91 73054 23992",
+    "website": "https://bestcastgroup.com/",
+    "operational_contact": "Site production manager not named; director has stated manufacturing/operations remit",
+    "sources": [
+      {
+        "url": "https://bestcastgroup.com/about-best-cast/",
+        "claim": "Family ownership, named leadership and manufacturing capabilities"
+      },
+      {
+        "url": "https://bestcastgroup.com/enquiries/",
+        "claim": "Two Ambattur unit addresses, sales email and business phones"
+      }
+    ],
+    "fit_reason": "Clear family-led evidence with established industrial production.",
+    "discovery_topic": "How are casting-to-machining queues and avoidable cycle delays measured?",
+    "caveat": "Established exporter may have formal procurement; family-led does not prove fast approval.",
+    "region": "Chennai metro",
+    "checked_date": "2026-09-15"
+  },
+  {
+    "name": "Ambattur Metal Treaters",
+    "city": "Ambattur, Chennai; Kakkalur/R.K. Pet units",
+    "sector": "Heat treatment",
+    "products": "Hardening, tempering, annealing and carburizing services",
+    "factory_evidence": "Company lists operating heat-treatment units with continuous and batch furnaces.",
+    "leadership": "N. Sampathkumar — CEO/proprietor in ASM India directory",
+    "leadership_confidence": "Professional association directory identifies proprietor; current company site does not name leadership",
+    "email": "amtheat@hotmail.com",
+    "email_type": "Official company business inbox",
+    "phone": "+91 98410 35501",
+    "website": "https://www.amtheat.com/",
+    "operational_contact": "Heat-treatment production supervisor not named",
+    "sources": [
+      {
+        "url": "https://www.amtheat.com/",
+        "claim": "Furnaces, unit locations, public email and phone"
+      },
+      {
+        "url": "https://cdnc.heyzine.com/files/uploaded/v2/cba6aa8c84c81b1fadcc84a1a37de3e0dbe8b78f.pdf",
+        "claim": "ASM India directory associates N. Sampathkumar with CEO/proprietor role and matching company contacts; directory date unclear"
+      }
+    ],
+    "fit_reason": "Thermal process timing is adjacent to the curing pilot; Chennai base.",
+    "discovery_topic": "How do operators distinguish mandatory treatment/cooling time from avoidable unloading delay?",
+    "caveat": "Readiness requires validated machine/process signals. Association role needs reconfirmation.",
+    "region": "Chennai metro",
+    "checked_date": "2026-09-15"
+  },
+  {
+    "name": "Shree Selva Enterprises",
+    "city": "Amarambedu, Kundrathur",
+    "sector": "Metal casting and tooling",
+    "products": "High-pressure aluminium die-cast components",
+    "factory_evidence": "Official site lists four die-casting machines, industrial furnaces and the Kundrathur facility.",
+    "leadership": "Murugan — proprietor according to secondary GST directory",
+    "leadership_confidence": "Secondary directory matched by business address; official site does not name owner",
+    "email": "mmshreemuve@yahoo.co.in",
+    "email_type": "Official company business inbox",
+    "phone": "+91 98840 20727",
+    "website": "https://shreeselvadiecasting.com/",
+    "operational_contact": "Production or QC manager not named",
+    "sources": [
+      {
+        "url": "https://shreeselvadiecasting.com/",
+        "claim": "Production equipment, products, address, email and phone"
+      },
+      {
+        "url": "https://piceapp.com/gst-number-search/shree-selva-enterprises-33akrpm1601l1z4/",
+        "claim": "Secondary GST directory names Murugan as proprietor; matching Amarambedu address"
+      }
+    ],
+    "fit_reason": "Small operating factory with repeated machine cycles and public contact route.",
+    "discovery_topic": "Are casting completion and part-removal delays logged, and which delays matter financially?",
+    "caveat": "Leadership evidence is secondary. Site's machine-make descriptions contain spelling variations.",
+    "region": "Chennai metro",
+    "checked_date": "2026-09-15"
+  }
+]

@@ -1,0 +1,356 @@
+{
+  "method": "50 prioritized prospects selected from 60 researched company records. Geography comes first: 28 Chennai/nearby industrial-belt factories, 14 elsewhere in Tamil Nadu and 8 elsewhere in South India. Within each area, judgment weighs production similarity, concrete factory evidence and access to leadership. Rubber is the main cohort; nearby moulding, heat-treatment, metalworking and packaging firms broaden discovery. This is a sourced shortlist, not an exhaustive ranking of every Indian manufacturer. No farther-region prospects were needed.",
+  "limits": "No company has confirmed a requirement, willingness to pay or existing suitable CCTV. Published owner/MD/founder evidence is recorded exactly; unspecified ownership and historical roles remain qualified. Public email publication and MX routing do not guarantee an active inbox or a reply. Some addresses are office locations for manufacturing companies; individual caveats identify where the production address must be reconfirmed. No factory visits, private database purchases, mailbox probes, outreach or drafts were performed.",
+  "selected": [
+    {
+      "name": "Aristo Rubber Products",
+      "geography": "Chennai metro",
+      "leader_grade": "Strong",
+      "contact_grade": "Leadership email",
+      "process_group": "Rubber moulding"
+    },
+    {
+      "name": "Abirami Rubber",
+      "geography": "Chennai metro",
+      "leader_grade": "Strong",
+      "contact_grade": "Company inbox",
+      "process_group": "Rubber moulding"
+    },
+    {
+      "name": "Sri Sai Rubber Products Pvt Ltd",
+      "geography": "Chennai metro",
+      "leader_grade": "Qualified",
+      "contact_grade": "Company inbox",
+      "process_group": "Rubber moulding"
+    },
+    {
+      "name": "Madura Rubber",
+      "geography": "Chennai metro",
+      "leader_grade": "Qualified",
+      "contact_grade": "Company inbox",
+      "process_group": "Rubber moulding"
+    },
+    {
+      "name": "Nandhini Rubber Private Limited",
+      "geography": "Chennai metro",
+      "leader_grade": "Qualified",
+      "contact_grade": "Named contact",
+      "process_group": "Rubber moulding"
+    },
+    {
+      "name": "Nutech CNC",
+      "geography": "Chennai metro",
+      "leader_grade": "Strong",
+      "contact_grade": "Company inbox",
+      "process_group": "Plastic moulding"
+    },
+    {
+      "name": "Innovative Moulds Crafts Private Limited",
+      "geography": "Chennai metro",
+      "leader_grade": "Qualified",
+      "contact_grade": "Leadership email",
+      "process_group": "Plastic moulding"
+    },
+    {
+      "name": "M.O.C. Dies and Moulds (India)",
+      "geography": "Chennai metro",
+      "leader_grade": "Strong",
+      "contact_grade": "Leadership email",
+      "process_group": "Metalworking"
+    },
+    {
+      "name": "Ambattur Metal Treaters",
+      "geography": "Chennai metro",
+      "leader_grade": "Qualified",
+      "contact_grade": "Company inbox",
+      "process_group": "Heat treatment"
+    },
+    {
+      "name": "Manav Packaging Private Limited",
+      "geography": "Chennai metro",
+      "leader_grade": "Strong",
+      "contact_grade": "Leadership email",
+      "process_group": "Packaging"
+    },
+    {
+      "name": "Delux Rubber Industries",
+      "geography": "Chennai metro",
+      "leader_grade": "Qualified",
+      "contact_grade": "Company inbox",
+      "process_group": "Rubber moulding"
+    },
+    {
+      "name": "Rekha Rubber Products",
+      "geography": "Chennai metro",
+      "leader_grade": "Qualified",
+      "contact_grade": "Company inbox",
+      "process_group": "Rubber moulding"
+    },
+    {
+      "name": "Alnoor Rubber Products",
+      "geography": "Chennai metro",
+      "leader_grade": "Unknown",
+      "contact_grade": "Company inbox",
+      "process_group": "Rubber moulding"
+    },
+    {
+      "name": "LDS Rubber Tech (Chennai) Pvt Ltd",
+      "geography": "Chennai metro",
+      "leader_grade": "Unknown",
+      "contact_grade": "Company inbox",
+      "process_group": "Rubber moulding"
+    },
+    {
+      "name": "Polycraft Mouldings",
+      "geography": "Chennai metro",
+      "leader_grade": "Unknown",
+      "contact_grade": "Company inbox",
+      "process_group": "Plastic moulding"
+    },
+    {
+      "name": "Innoprime Plast Pvt Ltd",
+      "geography": "Chennai metro",
+      "leader_grade": "Qualified",
+      "contact_grade": "Named contact",
+      "process_group": "Plastic moulding"
+    },
+    {
+      "name": "Precyz Polymers Pvt Ltd",
+      "geography": "Chennai metro",
+      "leader_grade": "Qualified",
+      "contact_grade": "Company inbox",
+      "process_group": "Plastic moulding"
+    },
+    {
+      "name": "R&A Plastics",
+      "geography": "Chennai metro",
+      "leader_grade": "Strong",
+      "contact_grade": "Company inbox",
+      "process_group": "Plastic moulding"
+    },
+    {
+      "name": "KVMG Moulding Solutions",
+      "geography": "Chennai metro",
+      "leader_grade": "Unknown",
+      "contact_grade": "Company inbox",
+      "process_group": "Plastic moulding"
+    },
+    {
+      "name": "Plastronics (India)",
+      "geography": "Chennai metro",
+      "leader_grade": "Unknown",
+      "contact_grade": "Company inbox",
+      "process_group": "Plastic moulding"
+    },
+    {
+      "name": "Kathiravan Moulds",
+      "geography": "Chennai metro",
+      "leader_grade": "Unknown",
+      "contact_grade": "Company inbox",
+      "process_group": "Plastic moulding"
+    },
+    {
+      "name": "Vicoplast Packing Industries Private Limited",
+      "geography": "Chennai metro",
+      "leader_grade": "Strong",
+      "contact_grade": "Company inbox",
+      "process_group": "Packaging"
+    },
+    {
+      "name": "APA Package",
+      "geography": "Chennai metro",
+      "leader_grade": "Strong",
+      "contact_grade": "Company inbox",
+      "process_group": "Packaging"
+    },
+    {
+      "name": "GK Packaging",
+      "geography": "Chennai metro",
+      "leader_grade": "Strong",
+      "contact_grade": "Company inbox",
+      "process_group": "Packaging"
+    },
+    {
+      "name": "Ford Packaging",
+      "geography": "Chennai metro",
+      "leader_grade": "Qualified",
+      "contact_grade": "Company inbox",
+      "process_group": "Packaging"
+    },
+    {
+      "name": "Best Cast IT Limited (Best Cast)",
+      "geography": "Chennai metro",
+      "leader_grade": "Strong",
+      "contact_grade": "Company inbox",
+      "process_group": "Metalworking"
+    },
+    {
+      "name": "Shree Selva Enterprises",
+      "geography": "Chennai metro",
+      "leader_grade": "Qualified",
+      "contact_grade": "Company inbox",
+      "process_group": "Metalworking"
+    },
+    {
+      "name": "Simtech Tooling Innovations Private Limited",
+      "geography": "Chennai metro",
+      "leader_grade": "Qualified",
+      "contact_grade": "Named contact",
+      "process_group": "Metalworking"
+    },
+    {
+      "name": "Coimbatore Premier Industries (CPI / Rub-O-Tech)",
+      "geography": "Tamil Nadu — other",
+      "leader_grade": "Strong",
+      "contact_grade": "Company inbox",
+      "process_group": "Rubber moulding"
+    },
+    {
+      "name": "Best Heat Treatment Services",
+      "geography": "Tamil Nadu — other",
+      "leader_grade": "Qualified",
+      "contact_grade": "Company inbox",
+      "process_group": "Heat treatment"
+    },
+    {
+      "name": "Sun Pressing Private Limited",
+      "geography": "Tamil Nadu — other",
+      "leader_grade": "Strong",
+      "contact_grade": "Company inbox",
+      "process_group": "Metalworking"
+    },
+    {
+      "name": "Aasic Plastic",
+      "geography": "Tamil Nadu — other",
+      "leader_grade": "Strong",
+      "contact_grade": "Company inbox",
+      "process_group": "Plastic moulding"
+    },
+    {
+      "name": "Abi Rubber Private Limited",
+      "geography": "Tamil Nadu — other",
+      "leader_grade": "Unknown",
+      "contact_grade": "Company inbox",
+      "process_group": "Rubber moulding"
+    },
+    {
+      "name": "Sakthi Heat Treatment Industry",
+      "geography": "Tamil Nadu — other",
+      "leader_grade": "Qualified",
+      "contact_grade": "Company inbox",
+      "process_group": "Heat treatment"
+    },
+    {
+      "name": "Hemagni Build Pro",
+      "geography": "Tamil Nadu — other",
+      "leader_grade": "Strong",
+      "contact_grade": "Company inbox",
+      "process_group": "Metalworking"
+    },
+    {
+      "name": "Unique Industries (Unitech Rubber Products)",
+      "geography": "Tamil Nadu — other",
+      "leader_grade": "Unknown",
+      "contact_grade": "Company inbox",
+      "process_group": "Rubber moulding"
+    },
+    {
+      "name": "Karthik Polymers Private Limited",
+      "geography": "Tamil Nadu — other",
+      "leader_grade": "Unknown",
+      "contact_grade": "Company inbox",
+      "process_group": "Rubber moulding"
+    },
+    {
+      "name": "Champion Plastics (India) Private Limited",
+      "geography": "Tamil Nadu — other",
+      "leader_grade": "Qualified",
+      "contact_grade": "Company inbox",
+      "process_group": "Plastic moulding"
+    },
+    {
+      "name": "National Plastics — Erode",
+      "geography": "Tamil Nadu — other",
+      "leader_grade": "Unknown",
+      "contact_grade": "Company inbox",
+      "process_group": "Packaging"
+    },
+    {
+      "name": "Shakthi Innovative Crafts / Shakthi Abinav (Shakthi Cups group)",
+      "geography": "Tamil Nadu — other",
+      "leader_grade": "Unknown",
+      "contact_grade": "Company inbox",
+      "process_group": "Packaging"
+    },
+    {
+      "name": "Magtorq Private Limited",
+      "geography": "Tamil Nadu — other",
+      "leader_grade": "Qualified",
+      "contact_grade": "Company inbox",
+      "process_group": "Metalworking"
+    },
+    {
+      "name": "Precision Products / Precise Products",
+      "geography": "Tamil Nadu — other",
+      "leader_grade": "Unknown",
+      "contact_grade": "Company inbox",
+      "process_group": "Metalworking"
+    },
+    {
+      "name": "Vajra Rubber Products (P) Ltd",
+      "geography": "South India — other",
+      "leader_grade": "Strong",
+      "contact_grade": "Leadership email",
+      "process_group": "Rubber moulding"
+    },
+    {
+      "name": "Tool Technologies",
+      "geography": "South India — other",
+      "leader_grade": "Strong",
+      "contact_grade": "Leadership email",
+      "process_group": "Rubber moulding"
+    },
+    {
+      "name": "Deesawala Rubber Industries",
+      "geography": "South India — other",
+      "leader_grade": "Strong",
+      "contact_grade": "Leadership email",
+      "process_group": "Rubber moulding"
+    },
+    {
+      "name": "Mahalaxmi Rubber Products",
+      "geography": "South India — other",
+      "leader_grade": "Strong",
+      "contact_grade": "Leadership email",
+      "process_group": "Rubber moulding"
+    },
+    {
+      "name": "Elvee Rubber Products",
+      "geography": "South India — other",
+      "leader_grade": "Qualified",
+      "contact_grade": "Company inbox",
+      "process_group": "Rubber moulding"
+    },
+    {
+      "name": "Toyo Rubbers",
+      "geography": "South India — other",
+      "leader_grade": "Unknown",
+      "contact_grade": "Company inbox",
+      "process_group": "Rubber moulding"
+    },
+    {
+      "name": "Centroid Polymer Technologies",
+      "geography": "South India — other",
+      "leader_grade": "Unknown",
+      "contact_grade": "Company inbox",
+      "process_group": "Rubber moulding"
+    },
+    {
+      "name": "Mithra Fluid Trans Pvt Ltd",
+      "geography": "South India — other",
+      "leader_grade": "Unknown",
+      "contact_grade": "Company inbox",
+      "process_group": "Rubber moulding"
+    }
+  ]
+}

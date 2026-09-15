@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Ajay Sensors & Instruments",
+    "email": "ajaykumar@ajaysensors.in",
+    "role": "Managing Partner",
+    "person": "Ajay Kumar Maras Vrishabhendra",
+    "classification": "direct_verified",
+    "source_urls": ["https://ajaysensors.in/", "https://www.bharatibiz.com/en/ajay-sensors-instruments-080-2330-4997"],
+    "evidence": "Official company site identifies Ajay Kumar as managing partner and publishes the matching named address. Business directory corroborates partner identity and company address. Verified means published association, not mailbox delivery or exclusive access.",
+    "checked_date": "2026-09-15"
+  },
+  {
+    "name": "Ganesh Metal Products",
+    "email": "sales@ganeshmetalproducts.com",
+    "role": "Family-owned business; individual owner not confirmed",
+    "person": null,
+    "classification": "general_only",
+    "source_urls": ["https://ganeshmetalproducts.com/about/", "https://ganeshmetalproducts.com/"],
+    "evidence": "Official Bengaluru company pages publish the sales route and family-owned claim. No public direct owner address found. Same-name Jamnagar companies were excluded. A masked contact-broker listing was not used as email evidence.",
+    "checked_date": "2026-09-15"
+  },
+  {
+    "name": "Sri Hanuma Rice Mills",
+    "email": "contact@srihanumaricemills.com",
+    "role": "Founder and Managing Director; intended recipient only",
+    "person": "Chunduri Ravi Babu",
+    "classification": "general_only",
+    "source_urls": ["https://srihanumaricemills.in/contact-us/", "https://srihanumaricemills.in/about-us/"],
+    "evidence": "Official .in site still publishes this general .com email. Founder and managing partner are named separately; no direct leader mailbox found. Previous MX check returned no mail routing: confirm by published phone before attempting email. Do not invent an .in replacement.",
+    "checked_date": "2026-09-15"
+  },
+  {
+    "name": "Varna Print Factory",
+    "email": "ranganath@varnaprintfactory.com",
+    "role": "Co-founder responsible for all operations",
+    "person": "Ranganath Gowda",
+    "classification": "direct_verified",
+    "source_urls": ["https://varnaprintfactory.com/about-us"],
+    "evidence": "Official biography publishes the email directly beneath Ranganath's founder and operations description. Published association reconfirmed; inbox delivery untested.",
+    "checked_date": "2026-09-15"
+  },
+  {
+    "name": "Syno Pack India",
+    "email": "synopackindia@gmail.com",
+    "role": "Proprietor",
+    "person": "Kodly Kishan",
+    "classification": "association_uncertain",
+    "source_urls": ["https://www.ftcci.in/source/downloads/AGM%202024/PANEL-E%202024.pdf", "https://www.bharatibiz.com/syno-pack-india_4z-090007-89512", "https://www.exportersindia.com/syno-pack-india/contact.htm"],
+    "evidence": "FTCCI 2024 company entry names proprietor and publishes two company inboxes. Bharatibiz explicitly associates the Gmail address with K. Kishan, but this remains a company-named inbox from secondary evidence. Not counted as a confirmed direct owner email. No new address found.",
+    "checked_date": "2026-09-15"
+  },
+  {
+    "name": "Altom Foods",
+    "email": "altomfoods@gmail.com",
+    "role": "Founder; proprietor corroborated by secondary business record",
+    "person": "M. V. Alexander / Alexandar Madassery",
+    "classification": "association_uncertain",
+    "source_urls": ["https://www.altomfoods.com/", "https://www.bharatibiz.com/en/altom-foods-094465-35557", "https://gst.jamku.app/gstin/32AFEPA9023Q1ZG"],
+    "evidence": "Official contact block gives M. V. Alexander with this company inbox. Secondary records identify Madassery Varghese Alexander as proprietor at matching Padukkad location, explaining name variants. No evidence that this is his individual inbox; no direct owner email counted.",
+    "checked_date": "2026-09-15"
+  },
+  {
+    "name": "BVN Modulars",
+    "email": "bvnmodulars@gmail.com",
+    "role": "Founder and Managing Director; intended recipient only",
+    "person": "B. V. N. Reddy",
+    "classification": "general_only",
+    "source_urls": ["https://bvnmodularfurnitures.com/", "https://bvnmodularfurnitures.com/about", "https://ffsc.in/general-body.php"],
+    "evidence": "Official site publishes general business inbox and founder/MD biography. Furniture sector council corroborates MD of BVN Modular Designers Private Limited. No published direct owner address found; company inbox is not attributed to him individually.",
+    "checked_date": "2026-09-15"
+  },
+  {
+    "name": "Team D",
+    "email": "krishnakumar@teamd.in",
+    "role": "Founder and CMD",
+    "person": "Krishna Kumar H. B.",
+    "classification": "direct_verified",
+    "source_urls": ["https://www.teamd.in/contactus", "https://www.teamd.in/"],
+    "evidence": "New address found: official contact page explicitly publishes krishnakumar@teamd.in alongside info@teamd.in. Official team listing identifies Krishna Kumar H B as founder and CMD. An older export-delegation document has a conflicting spelling; current official spelling retained. Published association, not delivery verification.",
+    "checked_date": "2026-09-15"
+  },
+  {
+    "name": "The Green Wrap",
+    "email": "thegreenwraponline@gmail.com",
+    "role": "Family-owned business; individual owner not confirmed",
+    "person": null,
+    "classification": "general_only",
+    "source_urls": ["https://thegreenwrap.in/", "https://thegreenwrap.in/our-products", "https://www.quickerala.com/trivandrum/menamkulam/the-green-wrap/464751"],
+    "evidence": "Official website and matching Menamkulam business listing publish company inbox only. No named owner email found. Customer testimonials are not owner identities.",
+    "checked_date": "2026-09-15"
+  },
+  {
+    "name": "Nice Global Food Products",
+    "email": "info@nicefoods.in",
+    "role": "Co-Founder and Director, Manufacturing and Operations; intended recipient only",
+    "person": "Amanullah",
+    "classification": "general_only",
+    "source_urls": ["https://www.nicefoods.in/about"],
+    "evidence": "Official company biography names manufacturing co-founder Amanullah and international-business co-founder Shahul. Only info@nicefoods.in and exports@nicefoods.in are published in reviewed sources. Neither is a verified individual founder inbox.",
+    "checked_date": "2026-09-15"
+  }
+]

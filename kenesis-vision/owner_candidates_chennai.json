@@ -1,0 +1,622 @@
+[
+  {
+    "name": "Thirumala Press Components Pvt Ltd (TPC)",
+    "city": "Gerugambakkam",
+    "region": "Chennai metro and adjoining industrial belt",
+    "sector": "Sheet metal",
+    "products": "Tractor/automotive pressed and fabricated components",
+    "factory_evidence": "Official site describes presses, fabrication and robotic welding at Golden Estate, S.No3 Plot13 Porur–Kundrathur Road, Chennai600122.",
+    "leadership": "Sharath Suresh — MD; Suresh A G — Chairman.",
+    "ownership_evidence": "Official about page explicitly labels both as major shareholders and describes family ownership.",
+    "owner_evidence_grade": "strong",
+    "leadership_confidence": "Official business source explicitly states ownership/proprietorship; current authority still requires confirmation.",
+    "email": "sales@tpcpltd.com",
+    "email_type": "Official generic sales mailbox",
+    "phone": "+91 73580 47644",
+    "website": "https://www.tpcpltd.com/",
+    "sources": [
+      {
+        "url": "https://www.tpcpltd.com/about",
+        "claim": "Named major shareholders; local production, robotic welding, IT systems, email and phone."
+      }
+    ],
+    "fit_reason": "Inference: Shareholder-led repetitive press/weld production is a strong setting for process-handoff discovery.",
+    "discovery_topic": "Ask whether press-to-welding handoff or production-zone access exceptions has a measurable operational cost and can be reliably observed in existing footage.",
+    "operational_usecase": "press-to-welding handoff or production-zone access exceptions",
+    "decision_locality": "Local production/business address evidenced; owner's physical presence, purchase authority and approval process unverified.",
+    "adoption_signals": "Site explicitly describes modern IT systems, robotic welding, CAD/CAM and 5S.",
+    "caveat": "Major shareholder does not establish sole ownership. No direct personal mailbox published. Public business contact; deliverability not tested. CCTV availability, need, budget, buying speed and willingness to pay unknown.",
+    "operational_contact": null,
+    "verified_date": "2026-09-15"
+  },
+  {
+    "name": "Sriram Industries",
+    "city": "Kallikuppam, Ambattur",
+    "region": "Chennai metro and adjoining industrial belt",
+    "sector": "Metal fabrication",
+    "products": "Sheet-metal/structural fabrication and machined components",
+    "factory_evidence": "Official contact page describes its fabrication shop; No274 Redhills High Road, Balaji Nagar East, Chennai600053.",
+    "leadership": "M Nagarajan — Proprietor and Founder.",
+    "ownership_evidence": "Official contact section states proprietor and founder.",
+    "owner_evidence_grade": "strong",
+    "leadership_confidence": "Official business source explicitly states ownership/proprietorship; current authority still requires confirmation.",
+    "email": "rajendran@sriram-industries.com",
+    "email_type": "Official named Head of Finance & Commercials mailbox; not owner-direct",
+    "phone": "+91 98409 16422; +91 44 26862876",
+    "website": "https://www.sriram-industries.com/",
+    "sources": [
+      {
+        "url": "https://www.sriram-industries.com/contact.htm",
+        "claim": "Proprietor, fabrication shop, address and named commercial/purchase contacts."
+      }
+    ],
+    "fit_reason": "Inference: A named commercial head offers a practical route to discuss value of fabrication supervision.",
+    "discovery_topic": "Ask whether fabrication handoff delays or unauthorized entry into agreed work zones has a measurable operational cost and can be reliably observed in existing footage.",
+    "operational_usecase": "fabrication handoff delays or unauthorized entry into agreed work zones",
+    "decision_locality": "Local production/business address evidenced; owner's physical presence, purchase authority and approval process unverified.",
+    "adoption_signals": "No specific technology-adoption evidence established.",
+    "caveat": "Contact page calls listed premises office; confirm shopfloor entrance before visit. Public business contact; deliverability not tested. CCTV availability, need, budget, buying speed and willingness to pay unknown.",
+    "operational_contact": "M Rajendran, Head–Finance & Commercials; above email/phone. N Ganesh, Head–Purchase; ganesh@sriram-industries.com; +91 72999 00072.",
+    "verified_date": "2026-09-15"
+  },
+  {
+    "name": "Saravana Bhava Fabricators (SB Fabricators)",
+    "city": "Malayambakkam / Ayyapakkam",
+    "region": "Chennai metro and adjoining industrial belt",
+    "sector": "Metal fabrication",
+    "products": "Rolling shutters, gates and doors",
+    "factory_evidence": "Official site describes over10,000sqft combined manufacturing/office space and family-owned facility; Sr.No395/2A Meppur Road, Meppur Village, Malayambakkam600123.",
+    "leadership": "PK Paneer — Proprietor.",
+    "ownership_evidence": "Company explicitly describes family ownership and names proprietor.",
+    "owner_evidence_grade": "strong",
+    "leadership_confidence": "Official business source explicitly states ownership/proprietorship; current authority still requires confirmation.",
+    "email": "saravanabhavafab@gmail.com",
+    "email_type": "Official generic business mailbox",
+    "phone": "+91 73959 59678",
+    "website": "https://sbfabs.com/",
+    "sources": [
+      {
+        "url": "https://sbfabs.com/",
+        "claim": "Family ownership, proprietor, workshop footprint, products and contacts."
+      }
+    ],
+    "fit_reason": "Inference: Metal fabrication/assembly offers a concrete work-zone and material-handoff discovery.",
+    "discovery_topic": "Ask whether gate/shutter assembly handoff or restricted workshop-zone access has a measurable operational cost and can be reliably observed in existing footage.",
+    "operational_usecase": "gate/shutter assembly handoff or restricted workshop-zone access",
+    "decision_locality": "Local production/business address evidenced; owner's physical presence, purchase authority and approval process unverified.",
+    "adoption_signals": "Site markets motorised shutters and automatic gates.",
+    "caveat": "Official page content retrieved through search index; direct fetch rendered redirect. Public business contact; deliverability not tested. CCTV availability, need, budget, buying speed and willingness to pay unknown.",
+    "operational_contact": null,
+    "verified_date": "2026-09-15"
+  },
+  {
+    "name": "Guru Mangala Engineering",
+    "city": "Ambattur",
+    "region": "Chennai metro and adjoining industrial belt",
+    "sector": "Machining and fabrication",
+    "products": "Machine bases, structures, jigs, fixtures and cutting machines",
+    "factory_evidence": "Official site describes machine-base fabrication and machining;27C Jeevaraarthinam3rdCross, KSR Nagar, Chennai600053.",
+    "leadership": "V Sivanesan — Proprietor.",
+    "ownership_evidence": "Proprietor explicitly named in official contact footer.",
+    "owner_evidence_grade": "strong",
+    "leadership_confidence": "Official business source explicitly states ownership/proprietorship; current authority still requires confirmation.",
+    "email": "vsiva_suma@yahoo.com",
+    "email_type": "Official published contact alongside proprietor; personal ownership of mailbox unverified",
+    "phone": "+91 99401 16288; +91 99404 94258",
+    "website": "https://www.gurumangalaengg.com/",
+    "sources": [
+      {
+        "url": "https://www.gurumangalaengg.com/fabrication-service/",
+        "claim": "Manufacturing activities, proprietor, address, email and phones."
+      }
+    ],
+    "fit_reason": "Inference: Machine-base fabrication supports specific questions about work-zone access and job transfer.",
+    "discovery_topic": "Ask whether fabrication-to-machining handoff or agreed restricted-zone access has a measurable operational cost and can be reliably observed in existing footage.",
+    "operational_usecase": "fabrication-to-machining handoff or agreed restricted-zone access",
+    "decision_locality": "Local production/business address evidenced; owner's physical presence, purchase authority and approval process unverified.",
+    "adoption_signals": "Site lists CNC turning job-work capability.",
+    "caveat": "Also trades equipment; confirm in-house process selected for discovery. Public business contact; deliverability not tested. CCTV availability, need, budget, buying speed and willingness to pay unknown.",
+    "operational_contact": null,
+    "verified_date": "2026-09-15"
+  },
+  {
+    "name": "AJ Food Products / AJWA Cakes",
+    "city": "Korukkupet",
+    "region": "Chennai metro and adjoining industrial belt",
+    "sector": "Food processing",
+    "products": "Packaged cakes and baked goods",
+    "factory_evidence": "Official site labels factory at95/96 A/6 KH Road, Jeeva Nagar, Korukkupet600021 and describes retail-ready bakery manufacture.",
+    "leadership": "A Hameed — Proprietor.",
+    "ownership_evidence": "Official factory contact section explicitly names proprietor.",
+    "owner_evidence_grade": "strong",
+    "leadership_confidence": "Official business source explicitly states ownership/proprietorship; current authority still requires confirmation.",
+    "email": "ajwabakery2015@gmail.com",
+    "email_type": "Official generic business mailbox",
+    "phone": "+91 98419 84707; +91 97903 98419",
+    "website": "https://ajwacakes.com/",
+    "sources": [
+      {
+        "url": "https://ajwacakes.com/",
+        "claim": "Proprietor, actual factory address, baked-goods manufacture and contacts."
+      }
+    ],
+    "fit_reason": "Inference: Packaged cake production supports a focused packing/hygiene-checkpoint discovery.",
+    "discovery_topic": "Ask whether packing-station coverage or a defined hygiene entry-step exception has a measurable operational cost and can be reliably observed in existing footage.",
+    "operational_usecase": "packing-station coverage or a defined hygiene entry-step exception",
+    "decision_locality": "Local production/business address evidenced; owner's physical presence, purchase authority and approval process unverified.",
+    "adoption_signals": "Website supports distributor enquiries and retail-ready packaged supply; no CCTV adoption evidence.",
+    "caveat": "Contact numbers labelled general enquiries/distributor support, not proven owner personal numbers. Public business contact; deliverability not tested. CCTV availability, need, budget, buying speed and willingness to pay unknown.",
+    "operational_contact": null,
+    "verified_date": "2026-09-15"
+  },
+  {
+    "name": "CHIK / Designs Factory",
+    "city": "Madhavaram",
+    "region": "Chennai metro and adjoining industrial belt",
+    "sector": "Garments",
+    "products": "Kurtis, nightwear and women's clothing",
+    "factory_evidence": "Official about page describes own manufacturing setup with40machines and60people; older page lists267 1stMain, AVM Nagar, Madhavaram600060.",
+    "leadership": "Current indexed page: Mahesh and Padmavathi, husband-and-wife founders; older rendered page spells founder Magesh.",
+    "ownership_evidence": "First-person official founder account says couple personally oversees garments leaving Chennai unit; family-run evidence, no share register.",
+    "owner_evidence_grade": "qualified",
+    "leadership_confidence": "Qualified source or founder/family evidence; do not treat as proven present ownership.",
+    "email": "mailus.chik@gmail.com",
+    "email_type": "Official business mailbox on indexed founder/about page",
+    "phone": "+91 93630 20883",
+    "website": "https://mychik.co.in/",
+    "sources": [
+      {
+        "url": "https://mychik.co.in/pages/about-us",
+        "claim": "Founder-family operation, own garment unit and current indexed contact; older rendered variant has different spelling/contact."
+      }
+    ],
+    "fit_reason": "Inference: Owner-operated cutting/stitching/packing supports direct discovery around production handoffs.",
+    "discovery_topic": "Ask whether stitching-to-packing delay or agreed station-ready absence has a measurable operational cost and can be reliably observed in existing footage.",
+    "operational_usecase": "stitching-to-packing delay or agreed station-ready absence",
+    "decision_locality": "Local production/business address evidenced; owner's physical presence, purchase authority and approval process unverified.",
+    "adoption_signals": "Own ecommerce storefront; site describes40machines. These are operating signals, not AI purchase intent.",
+    "caveat": "Page versions differ: older contact mailus.designsfactory@gmail.com / +919840520883. Confirm preferred name/contact and address before visit. Public business contact; deliverability not tested. CCTV availability, need, budget, buying speed and willingness to pay unknown.",
+    "operational_contact": null,
+    "verified_date": "2026-09-15"
+  },
+  {
+    "name": "Aphrodite's Drape",
+    "city": "Perungudi",
+    "region": "Chennai metro and adjoining industrial belt",
+    "sector": "Garments",
+    "products": "Custom bridal, children's, maternity clothing and uniforms",
+    "factory_evidence": "Official page explicitly lists production unit at Plot110&111 Burma Colony, Perungudi600096; separate design studio.",
+    "leadership": "Shanmugapriya — Founder and Proprietor.",
+    "ownership_evidence": "Official founder biography explicitly states proprietor.",
+    "owner_evidence_grade": "strong",
+    "leadership_confidence": "Official business source explicitly states ownership/proprietorship; current authority still requires confirmation.",
+    "email": "aphroditesdrape@gmail.com",
+    "email_type": "Official generic business mailbox",
+    "phone": "+91 90872 07878; +91 90873 07878",
+    "website": "https://www.aphroditesdrape.in/",
+    "sources": [
+      {
+        "url": "https://www.aphroditesdrape.in/aphroditesss/",
+        "claim": "Proprietor, bespoke manufacturing, production-unit address and contacts."
+      }
+    ],
+    "fit_reason": "Inference: Dedicated garment production unit enables a stitching/finishing workflow conversation with a named proprietor.",
+    "discovery_topic": "Ask whether stitching-to-finishing handoff or packing completion has a measurable operational cost and can be reliably observed in existing footage.",
+    "operational_usecase": "stitching-to-finishing handoff or packing completion",
+    "decision_locality": "Local production/business address evidenced; owner's physical presence, purchase authority and approval process unverified.",
+    "adoption_signals": "No specific manufacturing-technology adoption evidence established.",
+    "caveat": "Custom boutique scale; repeat volume and CCTV coverage need qualification. Public business contact; deliverability not tested. CCTV availability, need, budget, buying speed and willingness to pay unknown.",
+    "operational_contact": null,
+    "verified_date": "2026-09-15"
+  },
+  {
+    "name": "Base Electrical Engineering",
+    "city": "Kundrathur",
+    "region": "Chennai metro and adjoining industrial belt",
+    "sector": "Electrical equipment",
+    "products": "Electrical/control panels, bus ducts and distribution boards",
+    "factory_evidence": "Official site describes manufacturing;635 Phase1 PKV Mahanagar, Kundrathur600069.",
+    "leadership": "Magudapathi P — Proprietor.",
+    "ownership_evidence": "Site expressly states sole proprietorship and names proprietor.",
+    "owner_evidence_grade": "strong",
+    "leadership_confidence": "Official business source explicitly states ownership/proprietorship; current authority still requires confirmation.",
+    "email": "baseelectrical2014@gmail.com",
+    "email_type": "Official generic business mailbox",
+    "phone": "+91 98842 35007; +91 70104 44528",
+    "website": "https://baseelectricalengg.com/",
+    "sources": [
+      {
+        "url": "https://baseelectricalengg.com/",
+        "claim": "Sole proprietorship, panel manufacture, address, email and phones."
+      }
+    ],
+    "fit_reason": "Inference: Panel building supports a narrow assembly-to-checking SOP question.",
+    "discovery_topic": "Ask whether panel-assembly verification handoff or test-zone entry has a measurable operational cost and can be reliably observed in existing footage.",
+    "operational_usecase": "panel-assembly verification handoff or test-zone entry",
+    "decision_locality": "Local production/business address evidenced; owner's physical presence, purchase authority and approval process unverified.",
+    "adoption_signals": "No specific technology-adoption evidence established.",
+    "caveat": "Business also performs site electrical work; confirm local shop manufacturing scale. Public business contact; deliverability not tested. CCTV availability, need, budget, buying speed and willingness to pay unknown.",
+    "operational_contact": null,
+    "verified_date": "2026-09-15"
+  },
+  {
+    "name": "J-Tech Instruments",
+    "city": "Perungudi",
+    "region": "Chennai metro and adjoining industrial belt",
+    "sector": "Electronics and laboratory equipment",
+    "products": "Educational electrical, instrumentation and testing equipment",
+    "factory_evidence": "Official site states own manufacturing operations at106 Burma Colony near Water Tank, Perungudi600096.",
+    "leadership": "John Wesily — owner named by GST-data mirror.",
+    "ownership_evidence": "Official site says sole proprietor; Pice matches exact site GST33AZRPJ1748G1Z8 and address to legal owner John Wesily.",
+    "owner_evidence_grade": "qualified",
+    "leadership_confidence": "Qualified source or founder/family evidence; do not treat as proven present ownership.",
+    "email": "jtechinstruments@gmail.com",
+    "email_type": "Official generic business mailbox",
+    "phone": "+91 94983 76334; +91 98658 64366",
+    "website": "https://www.jtechinstruments.in/",
+    "sources": [
+      {
+        "url": "https://www.jtechinstruments.in/contact",
+        "claim": "Manufacturing, sole-proprietor status, GST, location and contacts."
+      },
+      {
+        "url": "https://piceapp.com/gst-number-search/j-tech-instruments-33azrpj1748g1z8/",
+        "claim": "Secondary GST mirror dated19Feb2026 identifies legal proprietor John Wesily."
+      }
+    ],
+    "fit_reason": "Inference: Equipment assembly/testing supports defined completion and station-readiness discovery.",
+    "discovery_topic": "Ask whether assembly-to-functional-test handoff has a measurable operational cost and can be reliably observed in existing footage.",
+    "operational_usecase": "assembly-to-functional-test handoff",
+    "decision_locality": "Local production/business address evidenced; owner's physical presence, purchase authority and approval process unverified.",
+    "adoption_signals": "Site offers robotics, PLC, embedded and IoT lab equipment; this is product knowledge, not internal AI adoption.",
+    "caveat": "Owner name is secondary-record evidence. Confirm manufacturing versus resale mix. Public business contact; deliverability not tested. CCTV availability, need, budget, buying speed and willingness to pay unknown.",
+    "operational_contact": null,
+    "verified_date": "2026-09-15"
+  },
+  {
+    "name": "R S Manufacturing",
+    "city": "Ekkaduthangal, Guindy",
+    "region": "Chennai metro and adjoining industrial belt",
+    "sector": "Labels and paper conversion",
+    "products": "Barcode labels, stickers and security labels",
+    "factory_evidence": "Official page explicitly lists factory PK5 ThirdCross SIDCO Industrial Estate, Ekkaduthangal600032.",
+    "leadership": "Siva — page describes supervision and proprietor experience; exact linkage qualified.",
+    "ownership_evidence": "Official prose connects Mr Siva's supervision with proprietor experience but does not provide a clean legal ownership statement.",
+    "owner_evidence_grade": "qualified",
+    "leadership_confidence": "Qualified source or founder/family evidence; do not treat as proven present ownership.",
+    "email": "siva@rsmanufacturing.in",
+    "email_type": "Official named business contact",
+    "phone": "+91 94421 91939",
+    "website": "https://sites.google.com/rsmanufacturing.in/rsmanufacturing/",
+    "sources": [
+      {
+        "url": "https://sites.google.com/rsmanufacturing.in/rsmanufacturing/about-us",
+        "claim": "Factory, products, proprietor-related narrative and named emails/phones."
+      }
+    ],
+    "fit_reason": "Inference: Label conversion offers a concrete print/finish/dispatch checkpoint conversation.",
+    "discovery_topic": "Ask whether label-production-to-dispatch handoff has a measurable operational cost and can be reliably observed in existing footage.",
+    "operational_usecase": "label-production-to-dispatch handoff",
+    "decision_locality": "Local production/business address evidenced; owner's physical presence, purchase authority and approval process unverified.",
+    "adoption_signals": "Manufactures barcode/security labels; no internal digital adoption established.",
+    "caveat": "Clarify whether Siva or another named contact legally owns business. Public business contact; deliverability not tested. CCTV availability, need, budget, buying speed and willingness to pay unknown.",
+    "operational_contact": "R Anbazhagan: anbu@rsmanufacturing.in, +919443744933; T Vidya: vidya@rsmanufacturing.in, +919442644932. Roles not specified.",
+    "verified_date": "2026-09-15"
+  },
+  {
+    "name": "JP Electricals",
+    "city": "Pozhichalur",
+    "region": "Chennai metro and adjoining industrial belt",
+    "sector": "Electrical equipment",
+    "products": "Manufactured control panels and switchboards",
+    "factory_evidence": "Official site describes manufacturing control panels alongside electrical contracting;41 Balaji Nagar, Duraikannu1stStreet, Pozhichalur600074.",
+    "leadership": "A Anthony — owner.",
+    "ownership_evidence": "Official about footer explicitly says company is owned by A Anthony; proprietor-firm description also present.",
+    "owner_evidence_grade": "strong",
+    "leadership_confidence": "Official business source explicitly states ownership/proprietorship; current authority still requires confirmation.",
+    "email": "jpelectrical2001@gmail.com",
+    "email_type": "Official generic business mailbox",
+    "phone": "+91 86101 88119; +91 96002 04358",
+    "website": "https://jpelectricals.co.in/",
+    "sources": [
+      {
+        "url": "https://jpelectricals.co.in/",
+        "claim": "Explicit owner, panel manufacturing, location and contacts."
+      }
+    ],
+    "fit_reason": "Inference: Technically led panel manufacture supports focused assembly/test evidence questions.",
+    "discovery_topic": "Ask whether panel-build completion or controlled test-area entry has a measurable operational cost and can be reliably observed in existing footage.",
+    "operational_usecase": "panel-build completion or controlled test-area entry",
+    "decision_locality": "Local production/business address evidenced; owner's physical presence, purchase authority and approval process unverified.",
+    "adoption_signals": "No specific internal technology-adoption evidence established.",
+    "caveat": "Contracting/trading also significant; verify local production-floor scope. Public business contact; deliverability not tested. CCTV availability, need, budget, buying speed and willingness to pay unknown.",
+    "operational_contact": null,
+    "verified_date": "2026-09-15"
+  },
+  {
+    "name": "NFS Valves India Corporation",
+    "city": "Thirumullaivoyal",
+    "region": "Chennai metro and adjoining industrial belt",
+    "sector": "Valves and pumps",
+    "products": "Speciality valves and centrifugal pumps",
+    "factory_evidence": "Official site lists own pattern/machine shop, assembly tables and hydro/pneumatic testing;134 Ganapathy Nagar, Cholambedu MainRoad600062.",
+    "leadership": "S Vincent — Proprietor.",
+    "ownership_evidence": "Official about page explicitly names proprietor.",
+    "owner_evidence_grade": "strong",
+    "leadership_confidence": "Official business source explicitly states ownership/proprietorship; current authority still requires confirmation.",
+    "email": "nfsvalves@gmail.com",
+    "email_type": "Official generic business mailbox",
+    "phone": "+91 80721 44014; +91 72999 98617",
+    "website": "https://nfsvalves.co.in/",
+    "sources": [
+      {
+        "url": "https://nfsvalves.co.in/about.html",
+        "claim": "Proprietor, own machining/assembly/testing facilities, address and contacts."
+      }
+    ],
+    "fit_reason": "Inference: Distinct valve assembly and testing steps support a narrow SOP-completion discovery.",
+    "discovery_topic": "Ask whether assembly-to-hydrotest handoff or testing-area access has a measurable operational cost and can be reliably observed in existing footage.",
+    "operational_usecase": "assembly-to-hydrotest handoff or testing-area access",
+    "decision_locality": "Local production/business address evidenced; owner's physical presence, purchase authority and approval process unverified.",
+    "adoption_signals": "Site states use of latest design software and in-house testing.",
+    "caveat": "Foundry casting is outsourced; do not pitch this as an owned foundry. Public business contact; deliverability not tested. CCTV availability, need, budget, buying speed and willingness to pay unknown.",
+    "operational_contact": null,
+    "verified_date": "2026-09-15"
+  },
+  {
+    "name": "VRM Polymers",
+    "city": "Chrompet",
+    "region": "Chennai metro and adjoining industrial belt",
+    "sector": "Plastic containers",
+    "products": "50–1000ml plastic containers",
+    "factory_evidence": "Official site describes manufacturing facility;5/73 CrossStreet, Sripuram, ThirumalaiRoad, Chrompet600044.",
+    "leadership": "Arul — Proprietor.",
+    "ownership_evidence": "Official page explicitly states sole-proprietor venture and identifies Arul.",
+    "owner_evidence_grade": "strong",
+    "leadership_confidence": "Official business source explicitly states ownership/proprietorship; current authority still requires confirmation.",
+    "email": "vrmpolymers2@gmail.com",
+    "email_type": "Official generic business mailbox",
+    "phone": "+91 99405 96175; +91 74189 11125",
+    "website": "https://www.vrmpolymers.com/",
+    "sources": [
+      {
+        "url": "https://www.vrmpolymers.com/",
+        "claim": "Proprietor, container production facility, address, email and phones."
+      }
+    ],
+    "fit_reason": "Inference: Repeat container production offers packing/station-coverage questions.",
+    "discovery_topic": "Ask whether container-finishing-to-packing handoff has a measurable operational cost and can be reliably observed in existing footage.",
+    "operational_usecase": "container-finishing-to-packing handoff",
+    "decision_locality": "Local production/business address evidenced; owner's physical presence, purchase authority and approval process unverified.",
+    "adoption_signals": "Site claims manufacturing machinery but gives no verified specific automation adoption.",
+    "caveat": "Also trades/wholesales; exact manufacturing process and current capacity unverified. Public business contact; deliverability not tested. CCTV availability, need, budget, buying speed and willingness to pay unknown.",
+    "operational_contact": null,
+    "verified_date": "2026-09-15"
+  },
+  {
+    "name": "Engineers India (Ambattur precision machining)",
+    "city": "Ambattur",
+    "region": "Chennai metro and adjoining industrial belt",
+    "sector": "Precision machining",
+    "products": "Automotive/industrial CNC-machined components",
+    "factory_evidence": "Official site labels factory A14 1stCross, Balaji Nagar, Ambattur600053 and lists VMC equipment.",
+    "leadership": "Uthayakumar — Proprietor.",
+    "ownership_evidence": "Official factory-contact section explicitly names proprietor; professional profile associates Uthayakumar Shanmugam with business.",
+    "owner_evidence_grade": "strong",
+    "leadership_confidence": "Official business source explicitly states ownership/proprietorship; current authority still requires confirmation.",
+    "email": "info@engineersindia.in",
+    "email_type": "Official generic mailbox decoded from site's public Cloudflare email markup",
+    "phone": "+91 91504 00011",
+    "website": "https://www.engineersindia.in/",
+    "sources": [
+      {
+        "url": "https://www.engineersindia.in/",
+        "claim": "Proprietor, factory, VMC machining and published encoded mailbox."
+      },
+      {
+        "url": "https://in.linkedin.com/in/uthayakumar-shanmugam-77b43219",
+        "claim": "Direct professional affiliation with precision-machining firm."
+      }
+    ],
+    "fit_reason": "Inference: CNC production supports discovery of ready-to-run station gaps and job handoffs.",
+    "discovery_topic": "Ask whether CNC-job handoff delay or agreed ready-to-run station absence has a measurable operational cost and can be reliably observed in existing footage.",
+    "operational_usecase": "CNC-job handoff delay or agreed ready-to-run station absence",
+    "decision_locality": "Local production/business address evidenced; owner's physical presence, purchase authority and approval process unverified.",
+    "adoption_signals": "Site specifies BFW VMC and CNC capabilities; do not confuse this with AI adoption.",
+    "caveat": "Entirely separate from listed Engineers India Ltd. Some third-party databases wrongly merge them. Public business contact; deliverability not tested. CCTV availability, need, budget, buying speed and willingness to pay unknown.",
+    "operational_contact": null,
+    "verified_date": "2026-09-15"
+  },
+  {
+    "name": "Paramasivam Kitchen Equipments",
+    "city": "Ekkattuthangal",
+    "region": "Chennai metro and adjoining industrial belt",
+    "sector": "Commercial kitchen equipment",
+    "products": "Bakery and cooking equipment",
+    "factory_evidence": "Official site states kitchen-equipment manufacture;67 Tiny Sector, Ekkattuthangal600097.",
+    "leadership": "Babu — Proprietor.",
+    "ownership_evidence": "Official contact page explicitly names proprietor Babu.",
+    "owner_evidence_grade": "strong",
+    "leadership_confidence": "Official business source explicitly states ownership/proprietorship; current authority still requires confirmation.",
+    "email": "paramasivamkitchenequipment@gmail.com",
+    "email_type": "Official generic mailbox decoded from public site email markup",
+    "phone": "+91 80560 81088; +91 95001 18828",
+    "website": "https://www.paramasivamkitchenequipments.com/",
+    "sources": [
+      {
+        "url": "https://www.paramasivamkitchenequipments.com/contact-us/",
+        "claim": "Proprietor, equipment manufacturing, address, phone and published encoded email."
+      }
+    ],
+    "fit_reason": "Inference: Kitchen-equipment fabrication supports practical workshop handoff and assembly-completion discovery.",
+    "discovery_topic": "Ask whether equipment assembly handoff or fabrication-zone access has a measurable operational cost and can be reliably observed in existing footage.",
+    "operational_usecase": "equipment assembly handoff or fabrication-zone access",
+    "decision_locality": "Local production/business address evidenced; owner's physical presence, purchase authority and approval process unverified.",
+    "adoption_signals": "No specific internal technology-adoption evidence established.",
+    "caveat": "Exact shopfloor process and scale require confirmation. Public business contact; deliverability not tested. CCTV availability, need, budget, buying speed and willingness to pay unknown.",
+    "operational_contact": null,
+    "verified_date": "2026-09-15"
+  },
+  {
+    "name": "Dhruv Comfort Seating",
+    "city": "Kodungaiyur",
+    "region": "Chennai metro and adjoining industrial belt",
+    "sector": "Furniture",
+    "products": "Office/commercial chairs, sofas and tables",
+    "factory_evidence": "Official site describes own furniture manufacture and finished-product testing;5 ThoppaiVinayagarStreet, ABlock EzhilNagar600118.",
+    "leadership": "Sunil Arya — Founder and MD.",
+    "ownership_evidence": "Official homepage identifies founder, beyond MD title; present shareholding not published.",
+    "owner_evidence_grade": "qualified",
+    "leadership_confidence": "Qualified source or founder/family evidence; do not treat as proven present ownership.",
+    "email": "dcs_chairs@yahoo.com",
+    "email_type": "Official generic business mailbox",
+    "phone": "+91 99401 80244",
+    "website": "https://www.dhruvcomfortseating.net/",
+    "sources": [
+      {
+        "url": "https://www.dhruvcomfortseating.net/",
+        "claim": "Founder/MD, manufacturing, address and contacts."
+      },
+      {
+        "url": "https://www.dhruvcomfortseating.net/about.html",
+        "claim": "Furniture manufacture and finished-product inspections."
+      }
+    ],
+    "fit_reason": "Inference: Chair assembly/finishing supports a production-completion discussion.",
+    "discovery_topic": "Ask whether chair-assembly-to-final-inspection handoff has a measurable operational cost and can be reliably observed in existing footage.",
+    "operational_usecase": "chair-assembly-to-final-inspection handoff",
+    "decision_locality": "Local production/business address evidenced; owner's physical presence, purchase authority and approval process unverified.",
+    "adoption_signals": "Site describes product-design team and quality inspections; no specific digital adoption established.",
+    "caveat": "Founder is not proof of current ownership. Do not use site's inconsistent marketing counters as scale evidence. Public business contact; deliverability not tested. CCTV availability, need, budget, buying speed and willingness to pay unknown.",
+    "operational_contact": null,
+    "verified_date": "2026-09-15"
+  },
+  {
+    "name": "Shahi Foods",
+    "city": "Thiruvallur district; Chennai office",
+    "region": "Chennai metro and adjoining industrial belt",
+    "sector": "Food processing",
+    "products": "Appalam, papad and poppadums",
+    "factory_evidence": "Official about page says factory in own premises in Thiruvallur district; contact office G2 AshaVijay Apartments, Koyambedu600092.",
+    "leadership": "Founder Kader Ahmed Khan; another paragraph renders D K Ahmed Khan.",
+    "ownership_evidence": "Official founder history supports founder-led origin only; present ownership/current title unverified.",
+    "owner_evidence_grade": "qualified",
+    "leadership_confidence": "Qualified source or founder/family evidence; do not treat as proven present ownership.",
+    "email": "info@shahifoodproducts.com",
+    "email_type": "Official generic business mailbox",
+    "phone": "+91 93800 07027; +91 44 35729796",
+    "website": "https://www.shahifoodproducts.com/",
+    "sources": [
+      {
+        "url": "https://www.shahifoodproducts.com/about-us.html",
+        "claim": "Founder name variants, owned local factory, manufacturing, quality audits and contacts."
+      }
+    ],
+    "fit_reason": "Inference: Appalam production and packing support discovery around defined hygiene/packing checks.",
+    "discovery_topic": "Ask whether packing coverage or a defined hygiene-entry step has a measurable operational cost and can be reliably observed in existing footage.",
+    "operational_usecase": "packing coverage or a defined hygiene-entry step",
+    "decision_locality": "Local production/business address evidenced; owner's physical presence, purchase authority and approval process unverified.",
+    "adoption_signals": "Site describes buyer laboratory reports and annual quality audits.",
+    "caveat": "Factory street address unresolved; contact address is office. Founder name variants/current ownership need confirmation. Public business contact; deliverability not tested. CCTV availability, need, budget, buying speed and willingness to pay unknown.",
+    "operational_contact": null,
+    "verified_date": "2026-09-15"
+  },
+  {
+    "name": "Harshal Printing & Packaging",
+    "city": "Madhavaram",
+    "region": "Chennai metro and adjoining industrial belt",
+    "sector": "Printing and packaging",
+    "products": "Printed and converted paper packaging",
+    "factory_evidence": "Tamil Nadu Boiler Directorate lists factory at6&7 KannabiramanKoilStreet, Kanagachatram, Madhavaram600060 as of31Mar2023.",
+    "leadership": "Prashanth Shah on company letterhead; D&B lists Prashant Shantilal Shah as proprietor.",
+    "ownership_evidence": "Company-signed institutional internship letter explicitly identifies proprietor; corroborated by D&B.",
+    "owner_evidence_grade": "qualified",
+    "leadership_confidence": "Qualified source or founder/family evidence; do not treat as proven present ownership.",
+    "email": "hppchennai@gmail.com",
+    "email_type": "Business email on company letterhead published by Guru Nanak College",
+    "phone": "+91 44 26447784",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://gurunanakcollege.edu.in/files-new/dvv/criterion-1/1.3.4-projects-commerce.pdf",
+        "claim": "Company letterhead, proprietor signature, email, phone and factory address."
+      },
+      {
+        "url": "https://boilers.tn.gov.in/pdfs/Boileruser_Firms_ShellType_FY23.pdf",
+        "claim": "Government factory/boiler-user listing at matching Madhavaram address."
+      },
+      {
+        "url": "https://www.dnb.com/business-directory/company-profiles.harshal_printing_packaging.03820f6a580d81260c242a7647e1581b.html",
+        "claim": "Named proprietor and matching manufacturing premises."
+      }
+    ],
+    "fit_reason": "Inference: Paper production with confirmed physical plant supports press-to-finishing discovery.",
+    "discovery_topic": "Ask whether printing-to-finishing handoff or dispatch-area access has a measurable operational cost and can be reliably observed in existing footage.",
+    "operational_usecase": "printing-to-finishing handoff or dispatch-area access",
+    "decision_locality": "Local production/business address evidenced; owner's physical presence, purchase authority and approval process unverified.",
+    "adoption_signals": "Government record evidences installed shell-type boiler; no AI adoption established.",
+    "caveat": "Contact letter appears2021; current email/phone and proprietor tenure require confirmation. No verified current official website. Public business contact; deliverability not tested. CCTV availability, need, budget, buying speed and willingness to pay unknown.",
+    "operational_contact": null,
+    "verified_date": "2026-09-15"
+  },
+  {
+    "region": "Chennai metro and adjoining industrial belt",
+    "owner_evidence_grade": "strong",
+    "leadership_confidence": "Official site explicitly names proprietor; present purchase authority requires confirmation.",
+    "decision_locality": "Chennai manufacturing/business address evidenced; owner's daily presence and approval process not independently confirmed.",
+    "operational_contact": null,
+    "verified_date": "2026-09-15",
+    "name": "Perfect Controls",
+    "city": "West CIT Nagar, Chennai",
+    "sector": "Control instrumentation",
+    "products": "Transformer oil/winding temperature indicators and control instruments",
+    "factory_evidence": "Official site describes owned buildings, mechanical/electronic manufacturing, line assembly and calibration/test facilities;7 NorthRoad, WestCITNagar600035.",
+    "leadership": "M Krishnamurthy — current Proprietor & CEO; K Mahadevan — founder.",
+    "ownership_evidence": "Official site expressly calls M Krishnamurthy current proprietor; ownership claim is separate from CEO title.",
+    "email": "sales@perfectcontrols.com",
+    "email_type": "Official generic sales mailbox",
+    "phone": "+91 98402 14154; +91 44 24330387",
+    "website": "https://www.perfectcontrols.com/",
+    "sources": [
+      {
+        "url": "https://www.perfectcontrols.com/about.html",
+        "claim": "Current proprietor, owned manufacturing facilities, assembly/testing processes and contacts."
+      }
+    ],
+    "fit_reason": "Inference: Defined line-assembly and calibration stages support a clear evidence-of-test/handoff discovery.",
+    "discovery_topic": "Ask whether assembly-to-final-test completion is manually verified and whether video can show a reliable agreed step.",
+    "operational_usecase": "Assembly-to-testing handoff; restricted calibration/test-zone entry.",
+    "adoption_signals": "Site describes calibration/testing equipment and ISO9001:2015 system; no AI purchase intent evidenced.",
+    "caveat": "Site claims not independently factory-audited. Public email; delivery not tested. Current budget, CCTV suitability and buying speed unknown."
+  },
+  {
+    "region": "Chennai metro and adjoining industrial belt",
+    "owner_evidence_grade": "strong",
+    "leadership_confidence": "Official site explicitly names proprietor; present purchase authority requires confirmation.",
+    "decision_locality": "Chennai manufacturing/business address evidenced; owner's daily presence and approval process not independently confirmed.",
+    "operational_contact": null,
+    "verified_date": "2026-09-15",
+    "name": "Electron Coil Technology",
+    "city": "Pallikaranai",
+    "sector": "Transformers and coils",
+    "products": "SMPS, linear/current/control transformers; solenoid and inductor coils",
+    "factory_evidence": "Official site describes in-house manufacturing, coil-winding machines and lamination assembly;14 Rajalakshmi Nagar1stStreet, Pallikaranai600100.",
+    "leadership": "R Umashankar — Proprietor.",
+    "ownership_evidence": "Official homepage repeatedly explicitly calls R Umashankar proprietor.",
+    "email": "ectshankar@gmail.com",
+    "email_type": "Official business mailbox published alongside proprietor-led company details",
+    "phone": "+91 98842 47732; +91 90420 47729",
+    "website": "https://ecttransformers.com/",
+    "sources": [
+      {
+        "url": "https://ecttransformers.com/",
+        "claim": "Proprietor, in-house winding/assembly, manufacturing address and contacts."
+      }
+    ],
+    "fit_reason": "Inference: Repeated coil winding and lamination assembly provide a stronger factory-process discovery than micro food preparation.",
+    "discovery_topic": "Ask whether winding-to-assembly delays or agreed station-ready gaps create measurable loss.",
+    "operational_usecase": "Winding-to-assembly handoff; station readiness.",
+    "adoption_signals": "Site identifies winding machines and investment in R&D facilities; no CCTV/AI adoption evidenced.",
+    "caveat": "Capacity claims are self-reported and not used to infer budget. Public email; delivery not tested. CCTV, need, buying speed and willingness to pay unknown."
+  }
+]

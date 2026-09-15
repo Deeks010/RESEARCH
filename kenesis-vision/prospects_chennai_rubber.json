@@ -1,0 +1,540 @@
+[
+  {
+    "name": "Aristo Rubber Products",
+    "city": "Manapakkam, Chennai",
+    "region": "Chennai metro / surrounding Tamil Nadu industrial belt",
+    "sector": "Rubber",
+    "products": "Industrial rubber components",
+    "factory_evidence": "Official contact page explicitly identifies factory at No.8 Pattammal Street, MGR Nagar, Manapakkam, Chennai 600125.",
+    "leadership": "Site lists K. Vasantha Kumar as Managing Director.",
+    "leadership_confidence": "Official site lists the stated person/role; present employment and buying authority not independently confirmed.",
+    "operational_contact": "Site lists V. Vignesh Vasanth, Development Manager; vignesh05aristo@gmail.com; +91 91761 42779. Development role, not verified plant manager.",
+    "email": "vasanth@aristorubberproducts.com",
+    "email_type": "Official named MD business email",
+    "phone": "+91 97899 92577",
+    "website": "https://www.aristorubberproducts.com/",
+    "sources": [
+      {
+        "url": "https://www.aristorubberproducts.com/contact-us",
+        "claim": "Factory address; MD name, email and phone; development manager."
+      }
+    ],
+    "fit_reason": "Inference: MD-accessible rubber-component factory makes a narrow station-coverage discovery practical; camera coverage still needs inspection.",
+    "discovery_topic": "Ask whether timely alerts for an agreed unattended production station would help shift supervision.",
+    "caveat": "Manufacturing and contact facts are website claims, not site-visit verification. Existing CCTV, need, budget and willingness to pay are unknown. Public business email only; deliverability not tested.",
+    "verified_date": "2026-09-15"
+  },
+  {
+    "name": "Abirami Rubber",
+    "city": "Athipet, Ambattur, Chennai",
+    "region": "Chennai metro / surrounding Tamil Nadu industrial belt",
+    "sector": "Rubber",
+    "products": "Rubber lining, rollers, expansion joints, bellows and moulded components",
+    "factory_evidence": "Official site lists industrial rubber manufacture at Plot 11 Sri Ganesh Street, Athipet Industrial Estate, Chennai 600058.",
+    "leadership": "Site lists T. Moorthy as Chief Executive.",
+    "leadership_confidence": "Official site lists the stated person/role; present employment and buying authority not independently confirmed.",
+    "operational_contact": null,
+    "email": "abiramirubber@gmail.com",
+    "email_type": "Official generic business email",
+    "phone": "+91 98841 35244; +91 98419 24199; +91 99414 53975",
+    "website": "https://www.abiramirubber.com/",
+    "sources": [
+      {
+        "url": "https://www.abiramirubber.com/contact.php",
+        "claim": "Chief Executive, manufacturing products, industrial-estate address, email and phones."
+      }
+    ],
+    "fit_reason": "Inference: Rubber lining, roller work and moulded components offer concrete finishing/handoff questions for the Chief Executive.",
+    "discovery_topic": "Ask which lining or finishing handoffs need manual supervisor checks and whether camera-visible steps can be defined.",
+    "caveat": "Manufacturing and contact facts are website claims, not site-visit verification. Existing CCTV, need, budget and willingness to pay are unknown. Public business email only; deliverability not tested.",
+    "verified_date": "2026-09-15"
+  },
+  {
+    "name": "Delux Rubber Industries",
+    "city": "Vallam Vadagal, Sriperumbudur",
+    "region": "Chennai metro / surrounding Tamil Nadu industrial belt",
+    "sector": "Rubber",
+    "products": "Automotive and rail rubber parts; seals, bellows, gaskets and flexible couplings",
+    "factory_evidence": "Site explicitly locates manufacturing unit at G55/2 A&B1, Vallam Vadagal, SIPCOT Industrial Park, Sriperumbudur, Kanchipuram 602105.",
+    "leadership": "Sri Venkateswara College of Engineering & Technology's published MoU identifies S. Anand as Managing Partner of Delux Rubber Industries at the matching Vallam Vadagal SIPCOT plant.",
+    "leadership_confidence": "Medium: institutional counterparty document supports person and plant match. MoU date not established; current tenure unconfirmed. Signature designation also says Chief Executive Officer, so exact current title needs confirmation.",
+    "operational_contact": null,
+    "email": "info@deluxrubber.com",
+    "email_type": "Official generic business email",
+    "phone": "+91 98410 56504; +91 98416 87225",
+    "website": "https://www.deluxrubber.com/",
+    "sources": [
+      {
+        "url": "https://www.deluxrubber.com/contact.php",
+        "claim": "Manufacturing-unit address, email and telephone."
+      },
+      {
+        "url": "https://www.deluxrubber.com/aboutus.php",
+        "claim": "Industrial rubber manufacture and product range."
+      },
+      {
+        "url": "https://sriventech.ac.in/assets/naac/6.2.1/MOU.pdf",
+        "claim": "Institutional MoU names S. Anand as Managing Partner at matching Delux plant; signature block uses CEO."
+      }
+    ],
+    "fit_reason": "Inference: Automotive and rail rubber parts suggest repeat production and finishing checks worth quantifying with plant management.",
+    "discovery_topic": "Ask whether moulding-to-finishing station coverage or restricted production-area entry creates measurable supervisor work.",
+    "caveat": "Do not confuse this Chennai Delux with similarly named firms elsewhere. Manufacturing and contact facts are website claims, not site-visit verification. Existing CCTV, need, budget and willingness to pay are unknown. Public business email only; deliverability not tested.",
+    "verified_date": "2026-09-15"
+  },
+  {
+    "name": "Alnoor Rubber Products",
+    "city": "Ambattur, Chennai",
+    "region": "Chennai metro / surrounding Tamil Nadu industrial belt",
+    "sector": "Rubber",
+    "products": "Industrial rubber components across silicone, neoprene, nitrile, EPDM and other compounds",
+    "factory_evidence": "Official manufacturer contact page lists SS20, SIDCO Industrial Estate, Ambattur, Chennai 600098 and processed rubber materials.",
+    "leadership": "No named current leader verified in reviewed official pages.",
+    "leadership_confidence": "Unknown; do not infer leadership from an email address.",
+    "operational_contact": null,
+    "email": "alnoorrubber@rediffmail.com",
+    "email_type": "Official generic business email",
+    "phone": "+91 90030 79916; +91 90030 88606; +91 99402 52349",
+    "website": "https://alnoorrubberproducts.com/",
+    "sources": [
+      {
+        "url": "https://alnoorrubberproducts.com/contact.html",
+        "claim": "Manufacturer description, materials, site address, email and phones."
+      }
+    ],
+    "fit_reason": "Inference: Multiple rubber compounds and industrial components justify asking about production-zone access and moulding supervision.",
+    "discovery_topic": "Ask whether mixing or moulding work zones have a clearly defined access rule that existing cameras can observe.",
+    "caveat": "Factory size and detailed process layout need confirmation. Manufacturing and contact facts are website claims, not site-visit verification. Existing CCTV, need, budget and willingness to pay are unknown. Public business email only; deliverability not tested.",
+    "verified_date": "2026-09-15"
+  },
+  {
+    "name": "Madura Rubber",
+    "city": "Ambattur, Chennai",
+    "region": "Chennai metro / surrounding Tamil Nadu industrial belt",
+    "sector": "Rubber",
+    "products": "O-rings, gaskets, grommets, diaphragms and seals",
+    "factory_evidence": "Official site describes 5,000 sq ft factory at No.229 SIDCO Industrial Estate, 9th Cross, North Phase, Ambattur 600098; mixing, moulding, post-curing, deflashing, visual inspection and packing.",
+    "leadership": "Vijayakumar's public professional profile identifies Madurarubber and self-describes proprietor (spelled 'Propartor'), January 2015–present.",
+    "leadership_confidence": "Medium-low: direct self-reported profile with 2026 professional activity; legal name, ownership and present decision authority not independently verified.",
+    "operational_contact": null,
+    "email": "madurarubber@yahoo.in",
+    "email_type": "Official generic business email",
+    "phone": "+91 94457 38568; +91 44 42194031",
+    "website": "https://madurarubber.in/",
+    "sources": [
+      {
+        "url": "https://madurarubber.in/about.html",
+        "claim": "Factory, manufacturing flow, email and telephone."
+      },
+      {
+        "url": "https://www.madurarubber.in/products.html",
+        "claim": "Rubber product range."
+      },
+      {
+        "url": "https://in.linkedin.com/in/madurarubber-vijayakumar-364502120",
+        "claim": "Self-described proprietor/company affiliation; public activity references India Rubber Expo 2026."
+      }
+    ],
+    "fit_reason": "Inference: Documented post-curing, deflashing and inspection sequence supports a focused handoff-delay discovery.",
+    "discovery_topic": "Ask whether delays between post-curing, deflashing and inspection are recorded today and which transition is visibly measurable.",
+    "caveat": "Vijayakumar is a qualified self-reported lead, not company-site-verified leadership. Manufacturing and contact facts are website claims, not site-visit verification. Existing CCTV, need, budget and willingness to pay are unknown. Public business email only; deliverability not tested.",
+    "verified_date": "2026-09-15"
+  },
+  {
+    "name": "Nandhini Rubber Private Limited",
+    "city": "Pudhuper, Kundrathur–Sriperumbudur corridor",
+    "region": "Chennai metro / surrounding Tamil Nadu industrial belt",
+    "sector": "Rubber",
+    "products": "Dampers, gaskets, bellows, grommets, seals and valve liners",
+    "factory_evidence": "Site describes automatic hydraulic presses, batching and in-house lab at No.102 Kundrathur–Sriperumbudhur Main Road, Pudhuper Village, Nandambakkam Post, Chennai 600069.",
+    "leadership": "ZaubaCorp lists Ashok Ganesh Kumar and Nandhini Ashok as directors (as-on 13 July 2026). Vignesh Ashok's public professional profile associates him with the company and describes Marketing Director experience.",
+    "leadership_confidence": "Medium: secondary corporate-data directors, corroborated by D&B for Nandhini Ashok and company website identity; marketing role self-reported. No ownership/budget authority inferred.",
+    "operational_contact": null,
+    "email": "ashok@nandhinirubber.com",
+    "email_type": "Official published individual-style business email; person's full name and role unverified",
+    "phone": "+91 98407 92211",
+    "website": "https://nandhinirubber.com/",
+    "sources": [
+      {
+        "url": "https://nandhinirubber.com/",
+        "claim": "Manufacturing processes, location and published contact."
+      },
+      {
+        "url": "https://nandhinirubber.com/contactus.php",
+        "claim": "Full address, phone and email."
+      },
+      {
+        "url": "https://www.zaubacorp.com/NANDHINI-RUBBER-PRIVATE-LIMITED-U25209TN2017PTC115724",
+        "claim": "Directors and as-on date; secondary corporate-record mirror."
+      },
+      {
+        "url": "https://www.dnb.com/business-directory/company-profiles.nandhini_rubber_private_limited.b2dfe63b2e6b26a20feb9fff0694e153.html",
+        "claim": "Nandhini Ashok listed as director; explicitly links nandhinirubber.com."
+      },
+      {
+        "url": "https://in.linkedin.com/in/va95",
+        "claim": "Vignesh Ashok's self-reported company affiliation and Marketing Director description."
+      }
+    ],
+    "fit_reason": "Inference: Hydraulic presses and batching support discovery around operator readiness and planned versus unexpected station absence.",
+    "discovery_topic": "Ask whether an agreed ready-to-run station absence event is valuable on hydraulic press lines.",
+    "caveat": "Do not infer Ashok's full identity or leadership from mailbox. Undated turnover and future machinery plans excluded. Manufacturing and contact facts are website claims, not site-visit verification. Existing CCTV, need, budget and willingness to pay are unknown. Public business email only; deliverability not tested.",
+    "verified_date": "2026-09-15"
+  },
+  {
+    "name": "Rekha Rubber Products",
+    "city": "Perungudi, Chennai",
+    "region": "Chennai metro / surrounding Tamil Nadu industrial belt",
+    "sector": "Rubber and polymer",
+    "products": "Bellows, bushes, seals, bonded rubber components and control-cable subassemblies",
+    "factory_evidence": "Official contact page explicitly labels factory at 31 & 32 P.M. Muthu Complex, Corporation Road, Saravananagar, Perungudi 600096.",
+    "leadership": "Karunanithi is named for Rekha Rubber Products in the MSME ministry's 11 April 2025 sanction order. Public profile names Karunanithi K M at Rekha Rubber. TradeIndia lists Mr Karunanithi as proprietor.",
+    "leadership_confidence": "Medium: official government business/person match with same registered address and phone; proprietor role comes from secondary seller directory, not the ministry record.",
+    "operational_contact": null,
+    "email": "sales@rekharubber.com",
+    "email_type": "Official generic sales email",
+    "phone": "+91 96770 29700; +91 94444 62215",
+    "website": "https://www.rekharubber.com/",
+    "sources": [
+      {
+        "url": "https://www.rekharubber.com/contact.php",
+        "claim": "Factory address, business emails and phones."
+      },
+      {
+        "url": "https://www.rekharubber.com/",
+        "claim": "Manufactured products and in-line/post-production quality checks."
+      },
+      {
+        "url": "https://www.dcmsme.gov.in/CLCS_TUS_Scheme/PMS/s/Sanction-Order-date-11-04-2025.pdf",
+        "claim": "Government record links Karunanithi to Rekha Rubber, matching registered address, phone and existing official generic email."
+      },
+      {
+        "url": "https://in.linkedin.com/in/karunanithi-rekharubber",
+        "claim": "Direct public professional profile associates Karunanithi K M with Rekha Rubber."
+      },
+      {
+        "url": "https://www.tradeindia.com/rekha-rubber-products-2286917/",
+        "claim": "Seller directory lists Mr Karunanithi as proprietor; undated role evidence."
+      }
+    ],
+    "fit_reason": "Inference: Bonded components and control-cable subassemblies offer a specific assembly/inspection SOP discovery.",
+    "discovery_topic": "Ask which assembly or inspection step has a visible completion action suitable for a small SOP-check trial.",
+    "caveat": "Website displays inconsistent workforce counters; no employee-size claim used. Manufacturing and contact facts are website claims, not site-visit verification. Existing CCTV, need, budget and willingness to pay are unknown. Public business email only; deliverability not tested.",
+    "verified_date": "2026-09-15"
+  },
+  {
+    "name": "LDS Rubber Tech (Chennai) Pvt Ltd",
+    "city": "Thandalam, Sriperumbudur",
+    "region": "Chennai metro / surrounding Tamil Nadu industrial belt",
+    "sector": "Rubber and plastics",
+    "products": "Moulded/extruded rubber and plastic components; L-plate and oil-filter assemblies",
+    "factory_evidence": "Site places manufacturer at No.55 Thandalam Village, Bangalore High Road, Sriperumbudur, Kancheepuram 602105; lists mixing mill, presses, injection moulding, ultrasonic welding and leak testing.",
+    "leadership": "No named current leader verified in reviewed official pages.",
+    "leadership_confidence": "Unknown; do not infer leadership from an email address.",
+    "operational_contact": null,
+    "email": "info@ldsrubbertech.com",
+    "email_type": "Official generic business email",
+    "phone": null,
+    "website": "https://ldsrubbertech.com/",
+    "sources": [
+      {
+        "url": "https://ldsrubbertech.com/",
+        "claim": "Manufacturing location, equipment, product range and official email."
+      }
+    ],
+    "fit_reason": "Inference: Mixing, moulding, welding and leak testing create distinct process handoffs to investigate before choosing a camera use case.",
+    "discovery_topic": "Ask whether welding-to-leak-test sequencing needs evidence and whether each step is visible in existing footage.",
+    "caveat": "Official contact/team subpages failed to load. No official phone or named leader verified. Manufacturing and contact facts are website claims, not site-visit verification. Existing CCTV, need, budget and willingness to pay are unknown. Public business email only; deliverability not tested.",
+    "verified_date": "2026-09-15"
+  },
+  {
+    "name": "Sri Sai Rubber Products Pvt Ltd",
+    "city": "Athipet, Chennai",
+    "region": "Chennai metro / surrounding Tamil Nadu industrial belt",
+    "sector": "Rubber",
+    "products": "EPDM extruded profiles, sponge extrusions and automotive bellows",
+    "factory_evidence": "Official contact page labels factory and administrative office at 236/1,2 Vanagaram Road, Athipet 600058. Homepage confirms extrusion and moulded-product manufacture.",
+    "leadership": "Site lists R. Ramachandran as CEO.",
+    "leadership_confidence": "Official site lists the stated person/role; present employment and buying authority not independently confirmed.",
+    "operational_contact": null,
+    "email": "ssrppl@yahoo.co.in",
+    "email_type": "Official generic business email",
+    "phone": "+91 98410 23299; +91 44 26880997",
+    "website": "https://www.sairubber.com/",
+    "sources": [
+      {
+        "url": "https://www.sairubber.com/",
+        "claim": "CEO, extrusion/moulding products, phone and email."
+      },
+      {
+        "url": "https://www.sairubber.com/contactus.html",
+        "claim": "Factory and administrative-office address."
+      }
+    ],
+    "fit_reason": "Inference: EPDM extrusion and automotive bellows support discovery around line coverage and finishing handoffs.",
+    "discovery_topic": "Ask whether extrusion-line coverage and finishing handoffs require supervisor rounds and which event warrants an alert.",
+    "caveat": "Site has a 2016 copyright footer; role/contact currentness requires confirmation. Manufacturing and contact facts are website claims, not site-visit verification. Existing CCTV, need, budget and willingness to pay are unknown. Public business email only; deliverability not tested.",
+    "verified_date": "2026-09-15"
+  },
+  {
+    "name": "Innoprime Plast Pvt Ltd",
+    "city": "Thirumudivakkam, Chennai",
+    "region": "Chennai metro / surrounding Tamil Nadu industrial belt",
+    "sector": "Plastics",
+    "products": "Injection-moulded engineering parts and tested assemblies",
+    "factory_evidence": "Official about page describes 11,500 sq ft, 12 injection machines of 80–300 tons, toolroom, insert moulding and assembly/testing; contact address 91/2A1 4th Main, SIDCO Industrial Estate, Chennai 600044.",
+    "leadership": "ZaubaCorp lists Lagumanan Paramasivam Mathan and Vanitha as directors (as-on 13 July 2026). Mathan Paramasivam's direct public professional profile lists Innoprime Plast.",
+    "leadership_confidence": "Medium: secondary corporate record with exact official plant address plus self-reported professional affiliation. Full-name match plausible, not independently proven; current operational authority unconfirmed.",
+    "operational_contact": null,
+    "email": "mathan@innoprime.in",
+    "email_type": "Official published individual-style business email; role unverified",
+    "phone": "+91 98409 14445; +91 44 42630275",
+    "website": "https://innoprime.in/",
+    "sources": [
+      {
+        "url": "https://innoprime.in/ipplabout.html",
+        "claim": "Manufacturing plant, machines and assembly/testing processes."
+      },
+      {
+        "url": "https://innoprime.in/ipplcontact.html",
+        "claim": "Address, business email and phone."
+      },
+      {
+        "url": "https://www.zaubacorp.com/INNOPRIME-PLAST-PRIVATE-LIMITED-U25209TN2020PTC140281",
+        "claim": "Director names, date and matching 91/2A1 SIDCO address."
+      },
+      {
+        "url": "https://in.linkedin.com/in/mathan-paramasivam-362896290",
+        "claim": "Mathan Paramasivam's direct professional profile lists Innoprime Plast and CIPET."
+      }
+    ],
+    "fit_reason": "Inference: Injection machines plus assembly/testing support a narrow assembly-completion or test-handoff pilot discussion.",
+    "discovery_topic": "Ask whether a camera-visible assembly/test handoff or prolonged station absence has an agreed operational cost.",
+    "caveat": "Director evidence is separate from the official mailbox; personal mailbox ownership is not proven. Site's numerical facility claims are self-reported. Manufacturing and contact facts are website claims, not site-visit verification. Existing CCTV, need, budget and willingness to pay are unknown. Public business email only; deliverability not tested.",
+    "verified_date": "2026-09-15"
+  },
+  {
+    "name": "Polycraft Mouldings",
+    "city": "Ekkaduthangal, Chennai",
+    "region": "Chennai metro / surrounding Tamil Nadu industrial belt",
+    "sector": "Rubber and plastics",
+    "products": "Injection/blow-moulded automotive and appliance parts; rubber seals and grommets",
+    "factory_evidence": "Official profile describes a 5,000 sq ft production area and injection, blow and rubber moulding; listed premises 6/13 Ganapathy Nagar 1st Street and 34 Pillayar Koil 4th Street, Ekkaduthangal 600032.",
+    "leadership": "No named current leader verified in reviewed official pages.",
+    "leadership_confidence": "Unknown; do not infer leadership from an email address.",
+    "operational_contact": null,
+    "email": "contactus@polycraft.co.in",
+    "email_type": "Official generic business email",
+    "phone": "+91 98401 18867; +91 98406 03506; +91 44 22250706",
+    "website": "https://www.polycraft.co.in/",
+    "sources": [
+      {
+        "url": "https://www.polycraft.co.in/profile/",
+        "claim": "Production area, processes and products."
+      },
+      {
+        "url": "https://www.polycraft.co.in/contact-us/",
+        "claim": "Premises addresses, email and phones."
+      }
+    ],
+    "fit_reason": "Inference: Mixed plastic/rubber moulding and appliance components support questions about finishing-station coverage.",
+    "discovery_topic": "Ask which moulding or finishing area has a reliable station-coverage rule that supervisors currently check.",
+    "caveat": "Confirm which listed premises hosts production before visiting. Manufacturing and contact facts are website claims, not site-visit verification. Existing CCTV, need, budget and willingness to pay are unknown. Public business email only; deliverability not tested.",
+    "verified_date": "2026-09-15"
+  },
+  {
+    "name": "Precyz Polymers Pvt Ltd",
+    "city": "Thirumudivakkam, Chennai",
+    "region": "Chennai metro / surrounding Tamil Nadu industrial belt",
+    "sector": "Plastics",
+    "products": "Injection-moulded automotive, engineering and consumer-product components",
+    "factory_evidence": "Official site places toolroom and injection-moulding division at Plot164 SIDCO Industrial Estate, Thirumudivakkam 600044.",
+    "leadership": "IndiaFilings lists Reddygunta Ekambaram Balaji and Balaji Poornima in director/signatory details, updated 18 February 2026.",
+    "leadership_confidence": "Medium-low: secondary MCA-record mirror only; no company-site or direct professional leadership corroboration found. These are directors, not confirmed owners or operational decision-makers.",
+    "operational_contact": null,
+    "email": "precyz.operation@gmail.com",
+    "email_type": "Official generic operations email",
+    "phone": "+91 98403 99736; +91 44 48599736",
+    "website": "https://precyzpolymers.com/",
+    "sources": [
+      {
+        "url": "https://precyzpolymers.com/index.html",
+        "claim": "Co-located tooling/production, address, email and phone."
+      },
+      {
+        "url": "https://www.indiafilings.com/search/precyz-polymers-private-limited-cin-U25209TN2017PTC117816",
+        "claim": "Dated secondary corporate-record listing of two directors; legal company identity."
+      }
+    ],
+    "fit_reason": "Inference: Co-located toolroom and injection production support discovery around mould-change readiness and production handoffs.",
+    "discovery_topic": "Ask operations which mould-change or production handoff is costly to reconstruct from footage.",
+    "caveat": "Company-site leadership not found. Third-party director names are research leads; direct authority unverified. Manufacturing and contact facts are website claims, not site-visit verification. Existing CCTV, need, budget and willingness to pay are unknown. Public business email only; deliverability not tested.",
+    "verified_date": "2026-09-15"
+  },
+  {
+    "name": "KVMG Moulding Solutions",
+    "city": "Thirumazhisai, Tiruvallur",
+    "region": "Chennai metro / surrounding Tamil Nadu industrial belt",
+    "sector": "Plastics",
+    "products": "Automotive moulded plastic, lighting components and hard-coated products",
+    "factory_evidence": "Official site lists manufacturing and moulding at 155A SIDCO Industrial Estate, Thirumazhisai, Chennai 600124.",
+    "leadership": "No named current leader verified in reviewed official pages.",
+    "leadership_confidence": "Unknown; do not infer leadership from an email address.",
+    "operational_contact": null,
+    "email": "marketing@gmoulding.com",
+    "email_type": "Official generic marketing email",
+    "phone": "+91 98404 42344",
+    "website": "https://kvmgmoulding.com/",
+    "sources": [
+      {
+        "url": "https://kvmgmoulding.com/",
+        "claim": "Manufacturing description, address, email and phone."
+      },
+      {
+        "url": "https://kvmgmoulding.com/about.html",
+        "claim": "Moulding workflow and product focus."
+      }
+    ],
+    "fit_reason": "Inference: Automotive moulding and hard-coated components support a specific moulding-to-coating transfer discussion.",
+    "discovery_topic": "Ask whether moulding-to-coating transfer or restricted-zone access has a repeatable rule visible to cameras.",
+    "caveat": "Do not infer ownership from the separately published v.gopinathan mailbox. Manufacturing and contact facts are website claims, not site-visit verification. Existing CCTV, need, budget and willingness to pay are unknown. Public business email only; deliverability not tested.",
+    "verified_date": "2026-09-15"
+  },
+  {
+    "name": "Innovative Moulds Crafts Private Limited",
+    "city": "Thirumudivakkam, Chennai",
+    "region": "Chennai metro / surrounding Tamil Nadu industrial belt",
+    "sector": "Plastics",
+    "products": "Plastic tooling, injection-moulded components and assemblies",
+    "factory_evidence": "Official site lists production at 69P/70P, 1st Main, SIDCO Industrial Estate, Thirumudivakkam and injection moulding/assembly capabilities.",
+    "leadership": "Site describes Sankar Babu as founder/chairman of predecessor Innovative Moulds & Dies and as starting IMC in 2020; exact present IMC title unconfirmed.",
+    "leadership_confidence": "Official site lists the stated person/role; present employment and buying authority not independently confirmed.",
+    "operational_contact": null,
+    "email": "sankarbabu@innovativemouldscraft.in",
+    "email_type": "Official named founder-associated business email",
+    "phone": "+91 98409 14446; +91 72045 51497",
+    "website": "https://www.innovativemouldscraft.in/",
+    "sources": [
+      {
+        "url": "https://www.innovativemouldscraft.in/",
+        "claim": "Founder history, production capabilities and published contact."
+      },
+      {
+        "url": "https://www.innovativemouldscraft.in/contact-us/",
+        "claim": "Plant address, email and phones."
+      }
+    ],
+    "fit_reason": "Inference: Founder-associated contact plus injection moulding/assembly supports direct discovery of a defined completion checkpoint.",
+    "discovery_topic": "Ask the founder whether assembly completion or station-ready delays are measurable enough for a narrowly scoped pilot.",
+    "caveat": "Official content read through search index; direct fetch returned 403. Site uses both 600132 and 600044 postcodes; confirm visit address. Manufacturing and contact facts are website claims, not site-visit verification. Existing CCTV, need, budget and willingness to pay are unknown. Public business email only; deliverability not tested.",
+    "verified_date": "2026-09-15"
+  },
+  {
+    "name": "R&A Plastics",
+    "city": "Gerugambakkam / Ekkaduthangal, Chennai",
+    "region": "Chennai metro / surrounding Tamil Nadu industrial belt",
+    "sector": "Plastics",
+    "products": "Plastic injection products, PET bottles and moulds",
+    "factory_evidence": "Official about page describes manufacturing and lists Unit1 at 7/4 Sanmugaraja Street, Gandhi Nagar, Ekkaduthangal and Unit2 at 182C Jawaharlal Street, Golden Industrial Estate, Gerugambakkam.",
+    "leadership": "Site lists Ravichandran M as founder.",
+    "leadership_confidence": "Official site lists the stated person/role; present employment and buying authority not independently confirmed.",
+    "operational_contact": null,
+    "email": "raplastics2016@gmail.com",
+    "email_type": "Official generic business email",
+    "phone": "+91 97876 13657; +91 97876 13656",
+    "website": "https://raplastics.com/",
+    "sources": [
+      {
+        "url": "https://raplastics.com/about-us/",
+        "claim": "Founder, manufacturing activities, unit addresses, email and phones."
+      }
+    ],
+    "fit_reason": "Inference: Founder-led injection/PET manufacturing supports a visit to identify repeat checks in the actual producing unit.",
+    "discovery_topic": "Ask which production unit has repetitive moulding or packing checks and whether existing cameras cover them.",
+    "caveat": "Company also trades products and machines; confirm relevant manufacturing unit and process before a pilot. Manufacturing and contact facts are website claims, not site-visit verification. Existing CCTV, need, budget and willingness to pay are unknown. Public business email only; deliverability not tested.",
+    "verified_date": "2026-09-15"
+  },
+  {
+    "name": "Plastronics (India)",
+    "city": "Ayanambakkam, Chennai",
+    "region": "Chennai metro / surrounding Tamil Nadu industrial belt",
+    "sector": "Plastics",
+    "products": "Injection-moulded plastic parts",
+    "factory_evidence": "Official about page describes plastic injection moulding and mass-production checking/finishing at No.5 Vanagaram Road, Ayanambakkam, Chennai 600095.",
+    "leadership": "No named current leader verified in reviewed official pages.",
+    "leadership_confidence": "Unknown; do not infer leadership from an email address.",
+    "operational_contact": null,
+    "email": "Sales@plastronicsindia.in",
+    "email_type": "Official generic sales email",
+    "phone": "+91 91764 84970",
+    "website": "https://www.plastronicsindia.in/",
+    "sources": [
+      {
+        "url": "https://www.plastronicsindia.in/about",
+        "claim": "Manufacturing process, family-business history, address, email and phone."
+      }
+    ],
+    "fit_reason": "Inference: Mass injection production with checking/finishing supports questions about inspection-station coverage and handover evidence.",
+    "discovery_topic": "Ask whether checking/finishing station coverage or shift handover events justify video-based exception alerts.",
+    "caveat": "Site names late founder Navarang Agarwal. He is not a current outreach contact; present family decision-maker unverified. Manufacturing and contact facts are website claims, not site-visit verification. Existing CCTV, need, budget and willingness to pay are unknown. Public business email only; deliverability not tested.",
+    "verified_date": "2026-09-15"
+  },
+  {
+    "name": "Nutech CNC",
+    "city": "Athipet, Chennai",
+    "region": "Chennai metro / surrounding Tamil Nadu industrial belt",
+    "sector": "Plastics and tooling",
+    "products": "Precision injection-moulded plastic components, moulds, dies and CNC parts",
+    "factory_evidence": "Official homepage confirms in-house injection machines and toolroom at No.162 Munusamy Street, Vanagaram Third Main Road, Athipet, Chennai 600058.",
+    "leadership": "Site lists A.N. Rajendiran as Managing Director.",
+    "leadership_confidence": "Official site lists the stated person/role; present employment and buying authority not independently confirmed.",
+    "operational_contact": null,
+    "email": "nutechcnc@gmail.com",
+    "email_type": "Official generic business email",
+    "phone": "+91 94444 17152",
+    "website": "https://nutechcnc.com/",
+    "sources": [
+      {
+        "url": "https://nutechcnc.com/",
+        "claim": "In-house component production, processes, factory contact and address."
+      },
+      {
+        "url": "https://nutechcnc.com/about",
+        "claim": "Managing Director name and engineering/production background."
+      }
+    ],
+    "fit_reason": "Inference: MD with production expertise and in-house moulding supports precise discovery around mould-change handoff and readiness.",
+    "discovery_topic": "Ask the MD whether mould-change handoff or production-station readiness is currently reconstructed manually from footage.",
+    "caveat": "Manufacturing and contact facts are website claims, not site-visit verification. Existing CCTV, need, budget and willingness to pay are unknown. Public business email only; deliverability not tested.",
+    "verified_date": "2026-09-15"
+  },
+  {
+    "name": "Kathiravan Moulds",
+    "city": "Thirumudivakkam, Chennai",
+    "region": "Chennai metro / surrounding Tamil Nadu industrial belt",
+    "sector": "Plastics and tooling",
+    "products": "Plastic moulds, injection-moulded components and assemblies",
+    "factory_evidence": "Official site states infrastructure for tooling, moulding, assemblies and plastic processing at Survey102 TPAC31/8 SIDCO Industrial Estate; UnitII TS43 Micro SIDCO, Thirumudivakkam.",
+    "leadership": "No named current leader verified in reviewed official pages.",
+    "leadership_confidence": "Unknown; do not infer leadership from an email address.",
+    "operational_contact": null,
+    "email": "kathiravanmoulds@gmail.com",
+    "email_type": "Official generic business email",
+    "phone": "+91 99627 60440; +91 44 48508257",
+    "website": "https://kathiravanmoulds.com/",
+    "sources": [
+      {
+        "url": "https://kathiravanmoulds.com/",
+        "claim": "Manufacturing/moulding/assembly capabilities, two unit addresses, email and phone."
+      },
+      {
+        "url": "https://kathiravanmoulds.com/contact_us.php",
+        "claim": "Unit contact details and founder-team history."
+      }
+    ],
+    "fit_reason": "Inference: Tooling, moulding and assemblies support a unit-level discussion of repeat production and a defined SOP checkpoint.",
+    "discovery_topic": "Ask which unit runs regular component moulding and whether a visible assembly/SOP checkpoint can support a small trial.",
+    "caveat": "Site describes three founding professionals without naming them. Confirm repeat-production scale versus tooling work. Manufacturing and contact facts are website claims, not site-visit verification. Existing CCTV, need, budget and willingness to pay are unknown. Public business email only; deliverability not tested.",
+    "verified_date": "2026-09-15"
+  }
+]

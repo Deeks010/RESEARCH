@@ -1,0 +1,133 @@
+[
+    {
+        "domain":  "anywherewithyouacres.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "anywherewithyouacres-com.mail.protection.outlook.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "arrowheadorchard.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "aspmx2.googlemail.com",
+                           "aspmx3.googlemail.com",
+                           "alt1.aspmx.l.google.com",
+                           "alt2.aspmx.l.google.com",
+                           "aspmx.l.google.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "bendybrookfarm.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "aspmx.l.google.com",
+                           "alt2.aspmx.l.google.com",
+                           "alt1.aspmx.l.google.com",
+                           "alt3.aspmx.l.google.com",
+                           "alt4.aspmx.l.google.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "bright.net",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "iw-mta.cniteam.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "gmail.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "alt4.gmail-smtp-in.l.google.com",
+                           "gmail-smtp-in.l.google.com",
+                           "alt2.gmail-smtp-in.l.google.com",
+                           "alt3.gmail-smtp-in.l.google.com",
+                           "alt1.gmail-smtp-in.l.google.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "henryriverfarms.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "aspmx.l.google.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "lawrenceorchards.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "mx001.netsol.xion.oxcs.net",
+                           "mx002.netsol.xion.oxcs.net",
+                           "mx003.netsol.xion.oxcs.net",
+                           "mx004.netsol.xion.oxcs.net"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "monroesorchard.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "mx2.privateemail.com",
+                           "mx1.privateemail.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "paulusfarmmarket.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "lastmx.spamexperts.net",
+                           "fallbackmx.spamexperts.eu",
+                           "mx.spamexperts.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "plantlanefarm.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "aspmx.l.google.com",
+                           "alt2.aspmx.l.google.com",
+                           "alt4.aspmx.l.google.com",
+                           "alt1.aspmx.l.google.com",
+                           "alt3.aspmx.l.google.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "rittmanorchards.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "rittmanorchards.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "springmountainfarms.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "mailstore1.secureserver.net",
+                           "smtp.secureserver.net"
+                       ],
+        "checked_date":  "2026-09-15"
+    },
+    {
+        "domain":  "wallycreekfarm.com",
+        "status":  "MX mail-routing records found",
+        "mail_hosts":  [
+                           "aspmx.l.google.com",
+                           "aspmx2.googlemail.com",
+                           "alt2.aspmx.l.google.com",
+                           "alt1.aspmx.l.google.com",
+                           "aspmx3.googlemail.com"
+                       ],
+        "checked_date":  "2026-09-15"
+    }
+]

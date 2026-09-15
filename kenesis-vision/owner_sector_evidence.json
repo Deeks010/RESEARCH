@@ -1,0 +1,42 @@
+{
+  "Packaging and printing": {
+    "analogy": "Spot AI describes an anonymous packaging manufacturer's use of video to review changeovers. Transferable discovery topic: setup and material handoffs. The customer and results are vendor-reported, not independently verified.",
+    "source": "https://www.spot.ai/blog/ndaa-compliant-camera-analytics",
+    "limit": "A printing or packaging prospect is not known to have this problem. Small text, print registration and seal defects can need dedicated inspection cameras."
+  },
+  "Food processing": {
+    "analogy": "Intenseye publishes food-plant scenarios involving visible access, protective clothing and movement around processing/packing areas. This is a product offering, not evidence these prospects have bought AI.",
+    "source": "https://www.intenseye.com/industries/food-beverage",
+    "limit": "Ordinary CCTV cannot prove microbial cleanliness, food temperature or chemical safety. Begin with an observable handling or zone event."
+  },
+  "Garments and textiles": {
+    "analogy": "Intenseye documents an anonymous thread manufacturer's use of camera analytics for traffic, housekeeping and area controls. Garment handoff timing is a related hypothesis, not the documented outcome of that case.",
+    "source": "https://www.intenseye.com/case-studies/a-leading-textile-manufacturer",
+    "limit": "Worker presence is not productivity. Stitching quality and fine fabric defects may not be visible on existing CCTV."
+  },
+  "Metalworking and machinery": {
+    "analogy": "Voxel's Piston Automotive case describes camera-based workplace safety in an automotive plant. Similar visible access and material-handling questions can be explored at metalworking factories.",
+    "source": "https://www.voxelai.com/customer-stories/piston-automotive-marion",
+    "limit": "A small fabrication shop is not equivalent to an automotive plant. Do not assume forklifts or standard cycles exist; measure the actual workflow."
+  },
+  "Furniture and wood": {
+    "analogy": "Spot AI's manufacturing page includes a named Elite Comfort Solutions testimonial about facility hazards. This supports exploring visual safety and handling around furniture production, not an exact product-fit claim.",
+    "source": "https://www.spot.ai/manufacturing",
+    "limit": "Cutting, finishing and furniture assembly differ from foam/bedding production. Surface finish and hidden joints need other inspection methods."
+  },
+  "Electrical and electronics": {
+    "analogy": "Retrocausal describes teaching and monitoring assembly processes from video. It supports exploring visible station handoffs or step completion; setup and validation remain process-specific.",
+    "source": "https://retrocausal.ai/",
+    "limit": "PCB defects, electrical function and correct torque cannot generally be established by ceiling CCTV. Avoid making them the initial offer."
+  },
+  "Plastics": {
+    "analogy": "Spot AI's manufacturing offering includes workstation events and workflow analysis. Applying these to moulding, trimming and packing is a cross-process inference, not a named plastics-client result.",
+    "source": "https://www.spot.ai/manufacturing",
+    "limit": "Automatic moulding can legitimately run unattended. Define the expected intervention before classifying a delay."
+  },
+  "Heat treatment": {
+    "analogy": "Kenesis's own rubber-curing pilot provides an adjacent timing pattern: process ready, then material removed. The transfer to metal treatment is an engineering hypothesis, not proven compatibility.",
+    "source": "https://www.spot.ai/manufacturing",
+    "limit": "The linked vendor offering supports general visual workflow analysis only. Furnace readiness, cooling requirements and metallurgical quality need authoritative process evidence."
+  }
+}

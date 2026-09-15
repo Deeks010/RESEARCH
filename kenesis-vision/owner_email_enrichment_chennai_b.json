@@ -1,0 +1,158 @@
+[
+  {
+    "name": "J-Tech Instruments",
+    "email": "jtechinstruments@gmail.com",
+    "person": "John Wesily — owner named by GST-data mirror.",
+    "role": "See named leader; mailbox ownership unconfirmed",
+    "classification": "general_only",
+    "source_urls": [
+      "https://www.jtechinstruments.in/contact"
+    ],
+    "evidence": "General company contact. Institutional syllabus independently names J. John Wesily as proprietor; no separately assigned owner email established.",
+    "checked_date": "2026-09-15"
+  },
+  {
+    "name": "Saravana Bhava Fabricators (SB Fabricators)",
+    "email": "saravanabhavafab@gmail.com",
+    "person": "PK Paneer — Proprietor.",
+    "role": "See named leader; mailbox ownership unconfirmed",
+    "classification": "general_only",
+    "source_urls": [
+      "https://sbfabs.com/"
+    ],
+    "evidence": "Official general inbox; proprietor named separately.",
+    "checked_date": "2026-09-15"
+  },
+  {
+    "name": "Sriram Industries",
+    "email": "rajendran@sriram-industries.com",
+    "person": "M Nagarajan — Proprietor and Founder.",
+    "role": "See named leader; mailbox ownership unconfirmed",
+    "classification": "general_only",
+    "source_urls": [
+      "https://www.sriram-industries.com/contact.htm"
+    ],
+    "evidence": "Published email belongs to finance/commercial head M. Rajendran, not proprietor M. Nagarajan. Useful route, not owner-direct.",
+    "checked_date": "2026-09-15"
+  },
+  {
+    "name": "Dhruv Comfort Seating",
+    "email": "dcs_chairs@yahoo.com",
+    "person": "Sunil Arya — Founder and MD.",
+    "role": "See named leader; mailbox ownership unconfirmed",
+    "classification": "general_only",
+    "source_urls": [
+      "https://www.dhruvcomfortseating.net/"
+    ],
+    "evidence": "Founder Sunil Arya and general business inbox published; no owner-specific assignment.",
+    "checked_date": "2026-09-15"
+  },
+  {
+    "name": "Ford Packaging",
+    "email": "ford_packaging@yahoo.com",
+    "person": "G. Dhamotharan — proprietor named in company profile",
+    "role": "See named leader; mailbox ownership unconfirmed",
+    "classification": "general_only",
+    "source_urls": [
+      "https://www.fordpackaging.co.in/about.html"
+    ],
+    "evidence": "Proprietor named in profile; email is general business contact.",
+    "checked_date": "2026-09-15"
+  },
+  {
+    "name": "R S Manufacturing",
+    "email": "siva@rsmanufacturing.in",
+    "person": "Siva — page describes supervision and proprietor experience; exact linkage qualified.",
+    "role": "See named leader; mailbox ownership unconfirmed",
+    "classification": "association_uncertain",
+    "source_urls": [
+      "https://sites.google.com/rsmanufacturing.in/rsmanufacturing/about-us"
+    ],
+    "evidence": "Siva is explicitly assigned this email. Prose links supervision and proprietor experience ambiguously; legal ownership remains uncertain.",
+    "checked_date": "2026-09-15"
+  },
+  {
+    "name": "VRM Polymers",
+    "email": "vrmpolymers2@gmail.com",
+    "person": "Arul — Proprietor.",
+    "role": "See named leader; mailbox ownership unconfirmed",
+    "classification": "general_only",
+    "source_urls": [
+      "https://www.vrmpolymers.com/"
+    ],
+    "evidence": "Official business inbox; no separate owner mailbox established.",
+    "checked_date": "2026-09-15"
+  },
+  {
+    "name": "Shahi Foods",
+    "email": "info@shahifoodproducts.com",
+    "person": "Founder Kader Ahmed Khan; another paragraph renders D K Ahmed Khan.",
+    "role": "See named leader; mailbox ownership unconfirmed",
+    "classification": "general_only",
+    "source_urls": [
+      "https://www.shahifoodproducts.com/contact-us.html"
+    ],
+    "evidence": "Three general inboxes published. Factory address now verified: Plot 16, K.R.C. Nagar, Uthukottai 602026. No owner-specific email found.",
+    "checked_date": "2026-09-15"
+  },
+  {
+    "name": "Base Electrical Engineering",
+    "email": "baseelectrical2014@gmail.com",
+    "person": "Magudapathi P — Proprietor.",
+    "role": "See named leader; mailbox ownership unconfirmed",
+    "classification": "general_only",
+    "source_urls": [
+      "https://www.baseelectricalengg.com/about.html"
+    ],
+    "evidence": "Magudapathi P named as proprietor; email is shared business contact.",
+    "checked_date": "2026-09-15"
+  },
+  {
+    "name": "JP Electricals",
+    "email": "jpelectrical2001@gmail.com",
+    "person": "A Anthony — owner.",
+    "role": "See named leader; mailbox ownership unconfirmed",
+    "classification": "general_only",
+    "source_urls": [
+      "https://jpelectricals.co.in/"
+    ],
+    "evidence": "General business contact; no separate A. Anthony address established.",
+    "checked_date": "2026-09-15"
+  },
+  {
+    "name": "Paramasivam Kitchen Equipments",
+    "email": "paramasivamkitchenequipment@gmail.com",
+    "person": "Babu — Proprietor.",
+    "role": "See named leader; mailbox ownership unconfirmed",
+    "classification": "general_only",
+    "source_urls": [
+      "https://www.paramasivamkitchenequipments.com/contact-us/"
+    ],
+    "evidence": "Official proprietor Babu and business email route; mailbox assignment not explicit. Address differs in secondary GST listing; confirm before visit.",
+    "checked_date": "2026-09-15"
+  },
+  {
+    "name": "CHIK / Designs Factory",
+    "email": "mailus.chik@gmail.com",
+    "person": "Current indexed page: Mahesh and Padmavathi, husband-and-wife founders; older rendered page spells founder Magesh.",
+    "role": "See named leader; mailbox ownership unconfirmed",
+    "classification": "association_uncertain",
+    "source_urls": [
+      "https://mychik.co.in/pages/about-us"
+    ],
+    "evidence": "Founders publish this address beneath their signed message. Treated as founder-associated shared business inbox, not individually verified owner mailbox. Page claims 2–3 daily orders; wholesale/total factory volume unknown.",
+    "checked_date": "2026-09-15"
+  },
+  {
+    "name": "Harshal Printing & Packaging",
+    "email": "hppchennai@gmail.com",
+    "person": "Prashanth Shah on company letterhead; D&B lists Prashant Shantilal Shah as proprietor.",
+    "role": "See named leader; mailbox ownership unconfirmed",
+    "classification": "general_only",
+    "source_urls": [
+      "https://gurunanakcollege.edu.in/files-new/dvv/criterion-1/1.3.4-projects-commerce.pdf"
+    ],
+    "evidence": "2021 company letterhead signed by proprietor gives general email. Current owner mailbox not found. Similar HPPL interview not merged without entity linkage.",
+    "checked_date": "2026-09-15"
+  }
+]
